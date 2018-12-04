@@ -6,7 +6,7 @@ const router = express.Router();
 // GET /phones - retrieve the list of phones
 router.get("/houses", (req, res, next)=>{
   House.find()
-    .limit(21)
+    .limit(99)
     // send the query results as a JSON response to the client
     .then(houseResults => res.json(houseResults))
     .catch(err => next(err));

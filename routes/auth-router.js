@@ -5,87 +5,77 @@ const User = require("../models/user-model.js");
 
 const router = express.Router();
 
-
-router.get("/signup", (req, res, next) => {
-  res.render("auth-views/signup-form.hbs");
-});
-
-router.post("/process-signup", (req, res, next) => {
+router.post("/signup", (req, res, next) => {
   const { fullName, email, originalPassword } = req.body;
 
   if (!originalPassword || originalPassword.match(/[0-9]/) === null) {
-    // "req.flash()" is defined by the "connect-flash" npm package
-    // (2 arguments: message type and message text)
-    req.flash("error", "Password can't be blank and must contain a number.");
-    // redirect to signup page if password is blank or doesn't container a digit
-    res.redirect("/signup");
-    return; // use "return" instead of a big else
+
+    next(new Error('Incorrect Password'))
+    return; 
   }
 
-  // encrypt the submitted password before saving
   const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
 
   User.create({ fullName, email, encryptedPassword })
     .then(userDoc => {
-      // "req.flash()" is defined by the "connect-flash" npm package
-      // (2 arguments: message type and message text)
-      req.flash("success", "Signup success! 😁");
-      res.redirect("/");
+      // log in the user automatically when they sign up
+      req.logIn(userDoc,()=>{
+        // hide "encryptedpassword" before sending the JSON (security risk)
+        userDoc.encryptedPassword = undefined;
+        res.json({userDoc})
+      })
     })
     .catch(err => next(err));
 });
-
-router.get("/login", (req, res, next) => {
-  res.render("auth-views/login-form.hbs");
-});
-
-router.post("/process-login", (req, res, next) => {
-  const { email, originalPassword } = req.body;
-
-  // search the database for a user with that email
-  User.findOne({ email: { $eq: email } })
+  
+router.post("/login", (req, res, next) => {
+    const { email, originalPassword } = req.body;
+    
+    User.findOne({ email: { $eq: email } })
     .then(userDoc => {
-      // "userDoc" will be empty if the email is wrong
       if (!userDoc) {
-        // "req.flash()" is defined by the "connect-flash" npm package
-        // (2 arguments: message type and message text)
-        req.flash("error", "Incorrect email. 🤦‍♂️");
-        res.redirect("/login");
-        return; // use "return" instead of a big else
+        next(new Error('Incorrect Email'))
+        return; 
       }
-
+      
       // check the password
       const { encryptedPassword } = userDoc;
       // "compareSync()" will return FALSE if "originalPassword" is WRONG
       if (!bcrypt.compareSync(originalPassword, encryptedPassword)) {
-        // "req.flash()" is defined by "connect-flash"
-        // (2 arguments: message type and message text)
-        req.flash("error", "Incorrect password. 🤯");
-        // redirect to the login page if the password is wrong
-        res.redirect("/login");
+        next(new Error('Incorrect Password'))
+        return;
       }
       else {
         // "req.logIn()" is a Passport method that calls "serializeUser()"
         // (that saves the USER ID in the session)
         req.logIn(userDoc, () => {
-          // "req.flash()" is defined by "connect-flash"
-          // (2 arguments: message type and message text)
-          req.flash("success", "Login success! 😎");
-          // redirect to the home page if the password is CORRECT
-          res.redirect("/");
+          // hide "encryptedpassword" before sending the JSON (security risk)
+          userDoc.encryptedPassword = undefined;
+          res.json({userDoc})
         });
       }
     })
     .catch(err => next(err));
 });
 
-router.get("/logout", (req, res, next) => {
+router.delete("/logout", (req, res, next) => {
   // "req.logOut()" is a Passport method that removes the user ID from session
   req.logOut();
 
-  req.flash("success", "Logged out successfully! 👋🏽");
-  res.redirect("/");
+  // send empty "userDoc" when you log out
+  res.json({userDoc : null})
 });
+
+// create a route to pass the req.user info from Express to React
+router.get("/checkuser", (req, res, next) => {
+  if(req.user){
+    req.user.encryptedPassword = undefined;
+    res.json({userDoc : req.user});
+  }
+  else{
+    res.json({userDoc : null})
+  }
+})
 
 
 module.exports = router;
