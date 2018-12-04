@@ -20,10 +20,17 @@ router.get("/houses", (req, res, next)=>{
 //     .catch(err => next(err));
 // })
 
-// GET /phones/:id - Retrieve the details of ONE phone
 router.get("/houses/:id", (req,res,next)=>{
   const {id} = req.params
-  House.findOne({recordid : {$eq : id}})
+  House.findOne({"recordid" : {$eq : id}})
+  .then(houseDoc => res.json(houseDoc))
+  .catch(err=>next(err))
+})
+
+router.get("/search/:where", (req,res,next)=>{
+  const {where} = req.params
+  console.log(req.params)
+  House.find({"fields.city" : {$eq : where}})
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
 })
