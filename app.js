@@ -7,7 +7,11 @@ const mongoose     = require('mongoose');
 const logger       = require('morgan');
 const path         = require('path');
 const cors         = require('cors');
+const session      = require('express-session');
+const MongoStore   = require('connect-mongo')(session);
+const passport     = require('passport');
 
+require("./config/passport-setup.js")
 
 mongoose
   .connect('mongodb://localhost/airbnb-server', {useNewUrlParser: true})
@@ -35,8 +39,23 @@ app.use(cors({
   }
 ))
 
-const houseRouter = require("./routes/house-router.js")
+app.use(session({
+  secret : "fD6/keDuXP?teXf#r/N<)<7Gnu[-!x)GzcgL6w,",
+  resave : "",
+  saveUninitialized : true,
+  store: new MongoStore({mongooseConnection: mongoose.connection})
+}));
 
+app.use(passport.initialize());
+app.use(passport.session());
+
+
+
+const houseRouter = require("./routes/house-router.js")
 app.use('/api', houseRouter)
+
+const authRouter = require("./routes/auth-router.js")
+app.use('/api', authRouter)
+
 
 module.exports = app;
