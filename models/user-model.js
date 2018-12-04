@@ -19,7 +19,7 @@ const userSchema = new Schema(
     avatar: {
       type: String
     },
-    encryptedPassword: { type: String },
+    encryptedPassword: { type: String, required : true},
     role: {
       type: String,
       enum: ["normal", "admin"],
@@ -33,12 +33,7 @@ const userSchema = new Schema(
   }
 );
 
-// define the "isAdmin" virtual property (it's really like a method)
-// CAN'T be an arrow functions because it uses THIS
-// (we use thise to get around the limits on if conditions in HBS files)
-userSchema.virtual("isAdmin").get(function() {
-  return this.role === "admin";
-});
+
 
 // "User" model -> "users" collection
 const User = mongoose.model("User", userSchema);
