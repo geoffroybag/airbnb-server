@@ -23,8 +23,8 @@ router.get("/houses", (req, res, next)=>{
 
 router.post("/houses", (req, res, next) => {
   const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url } = req.body;
-
-  House.create({ property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url })
+  const recordid = Math.floor(Math.random()*1000000000000)
+  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url })
   .then(houseDoc => res.json(houseDoc))
   .catch(err => next(err))
 })
