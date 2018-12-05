@@ -29,7 +29,7 @@ const houseSchema = new Schema({
   has_availability : {type : Boolean},
   cleaning_fee : {type : Number},
   guests_included : {type : Number},
-  room_type : {type : Number},
+  room_type : {type : String},
   amenities : [{type : String}],
   geopoint : [{type : String}],
 }, {
