@@ -6,11 +6,12 @@ const router = express.Router();
 // GET /phones - retrieve the list of phones
 router.get("/houses", (req, res, next)=>{
   House.find()
-    .limit(99)
+    // .limit(99)
     // send the query results as a JSON response to the client
     .then(houseResults => res.json(houseResults))
     .catch(err => next(err));
   })
+
   
 //   // POST /phones - Create a new phone (add to list)
 //   router.post("/phones", (req, res, next)=>{
@@ -19,6 +20,14 @@ router.get("/houses", (req, res, next)=>{
 //     .then(phoneDoc => res.json(phoneDoc))
 //     .catch(err => next(err));
 // })
+
+router.post("/houses", (req, res, next) => {
+  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url } = req.body;
+
+  House.create({ property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url })
+  .then(houseDoc => res.json(houseDoc))
+  .catch(err => next(err))
+})
 
 router.get("/houses/:id", (req,res,next)=>{
   const {id} = req.params
