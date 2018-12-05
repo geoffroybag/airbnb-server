@@ -30,7 +30,7 @@ router.get("/houses/:id", (req,res,next)=>{
 router.get("/search/:where", (req,res,next)=>{
   const {where} = req.params
   console.log(req.params)
-  House.find({"fields.city" : {$eq : where}})
+  House.find({"city" : {$eq : where}})
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
 })
