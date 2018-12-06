@@ -77,5 +77,15 @@ router.get("/checkuser", (req, res, next) => {
   }
 })
 
+// router.post("/settinguser/:userId", (req, res, next) => {
+//   // find the user ID
+//   const { fullName, email } = req.body;
+//   User.findByIdAndUpdate({ fullName, email })
+//   .then(userDoc => {
+//     res.json(userDoc)
+//   }))
+//   .catch(err => next(err));
+// })
+
 
 module.exports = router;
