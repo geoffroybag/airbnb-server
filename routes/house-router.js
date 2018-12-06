@@ -5,7 +5,6 @@ const User = require("../models/user-model.js");
 
 const router = express.Router();
 
-// GET /phones - retrieve the list of phones
 router.get("/houses", (req, res, next)=>{
   House.find()
     // .limit(99)
@@ -13,15 +12,6 @@ router.get("/houses", (req, res, next)=>{
     .then(houseResults => res.json(houseResults))
     .catch(err => next(err));
   })
-
-  
-//   // POST /phones - Create a new phone (add to list)
-//   router.post("/phones", (req, res, next)=>{
-//     const{brand, model, price, image, specs}  = req.body
-//     Phone.create({brand, model, price, image, specs})
-//     .then(phoneDoc => res.json(phoneDoc))
-//     .catch(err => next(err));
-// })
 
 router.post("/houses", (req, res, next) => {
   const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url, owner } = req.body;
@@ -33,7 +23,7 @@ router.post("/houses", (req, res, next) => {
 
 router.get("/houses/:id", (req,res,next) => {
   const {id} = req.params
-  House.findOne({"recordid" : {$eq : id}})
+  House.findById(id)
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
 })
