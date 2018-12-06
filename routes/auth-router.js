@@ -77,7 +77,20 @@ router.get("/checkuser", (req, res, next) => {
   }
 })
 
-// router.post("/settinguser/:userId", (req, res, next) => {
+
+
+router.get("/settinguser/:userId", (req, res, next) => {
+  
+  const { userId } = req.params;
+  
+  User.findById(userId)
+  .then(userDoc => {
+    res.json(userDoc);
+  })
+  .catch(err => next(err))
+})
+
+// router.post("/settinguser", (req, res, next) => {
 //   // find the user ID
 //   const { fullName, email } = req.body;
 //   User.findByIdAndUpdate({ fullName, email })
@@ -86,6 +99,20 @@ router.get("/checkuser", (req, res, next) => {
 //   }))
 //   .catch(err => next(err));
 // })
+
+router.put("/settinguser/:userId", (req, res, next) => {
+  const { userId } = req.params;
+  const { fullName, email, originalPassword } = req.body;
+
+  const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
+
+  User.findByIdAndUpdate(userId, { $set: { fullName, email, encryptedPassword } }, {runValidators: true, new: true})
+  .then(userDoc => {
+    res.json(userDoc);
+  })
+  .catch(err => next(err));
+})
+
 
 
 module.exports = router;
