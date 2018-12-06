@@ -19,7 +19,13 @@ const userSchema = new Schema(
     avatar: {
       type: String
     },
-    encryptedPassword: { type: String, required : true},
+    favorites :{
+      type : Array
+    },
+    encryptedPassword: { 
+      type: String, 
+      required : true
+    },
     role: {
       type: String,
       enum: ["normal", "admin"],

@@ -57,5 +57,8 @@ app.use('/api', houseRouter)
 const authRouter = require("./routes/auth-router.js")
 app.use('/api', authRouter)
 
+const userRouter = require("./routes/user-router.js")
+app.use('/api', userRouter)
+
 
 module.exports = app;
