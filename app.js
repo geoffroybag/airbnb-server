@@ -60,5 +60,8 @@ app.use('/api', authRouter)
 const calendarRouter = require("./routes/calendar-router.js")
 app.use('/api', calendarRouter)
 
+const userRouter = require("./routes/user-router.js")
+app.use('/api', userRouter)
+
 
 module.exports = app;

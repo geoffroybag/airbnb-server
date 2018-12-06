@@ -78,4 +78,31 @@ router.get("/checkuser", (req, res, next) => {
 })
 
 
+router.get("/settinguser/:userId", (req, res, next) => {
+  
+  const { userId } = req.params;
+  
+  User.findById(userId)
+  .then(userDoc => {
+    res.json(userDoc);
+  })
+  .catch(err => next(err))
+})
+
+
+router.put("/settinguser/:userId", (req, res, next) => {
+  const { userId } = req.params;
+  const { fullName, email, originalPassword } = req.body;
+
+  const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
+
+  User.findByIdAndUpdate(userId, { $set: { fullName, email, encryptedPassword } }, {runValidators: true, new: true})
+  .then(userDoc => {
+    res.json(userDoc);
+  })
+  .catch(err => next(err));
+})
+
+
+
 module.exports = router;
