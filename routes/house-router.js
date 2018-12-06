@@ -21,7 +21,7 @@ router.post("/houses", (req, res, next) => {
 
 router.get("/houses/:id", (req,res,next)=>{
   const {id} = req.params
-  House.findOne({"recordid" : {$eq : id}})
+  House.findById(id)
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
 })

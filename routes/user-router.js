@@ -7,7 +7,7 @@ router.put("/favorites/:id", (req,res,next)=>{
   const {id} = req.params
   User.findByIdAndUpdate(
     req.user._id,
-    {$push: {favorites : id}},
+    {$push : {favorites : {houses : id}}},
     {runValidators: true, new: true},
   )
   .then(currentUser => res.json(currentUser))
@@ -18,7 +18,7 @@ router.put("/favorites/:id/delete", (req,res,next)=>{
   const {id} = req.params
   User.findByIdAndUpdate(
     req.user._id,
-    {$pull: {favorites : id}},
+    {$pull : {favorites : {houses : id}}},
     {runValidators: true, new: true},
   )
   .then(currentUser => res.json(currentUser))

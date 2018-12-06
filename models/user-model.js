@@ -19,9 +19,9 @@ const userSchema = new Schema(
     avatar: {
       type: String
     },
-    favorites :{
-      type : Array
-    },
+    favorites : [{
+      houses: {type : Schema.Types.ObjectId, ref: "House",required : true}
+    }],
     encryptedPassword: { 
       type: String, 
       required : true
