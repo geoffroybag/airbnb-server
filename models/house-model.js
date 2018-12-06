@@ -4,6 +4,10 @@ const Schema = mongoose.Schema
 const mongoolia = require('mongoolia').default;
 
 const houseSchema = new Schema({
+  owner: {
+    type: Schema.Types.ObjectId,
+    ref: "User"
+  },
   datasetid: {type : String, algoliaIndex: true},
   recordid: {type : String, algoliaIndex: true},
     review_scores_accuracy:{type : Number, algoliaIndex: true},

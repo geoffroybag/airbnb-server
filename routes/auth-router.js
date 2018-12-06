@@ -78,7 +78,6 @@ router.get("/checkuser", (req, res, next) => {
 })
 
 
-
 router.get("/settinguser/:userId", (req, res, next) => {
   
   const { userId } = req.params;
@@ -90,15 +89,6 @@ router.get("/settinguser/:userId", (req, res, next) => {
   .catch(err => next(err))
 })
 
-// router.post("/settinguser", (req, res, next) => {
-//   // find the user ID
-//   const { fullName, email } = req.body;
-//   User.findByIdAndUpdate({ fullName, email })
-//   .then(userDoc => {
-//     res.json(userDoc)
-//   }))
-//   .catch(err => next(err));
-// })
 
 router.put("/settinguser/:userId", (req, res, next) => {
   const { userId } = req.params;

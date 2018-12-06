@@ -1,6 +1,8 @@
 const express = require("express");
 const House = require("../models/house-model.js");
 
+const User = require("../models/user-model.js");
+
 const router = express.Router();
 
 // GET /phones - retrieve the list of phones
@@ -22,14 +24,14 @@ router.get("/houses", (req, res, next)=>{
 // })
 
 router.post("/houses", (req, res, next) => {
-  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url } = req.body;
+  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url, owner } = req.body;
   const recordid = Math.floor(Math.random()*1000000000000)
-  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url })
+  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url, owner })
   .then(houseDoc => res.json(houseDoc))
   .catch(err => next(err))
 })
 
-router.get("/houses/:id", (req,res,next)=>{
+router.get("/houses/:id", (req,res,next) => {
   const {id} = req.params
   House.findOne({"recordid" : {$eq : id}})
   .then(houseDoc => res.json(houseDoc))
@@ -42,6 +44,25 @@ router.get("/search/:where", (req,res,next)=>{
   House.find({"city" : {$eq : where}})
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
+})
+
+// Get the houses that matches the user email
+
+router.get("/userhouses", (req, res, next) => {
+
+  House.find({"owner" : {$eq: req.user._id}})
+  .then(houseDoc => res.json(houseDoc))
+  .catch(err => next(err));
+})
+
+router.delete("/deletehouse/:id", (req, res, next) => {
+  const { id } = req.params;
+
+  House.findByIdAndRemove(id)
+  .then(houseDoc => {
+    res.send(houseDoc)
+  })
+  .catch(err => next(err));
 })
 
 // // PUT /phones/:id - Update ONE phone
