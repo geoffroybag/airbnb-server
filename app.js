@@ -57,5 +57,8 @@ app.use('/api', houseRouter)
 const authRouter = require("./routes/auth-router.js")
 app.use('/api', authRouter)
 
+const calendarRouter = require("./routes/calendar-router.js")
+app.use('/api', calendarRouter)
+
 
 module.exports = app;
