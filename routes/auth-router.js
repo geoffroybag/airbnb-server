@@ -6,7 +6,7 @@ const User = require("../models/user-model.js");
 const router = express.Router();
 
 router.post("/signup", (req, res, next) => {
-  const { fullName, email, originalPassword } = req.body;
+  const { fullName, email, originalPassword, avatar } = req.body;
 
   if (!originalPassword || originalPassword.match(/[0-9]/) === null) {
 
@@ -16,7 +16,7 @@ router.post("/signup", (req, res, next) => {
 
   const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
 
-  User.create({ fullName, email, encryptedPassword })
+  User.create({ fullName, email, encryptedPassword, avatar })
     .then(userDoc => {
       // log in the user automatically when they sign up
       req.logIn(userDoc,()=>{
