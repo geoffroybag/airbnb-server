@@ -37,8 +37,8 @@ router.get("/houses/:id", (req,res,next) => {
 // })
 
 router.post("/search", (req, res, next) => {
-  const { arrayOfDates, where,  } = req.body;
-  House.find( {"city" : {$eq : where}, availableDates: {$all : arrayOfDates} })
+  const { arrayOfDates, where, guest } = req.body;
+  House.find( {"city" : {$eq : where}, availableDates: {$all : arrayOfDates}, accommodates : {$gte : guest} })
   .then(houseDoc => {
       res.json(houseDoc)
   })

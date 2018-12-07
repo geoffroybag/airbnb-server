@@ -8841,7 +8841,7 @@ mongoose
     48.8695700484,
     2.27499935873
     ],
-    accommodates: 2,
+    accommodates: 4,
     host_listings_count: 1,
     requires_license: "False",
     minimum_nights: 1,
