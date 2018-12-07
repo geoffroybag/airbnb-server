@@ -79,7 +79,6 @@ router.get("/checkuser", (req, res, next) => {
 
 
 router.get("/settinguser/:userId", (req, res, next) => {
-  
   const { userId } = req.params;
   
   User.findById(userId)
