@@ -13,16 +13,19 @@ router.get("/houses", (req, res, next)=>{
     .catch(err => next(err));
   })
 
+// Create a house when the become a host form is submitted
 router.post("/houses", (req, res, next) => {
-  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url, owner } = req.body;
+  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, picture_url, owner } = req.body;
   const recordid = Math.floor(Math.random()*1000000000000)
-  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, title, description, country, city, price, picture_url, owner })
+  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, picture_url, owner })
   .then(houseDoc => res.json(houseDoc))
   .catch(err => next(err))
 })
 
+// Get the house fields
 router.get("/houses/:id", (req,res,next) => {
-  const {id} = req.params
+  const {id} = req.params;
+
   House.findById(id)
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
@@ -46,8 +49,8 @@ router.post("/search", (req, res, next) => {
 });
 
 
-// Get the houses that matches the user email
 
+// Get the houses that matches the user email then render it in the UserHouses component
 router.get("/userhouses", (req, res, next) => {
 
   House.find({"owner" : {$eq: req.user._id}})
@@ -55,6 +58,7 @@ router.get("/userhouses", (req, res, next) => {
   .catch(err => next(err));
 })
 
+// Delete a house
 router.delete("/deletehouse/:id", (req, res, next) => {
   const { id } = req.params;
 
@@ -63,6 +67,20 @@ router.delete("/deletehouse/:id", (req, res, next) => {
     res.send(houseDoc)
   })
   .catch(err => next(err));
+})
+
+// Edit a house - Form in the EditPlace component
+router.put("/houses/:id", (req, res, next) => {
+  const { id } = req.params;
+  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, picture_url } = req.body;
+
+  House.findByIdAndUpdate(id, { $set: { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, picture_url } }, { runValidators: true, new: true })
+  .then(houseDoc => {
+    res.send(houseDoc)
+  })
+  .catch(err => {
+    console.log("Something went wrong", err);
+  })
 })
 
 // // PUT /phones/:id - Update ONE phone

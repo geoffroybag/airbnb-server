@@ -6,7 +6,7 @@ const User = require("../models/user-model.js");
 const router = express.Router();
 
 router.post("/signup", (req, res, next) => {
-  const { fullName, email, originalPassword } = req.body;
+  const { fullName, email, originalPassword, avatar } = req.body;
 
   if (!originalPassword || originalPassword.match(/[0-9]/) === null) {
 
@@ -16,7 +16,7 @@ router.post("/signup", (req, res, next) => {
 
   const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
 
-  User.create({ fullName, email, encryptedPassword })
+  User.create({ fullName, email, encryptedPassword, avatar })
     .then(userDoc => {
       // log in the user automatically when they sign up
       req.logIn(userDoc,()=>{
@@ -79,7 +79,6 @@ router.get("/checkuser", (req, res, next) => {
 
 
 router.get("/settinguser/:userId", (req, res, next) => {
-  
   const { userId } = req.params;
   
   User.findById(userId)
@@ -92,11 +91,11 @@ router.get("/settinguser/:userId", (req, res, next) => {
 
 router.put("/settinguser/:userId", (req, res, next) => {
   const { userId } = req.params;
-  const { fullName, email, originalPassword } = req.body;
+  const { fullName, email, originalPassword, avatar } = req.body;
 
   const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
 
-  User.findByIdAndUpdate(userId, { $set: { fullName, email, encryptedPassword } }, {runValidators: true, new: true})
+  User.findByIdAndUpdate(userId, { $set: { fullName, email, encryptedPassword, avatar } }, {runValidators: true, new: true})
   .then(userDoc => {
     res.json(userDoc);
   })
