@@ -28,13 +28,23 @@ router.get("/houses/:id", (req,res,next) => {
   .catch(err=>next(err))
 })
 
-router.get("/search/:where", (req,res,next)=>{
-  const {where} = req.params
-  console.log(req.params)
-  House.find({"city" : {$eq : where}})
-  .then(houseDoc => res.json(houseDoc))
-  .catch(err=>next(err))
-})
+// router.get("/search/:where", (req,res,next)=>{
+//   const {where} = req.params
+//   console.log(req.params)
+//   House.find({"city" : {$eq : where}})
+//   .then(houseDoc => res.json(houseDoc))
+//   .catch(err=>next(err))
+// })
+
+router.post("/search", (req, res, next) => {
+  const { arrayOfDates, where,  } = req.body;
+  House.find( {"city" : {$eq : where}, availableDates: {$all : arrayOfDates} })
+  .then(houseDoc => {
+      res.json(houseDoc)
+  })
+  .catch(err => next(err));
+});
+
 
 // Get the houses that matches the user email
 
