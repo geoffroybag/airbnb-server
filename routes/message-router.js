@@ -3,7 +3,7 @@ const User = require("../models/user-model");
 const Message = require("../models/message-model");
 
 const router = express.Router();
-const io = require("socket.io")(http);
+// const io = require("socket.io")(http);
 
 //GET THE ID OF THE USER
 
@@ -17,8 +17,8 @@ router.post("/chat", (req, res, next) => {
   .catch(err => next(err));
 });
 
-io.on("connection", function(socket){
-  console.log("A user connected")
-});
+// io.on("connection", function(socket){
+//   console.log("A user connected")
+// });
 
 module.exports = router;
