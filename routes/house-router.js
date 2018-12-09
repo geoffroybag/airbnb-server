@@ -2,6 +2,7 @@ const express = require("express");
 const House = require("../models/house-model.js");
 
 const User = require("../models/user-model.js");
+const Booking = require("../models/booking-model.js");
 
 const router = express.Router();
 
@@ -83,26 +84,29 @@ router.put("/houses/:id", (req, res, next) => {
   })
 })
 
-// // PUT /phones/:id - Update ONE phone
-// router.put("/phones/:id", (req,res,next)=>{
-//   const {id} = req.params
-//   const {brand, model, price, image, specs} = req.body
-  
-//   Phone.findByIdAndUpdate(
-//     id, 
-//     {$set : {brand, model, price, image, specs}}, 
-//     {runValidators : true, new :true}
-//     )
-//     .then(phoneDoc => res.json(phoneDoc))
-//     .catch(err=>next(err))
-// })
 
-// // DELETE /phones/:id - Delete ONE phone
-// router.delete("/phones/:id", (req,res,next)=>{
-//   const {id} = req.params
-//   Phone.findByIdAndRemove(id)
-//   .then(phoneDoc => res.json(phoneDoc))
-//   .catch(err=>next(err))
-// })
+
+router.post("/booking/:houseId", (req, res, next) => {
+  const { arrayOfDates, where, guest, price } = req.body;
+  const { houseId } = req.params;
+  Booking.create({ arrayOfDates, guest , houseId, price, houseId})
+    .then(userDoc => {
+        res.json(userDoc)
+      })
+    .catch(err => next(err));
+});
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 module.exports = router;
