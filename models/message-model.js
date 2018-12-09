@@ -5,16 +5,18 @@ const Schema = mongoose.Schema;
 const messageSchema = new Schema(
   {
     // document structure & rules defined here
-    object: {
-      type: String,
-      required: true,
-      minlength: 2
-    },
-    // document structure & rules defined here
     message: {
       type: String,
       required: true,
       minlength: 10
+    },
+    recipient: {
+      type: Schema.Types.ObjectId,
+      ref: "User"
+    },
+    sender: {
+      type: Schema.Types.ObjectId,
+      ref: "User"
     },
   },
   {
