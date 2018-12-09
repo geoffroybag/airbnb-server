@@ -15,6 +15,7 @@ router.post("/message", (req, res, next) => {
 
 router.get('/all-messages', (req,res,next)=>{
   Message.find({sender : {$eq : req.user._id}})
+  .populate("sender")
   .then(messageDoc => res.json(messageDoc))
   .catch(err => next(err))
 })
