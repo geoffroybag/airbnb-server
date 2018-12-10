@@ -17,9 +17,9 @@ router.get("/houses", (req, res, next)=>{
 
 // Create a house when the become a host form is submitted
 router.post("/houses", (req, res, next) => {
-  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, xl_picture_url, xl_picture_url_2, xl_picture_url_3, owner } = req.body;
+  const { property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, xl_picture_url, xl_picture_url_2, xl_picture_url_3, owner, availableDates } = req.body;
   const recordid = Math.floor(Math.random()*1000000000000)
-  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, xl_picture_url, xl_picture_url_2, xl_picture_url_3, owner })
+  House.create({ recordid, property_type, room_type, accomodates, beds, bedrooms, bathrooms, neighbourhood, amenities, name, description, country, city, price, xl_picture_url, xl_picture_url_2, xl_picture_url_3, owner, availableDates })
   .then(houseDoc => res.json(houseDoc))
   .catch(err => next(err))
 })

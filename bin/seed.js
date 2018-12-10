@@ -7338,7 +7338,6 @@ mongoose
     ]
 
 
-
 House.create(houses)
   .then(houseResult =>{
       console.log(`inserted ${houseResult.length} projects`)
