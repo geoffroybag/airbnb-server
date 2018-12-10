@@ -6,9 +6,9 @@ const router = express.Router();
 // const io = require("socket.io")(http);
 
 router.post("/message", (req, res, next) => {
-  const {message, recipient} = req.body
+  const {message} = req.body;
   // id of the message
-  Message.create({ message, recipient, sender  : req.user._id})
+  Message.create({ message })
   .then(messageDoc => res.json(messageDoc))
   .catch(err => next(err))
 });
