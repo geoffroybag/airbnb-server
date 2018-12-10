@@ -96,7 +96,14 @@ router.post("/booking/:houseId", (req, res, next) => {
       })
     .catch(err => next(err));
 });
-  
+
+router.get("/bookings-list", (req,res,next)=>{
+  Booking.find()
+  .populate("houseId")
+  .sort({ createdAt: -1 })
+  .then(currentUser => res.json(currentUser))
+  .catch(err=>next(err))
+})
 
 
 
