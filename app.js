@@ -4,6 +4,10 @@ const bodyParser   = require('body-parser');
 const cookieParser = require('cookie-parser');
 const express      = require('express');
 const mongoose     = require('mongoose');
+const socketIo     = require("socket.io");
+const axios        = require("axios");
+
+
 const logger       = require('morgan');
 const path         = require('path');
 const cors         = require('cors');
