@@ -8,6 +8,7 @@ const router = express.Router();
 
 router.get("/houses", (req, res, next)=>{
   House.find()
+  .sort({createdAt : -1})
     // .limit(99)
     // send the query results as a JSON response to the client
     .then(houseResults => res.json(houseResults))
@@ -87,9 +88,9 @@ router.put("/houses/:id", (req, res, next) => {
 
 
 router.post("/booking/:houseId", (req, res, next) => {
-  const { arrayOfDates, where, guest, price } = req.body;
+  const { arrayOfDates, where, guests, price } = req.body;
   const { houseId } = req.params;
-  Booking.create({ arrayOfDates, guest , houseId, price, houseId})
+  Booking.create({ arrayOfDates, guests , houseId, price, houseId})
     .then(userDoc => {
         res.json(userDoc)
       })

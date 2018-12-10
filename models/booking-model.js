@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 const bookingSchema = new Schema(
 {
   arrayOfDates : {type : Array, required : true},
-  guest : {type : Number, required : true},
+  guests : {type : Number, required : true},
   price : {type : Number, required : true},
   houseId : {type : Schema.Types.ObjectId, ref: "House",required : true}
 }
