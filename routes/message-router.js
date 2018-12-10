@@ -7,7 +7,7 @@ const router = express.Router();
 
 
 router.post("/message", (req, res, next) => {
-  const {message, recipient} = req.body
+  const {message} = req.body;
   // id of the message
   Message.create({ 
     message : {guestMessage: message}, 
