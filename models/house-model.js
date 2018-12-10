@@ -59,6 +59,8 @@ const houseSchema = new Schema({
       extra_people:{type : Number, algoliaIndex: true},
       smart_location:{type : String, algoliaIndex: true},
       xl_picture_url:{type : String, algoliaIndex: true},
+      xl_picture_url_2:{type : String, algoliaIndex: true},
+      xl_picture_url_3:{type : String, algoliaIndex: true},
       last_review:{type : Date, algoliaIndex: true},
       host_verifications:{type : Array, algoliaIndex: true},
       market:{type : String, algoliaIndex: true},
