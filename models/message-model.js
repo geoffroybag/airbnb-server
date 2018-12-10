@@ -5,11 +5,10 @@ const Schema = mongoose.Schema;
 const messageSchema = new Schema(
   {
     // document structure & rules defined here
-    message: {
-      type: String,
-      required: true,
-      minlength: 10
-    },
+    message : [{
+      guestMessage: {type : String},
+      hostMessage: {type : String}
+    }],
     recipient: {
       type: Schema.Types.ObjectId,
       ref: "User"
