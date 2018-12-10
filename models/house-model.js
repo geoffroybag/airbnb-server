@@ -95,7 +95,7 @@ const houseSchema = new Schema({
       room_type: {type : String, algoliaIndex: true},
       host_has_profile_pic: {type : String, algoliaIndex: true},
       host_acceptance_rate: {type : String, algoliaIndex: true},
-      availableDates : {type: Array}
+      availableDates : {type: Array},
   }, {
   timestamps : true
 });
