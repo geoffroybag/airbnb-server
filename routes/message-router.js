@@ -7,12 +7,14 @@ const router = express.Router();
 
 
 router.post("/message", (req, res, next) => {
-  const {message, recipient} = req.body;
-  // id of the message
+  const {message, recipient, arrayOfDates, city, price} = req.body;
   Message.create({ 
     message : {guestMessage: message}, 
     recipient : recipient,
-    sender  : req.user._id
+    sender  : req.user._id,
+    arrayOfDates: arrayOfDates,
+    city: city,
+    price: price,
     })
   .then(messageDoc => res.json(messageDoc))
   .catch(err => next(err))

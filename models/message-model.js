@@ -17,6 +17,15 @@ const messageSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "User"
     },
+    arrayOfDates: {
+      type: Array,
+    },
+    city: {
+      type: String,
+    },
+    price: {
+      type: Number,
+    },
   },
   {
     // additional settings for the Schema class

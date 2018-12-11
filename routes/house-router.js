@@ -27,8 +27,9 @@ router.post("/houses", (req, res, next) => {
 // Get the house fields
 router.get("/houses/:id", (req,res,next) => {
   const {id} = req.params;
-
+  
   House.findById(id)
+  .populate('owner')
   .then(houseDoc => res.json(houseDoc))
   .catch(err=>next(err))
 })
