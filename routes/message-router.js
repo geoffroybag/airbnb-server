@@ -9,7 +9,7 @@ const router = express.Router();
 router.post("/message", (req, res, next) => {
   const {message, recipient, arrayOfDates, city, price} = req.body;
   Message.create({ 
-    message : {guestMessage: message}, 
+    message : {guestMessage: message, sender : req.user._id}, 
     recipient : recipient,
     sender  : req.user._id,
     arrayOfDates: arrayOfDates,
@@ -27,7 +27,7 @@ router.post("/new-message-guest/:id", (req, res, next) => {
   // id of the message
   Message.findByIdAndUpdate(
     id,
-    {$push : {message : {guestMessage : message}}},
+    {$push : {message : {guestMessage : message, sender : req.user._id}}},
     {runValidators: true, new: true},
   )
   .then(currentUser => res.json(currentUser))
@@ -40,7 +40,7 @@ router.post("/new-message-host/:id", (req, res, next) => {
   // id of the message
   Message.findByIdAndUpdate(
     id,
-    {$push : {message : {hostMessage : message}}},
+    {$push : {message : {hostMessage : message, sender : req.user._id}}},
     {runValidators: true, new: true},
   )
   .then(currentUser => res.json(currentUser))
