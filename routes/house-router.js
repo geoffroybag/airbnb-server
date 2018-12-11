@@ -106,16 +106,4 @@ router.get("/bookings-list", (req,res,next)=>{
   .catch(err=>next(err))
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = router;
