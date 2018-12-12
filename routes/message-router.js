@@ -30,6 +30,7 @@ router.post("/new-message-guest/:id", (req, res, next) => {
     {$push : {message : {guestMessage : message, sender : req.user._id}}},
     {runValidators: true, new: true},
   )
+  .populate("message.sender")
   .then(currentUser => res.json(currentUser))
   .catch(err=>next(err))
 })
@@ -43,6 +44,7 @@ router.post("/new-message-host/:id", (req, res, next) => {
     {$push : {message : {hostMessage : message, sender : req.user._id}}},
     {runValidators: true, new: true},
   )
+  .populate("message.sender")
   .then(currentUser => res.json(currentUser))
   .catch(err=>next(err))
 })
