@@ -54,8 +54,6 @@ app.use(session({
 app.use(passport.initialize());
 app.use(passport.session());
 
-
-
 const houseRouter = require("./routes/house-router.js")
 app.use('/api', houseRouter)
 
@@ -71,5 +69,7 @@ app.use('/api', userRouter)
 const messageRouter = require("./routes/message-router")
 app.use('/api', messageRouter)
 
+const fileRouter = require("./routes/file-router");
+app.use('/api', fileRouter);
 
 module.exports = app;
