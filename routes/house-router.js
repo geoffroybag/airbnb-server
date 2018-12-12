@@ -89,9 +89,9 @@ router.put("/houses/:id", (req, res, next) => {
 
 
 router.post("/booking/:houseId", (req, res, next) => {
-  const { arrayOfDates, where, guests, price } = req.body;
+  const { arrayOfDates, where, guests, price, currentUser } = req.body;
   const { houseId } = req.params;
-  Booking.create({ arrayOfDates, guests , houseId, price, houseId})
+  Booking.create({ arrayOfDates, guests , houseId, price, currentUser})
     .then(userDoc => {
         res.json(userDoc)
       })
@@ -99,7 +99,7 @@ router.post("/booking/:houseId", (req, res, next) => {
 });
 
 router.get("/bookings-list", (req,res,next)=>{
-  Booking.find()
+  Booking.find({currentUser : {$eq: req.user._id}})
   .populate("houseId")
   .sort({ createdAt: -1 })
   .then(currentUser => res.json(currentUser))
