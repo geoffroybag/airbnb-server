@@ -17,7 +17,8 @@ const userSchema = new Schema(
       match: /^.+@.+\..+$/
     },
     avatar: {
-      type: String
+      type: String,
+      required: true
     },
     favorites : [{
       houses: {type : Schema.Types.ObjectId, ref: "House",required : true}
