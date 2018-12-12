@@ -93,9 +93,13 @@ router.put("/settinguser/:userId", (req, res, next) => {
   const { userId } = req.params;
   const { fullName, email, originalPassword, avatar } = req.body;
 
-  const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
+  const changement = { fullName, email, avatar };
 
-  User.findByIdAndUpdate(userId, { $set: { fullName, email, encryptedPassword, avatar } }, {runValidators: true, new: true})
+  if (originalPassword) {
+    changement.encryptedPassword = bcrypt.hashSync(originalPassword, 10);
+  }
+
+  User.findByIdAndUpdate(userId, { $set: changement }, {runValidators: true, new: true})
   .then(userDoc => {
     res.json(userDoc);
   })
