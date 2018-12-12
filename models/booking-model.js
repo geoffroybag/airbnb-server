@@ -7,7 +7,8 @@ const bookingSchema = new Schema(
   arrayOfDates : {type : Array, required : true},
   guests : {type : Number, required : true},
   price : {type : Number, required : true},
-  houseId : {type : Schema.Types.ObjectId, ref: "House",required : true}
+  houseId : {type : Schema.Types.ObjectId, ref: "House",required : true},
+  currentUser : {type : Schema.Types.ObjectId, ref: "User",required : true},
 }
 );
 
