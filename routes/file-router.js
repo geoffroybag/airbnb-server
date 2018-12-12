@@ -4,7 +4,7 @@ const fileUploader = require("../config/file-uploader.js");
 
 const router = express.Router();
 
-router.post("/becomehostform", 
+router.post("/upload-image", 
   // in this route, expect to receive a single file (multer)
   fileUploader.single("fileSubmission"),
   (req, res, next) => {
