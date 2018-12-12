@@ -50,9 +50,7 @@ router.post("/new-message-host/:id", (req, res, next) => {
 router.get("/message/:id", (req, res, next) => {
   const {id} = req.params
   console.log(id)
-  Message.findById(
-    id
-  )
+  Message.findById(id)
   .populate("sender")
   .populate("recipient")
   .then(currentUser => res.json(currentUser))
@@ -70,8 +68,5 @@ router.get('/all-messages', (req,res,next)=>{
   .then(messageDoc => res.json(messageDoc))
   .catch(err => next(err))
 })
-// io.on("connection", function(socket){
-//   console.log("A user connected")
-// });
 
 module.exports = router;
