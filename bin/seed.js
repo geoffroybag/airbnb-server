@@ -1,9 +1,11 @@
+require("dotenv").config
+
 const mongoose     = require('mongoose');
 
 const House = require("../models/house-model.js")
 
 mongoose
-  .connect('mongodb://localhost/airbnb-server', {useNewUrlParser: true})
+  .connect(process.env.MONGODB_URI, {useNewUrlParser: true})
   .then(x => {
     console.log(`Connected to Mongo! Database name: "${x.connections[0].name}"`)
   })
