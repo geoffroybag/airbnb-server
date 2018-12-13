@@ -8,11 +8,27 @@ const router = express.Router();
 router.post("/signup", (req, res, next) => {
   const { fullName, email, originalPassword, avatar } = req.body;
 
+
+  if (!fullName || !email || !originalPassword || !avatar) {
+    next(new Error('Please enter all the forms'));
+    return;
+  }
+
+  User.findOne({email: {$eq : email}})
+  .then(data => {
+    if (data) {
+      next(new Error('This email already exists.'));
+      return;
+    }
+  })
+  .catch(err => next(err));
+  
   if (!originalPassword || originalPassword.match(/[0-9]/) === null) {
 
-    next(new Error('Incorrect Password'))
+    next(new Error('Your password must contain a number'))
     return; 
   }
+
 
   const encryptedPassword = bcrypt.hashSync(originalPassword, 10);
 
