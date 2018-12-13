@@ -9,7 +9,7 @@ const router = express.Router();
 router.post("/message", (req, res, next) => {
   const {message, recipient, arrayOfDates, city, price} = req.body;
   Message.create({ 
-    message : {guestMessage: message, sender : req.user._id}, 
+    message : {guestMessage: message, sender : req.user._id, recipient : recipient._id}, 
     recipient : recipient,
     sender  : req.user._id,
     arrayOfDates: arrayOfDates,
@@ -23,28 +23,30 @@ router.post("/message", (req, res, next) => {
 
 router.post("/new-message-guest/:id", (req, res, next) => {
   const {id} = req.params
-  const {message} = req.body
+  const {message, recipient} = req.body
   // id of the message
   Message.findByIdAndUpdate(
     id,
-    {$push : {message : {guestMessage : message, sender : req.user._id}}},
+    {$push : {message : {guestMessage : message, sender : req.user._id, recipient : recipient._id}}},
     {runValidators: true, new: true},
   )
   .populate("message.sender")
+  .populate("message.recipient")
   .then(currentUser => res.json(currentUser))
   .catch(err=>next(err))
 })
 
 router.post("/new-message-host/:id", (req, res, next) => {
   const {id} = req.params
-  const {message} = req.body
+  const {message, sender, recipient} = req.body
   // id of the message
   Message.findByIdAndUpdate(
     id,
-    {$push : {message : {hostMessage : message, sender : req.user._id}}},
+    {$push : {message : {hostMessage : message, sender : req.user._id, recipient : sender._id}}},
     {runValidators: true, new: true},
   )
   .populate("message.sender")
+  .populate("message.recipient")
   .then(currentUser => res.json(currentUser))
   .catch(err=>next(err))
 })
