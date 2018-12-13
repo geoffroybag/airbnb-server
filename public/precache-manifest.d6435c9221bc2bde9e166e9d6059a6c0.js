@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/helpicon2.e8282603.jpg"
   },
   {
-    "revision": "150018c8dbaf1e61c0da",
+    "revision": "069a07c0f1376bff9267",
     "url": "/static/css/main.bda8e5dc.chunk.css"
   },
   {
@@ -104,8 +104,8 @@ self.__precacheManifest = [
     "url": "/static/media/helpicon1.165e709d.jpg"
   },
   {
-    "revision": "150018c8dbaf1e61c0da",
-    "url": "/static/js/main.150018c8.chunk.js"
+    "revision": "069a07c0f1376bff9267",
+    "url": "/static/js/main.069a07c0.chunk.js"
   },
   {
     "revision": "3f7b71f03a641281c1629020dd6844e4",
@@ -176,20 +176,20 @@ self.__precacheManifest = [
     "url": "/static/media/coverbar-0.ab1e715a.jpg"
   },
   {
-    "revision": "62539b9d31317eb62c0d58d779899945",
-    "url": "/static/media/password.62539b9d.svg"
-  },
-  {
     "revision": "7dcfe5780f0099278efa83b413999c48",
     "url": "/static/media/mail.7dcfe578.svg"
   },
   {
-    "revision": "ccebd9c278b901ffcaf439c1db1a1c3a",
-    "url": "/static/media/fullname.ccebd9c2.svg"
+    "revision": "62539b9d31317eb62c0d58d779899945",
+    "url": "/static/media/password.62539b9d.svg"
   },
   {
     "revision": "99af6514f0327cc744ae066ed4b47db4",
     "url": "/static/media/profilepic.99af6514.svg"
+  },
+  {
+    "revision": "ccebd9c278b901ffcaf439c1db1a1c3a",
+    "url": "/static/media/fullname.ccebd9c2.svg"
   },
   {
     "revision": "468db4abc8f89a6fcaecdfa8be040256",
@@ -208,7 +208,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.f61409b1.chunk.css"
   },
   {
-    "revision": "4118c4bd793b030fe7bf572c661815ac",
+    "revision": "3378d34a072c451cafc884d8c4308422",
     "url": "/index.html"
   }
 ];
