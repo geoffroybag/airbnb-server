@@ -8,15 +8,20 @@ const router = express.Router();
 
 router.post("/message", (req, res, next) => {
   const {message, recipient, arrayOfDates, city, price} = req.body;
-  Message.create({ 
-    message : {guestMessage: message, sender : req.user._id, recipient : recipient._id}, 
-    recipient : recipient,
-    sender  : req.user._id,
-    arrayOfDates: arrayOfDates,
-    city: city,
-    price: price,
+
+  User.findById(recipient._id)
+    .then(recipientDoc => {
+      Message.create({ 
+        message : {guestMessage: message, sender : req.user, recipient: recipientDoc}, 
+        recipient : recipientDoc,
+        sender  : req.user,
+        arrayOfDates: arrayOfDates,
+        city: city,
+        price: price,
+        })
+      .then(messageDoc => res.json(messageDoc))
+      .catch(err => next(err))
     })
-  .then(messageDoc => res.json(messageDoc))
   .catch(err => next(err))
 });
 
