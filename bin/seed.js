@@ -19,7 +19,7 @@ mongoose
     recordid: "f93ab68e53588af3a4ac110155960f1e701c4107",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 9.67,
@@ -114,7 +114,7 @@ mongoose
     recordid: "b3111306caaab99451a992608559fe3a0e37c44a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 9.16,
     calendar_last_scraped: "2017-11-24",
@@ -216,7 +216,7 @@ mongoose
     recordid: "6633d608921ca4e80abecab4c23b0a3faac38e64",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.34,
     calendar_last_scraped: "2017-12-04",
@@ -316,7 +316,7 @@ mongoose
     recordid: "274ee0d7677ea31a10666a23d9c094fa3917d2c7",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 12.7,
@@ -412,7 +412,7 @@ mongoose
     recordid: "13138fb6eebe699bed9be7e9d1e7f38556049839",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.84,
@@ -509,7 +509,7 @@ mongoose
     recordid: "464379b784654eb940bd002c2e263d5392f4722b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.46,
     calendar_last_scraped: "2017-09-14",
@@ -607,7 +607,7 @@ mongoose
     recordid: "ef86aad76fff9484147f2d6ffcc85a2df308adec",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.56,
     calendar_last_scraped: "2017-10-02",
@@ -689,7 +689,7 @@ mongoose
     zipcode: "94107",
     host_listings_count: 4,
     maximum_nights: 14,
-    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (although not needed for touring the City) please tell me ahead of time so that I can explain to you where y`,
+    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be ided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (although not needed for touring the City) please tell me ahead of time so that I can explain to you where y`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Cabana is a special gem nestled in an unbelievable succulent garden! You will have complete privacy and be able to enjoy your deck by yourselves. Please come and stay in this resort-like setting while you enjoy your time in San Francisco. ADULTS ONLY Welcome Dear Guests! I look forward to meeting each of you. My listings are for ADULTS ONLY over 18 years old: NO EXCEPTIONS whatsoever so please don't even ask. My listings are NOT family friendly. My property was designed with the quiet and mature adult in mind, the guest who is looking for a respite in the City, for a place to catch up on much needed sleep and restoration between days spent working, visiting relatives, or exploring San Francisco. Many of my guests arrive with jet lag, so please- no kids (no infants/ t`,
     price: 200,
     smart_location: "San Francisco, CA",
@@ -707,7 +707,7 @@ mongoose
     recordid: "4e055513adce4c6b654a68e6f3114894aa8cdf70",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.68,
     calendar_last_scraped: "2017-10-02",
@@ -789,7 +789,7 @@ mongoose
     zipcode: "94107",
     host_listings_count: 4,
     maximum_nights: 14,
-    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
+    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be ided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN): NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Suite is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Suite is all yours. ADULTS ONLY Hello Guests! The Garden Suite is a large studio style accommodation with a Private Entrance- you will be the only ones here! We share the large and luscious courtyard succulent garden with my other guests. You will feel as refreshed staying here as if you were vacationing in wine country! I look forward to hosting you. Garden Suite details: PRIVATE ENTRANCE. The Suite is a private studio that is all yours. • "Coffee Bar"- small fridge/ coffee maker/ tea kettle/ toaster and microwave. Section of teas, and coffee. • Clos`,
     price: 200,
     smart_location: "San Francisco, CA",
@@ -807,7 +807,7 @@ mongoose
     recordid: "9c6aa8564a9395195875f9e346adbe453a459508",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.28,
     calendar_last_scraped: "2017-10-02",
@@ -908,7 +908,7 @@ mongoose
     recordid: "d76bf6dc538681570e582d95366173e632587b69",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 4.91,
     calendar_last_scraped: "2017-11-24",
@@ -1009,7 +1009,7 @@ mongoose
     recordid: "c7d1da46e6e9e9a05a93926423893234e9fb3704",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 11.94,
@@ -1106,7 +1106,7 @@ mongoose
     recordid: "1f5c50e70618d140131cc44543abcd533d14b838",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 5.68,
@@ -1201,7 +1201,7 @@ mongoose
     recordid: "e47d92d10cc67e969ba9d48ed83e7b9e892a64e8",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 9.93,
     calendar_last_scraped: "2017-11-24",
@@ -1302,7 +1302,7 @@ mongoose
     recordid: "4266a702d7cf0ce316eeef28846723f17357c650",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.08,
     calendar_last_scraped: "2017-12-04",
@@ -1402,7 +1402,7 @@ mongoose
     recordid: "d7ba1fe9d38572dc17a8ecb2e7830cd7703e2c44",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.14,
@@ -1497,7 +1497,7 @@ mongoose
     recordid: "eb9ac9ff662a1930246b06ef4623bae6ae3d254b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 9.59,
@@ -1593,7 +1593,7 @@ mongoose
     recordid: "e9798a6b20fad1e7f3e80a5a5a68bec4d032f5d5",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.68,
     calendar_last_scraped: "2017-10-02",
@@ -1690,7 +1690,7 @@ mongoose
     recordid: "3415cc999d8da8f6cafd53d33797f1c7e426f58c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.69,
     zipcode: "75011",
@@ -1787,7 +1787,7 @@ mongoose
     recordid: "828d5b0e9f0c09ca7d9c7dc07ca8bc68063e8c69",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.05,
     calendar_last_scraped: "2017-12-04",
@@ -1884,7 +1884,7 @@ mongoose
     recordid: "0c93a5db89de32f6296d0e56a01a8aca44c9a10d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.77,
     calendar_last_scraped: "2017-11-24",
@@ -1985,7 +1985,7 @@ mongoose
     recordid: "d5380e15008649a56d595a90e113f80fa433444b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 6.21,
@@ -2080,7 +2080,7 @@ mongoose
     recordid: "eb82a0cc66bd0b29b91f0fa64b23444a18616690",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.61,
     calendar_last_scraped: "2017-10-02",
@@ -2162,7 +2162,7 @@ mongoose
     zipcode: "94107",
     host_listings_count: 4,
     maximum_nights: 14,
-    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
+    house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be ided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Lookout is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Lookout is all yours. ADULTS ONLY "Coolest Place to Stay in San Francisco"- California Home and Garden Magazine. ADULTS ONLY The Lookout is a private studio and was designed with the quiet and mature adult in mind, the guest who is looking for a respite in the City, for a place to catch up on much needed sleep and restoration between working, visiting relatives, or exploring San Francisco. You will have complete privacy in the Lookout! No smoking. Two adults maximum. No parties. No one under 18 on the property. No pets. Garden Lookout details: The Loo`,
     price: 200,
     smart_location: "San Francisco, CA",
@@ -2180,7 +2180,7 @@ mongoose
     recordid: "b97a1efdf3a9f8dddfee48ab44f0e0ea80cf683a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.6,
     calendar_last_scraped: "2017-12-04",
@@ -2279,7 +2279,7 @@ mongoose
     recordid: "715c7f4fe5764566b10c3074f9733b9ed1f714ef",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.98,
@@ -2375,7 +2375,7 @@ mongoose
     recordid: "8c00e2f2fb95c459fe535f3cb767366c8a6fb450",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.81,
     zipcode: "97202",
@@ -2472,7 +2472,7 @@ mongoose
     recordid: "ff8224ada84e9799bf92ee1c3bef4bd8f8343971",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 7.68,
@@ -2568,7 +2568,7 @@ mongoose
     recordid: "8eb5faac94012757afacba5b6837b60d36731f67",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 7.18,
@@ -2665,7 +2665,7 @@ mongoose
     recordid: "61f6711fec0d95f863fbe9a364d2048f9a9d1174",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.03,
     zipcode: "20002",
@@ -2762,7 +2762,7 @@ mongoose
     recordid: "914b1c827d4df53ee99b72b5b0004b44aecf5f94",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 10.12,
@@ -2858,7 +2858,7 @@ mongoose
     recordid: "fd07b308315bc4f997346e21ec7b5cb9e7e4b7c0",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.32,
     calendar_last_scraped: "2017-10-03",
@@ -2923,7 +2923,7 @@ mongoose
     review_scores_location: 8,
     instant_bookable: "True",
     experiences_offered: "none",
-    host_about: `I want to make your airbnb experience perfect. Travelers need a kitchen with supplies to avoid walking outside to make purchases. Hotels are expensive. Save money and stay with me.`,
+    host_about: `I want to make your airbnb experience perfect. Travelers need a kitchen with supplies to aid walking outside to make purchases. Hotels are expensive. Save money and stay with me.`,
     last_review: "2017-09-25",
     calculated_host_listings_count: 3,
     minimum_nights: 1,
@@ -2957,7 +2957,7 @@ mongoose
     recordid: "e42793a9786e227fdff095514a3785fbd066e066",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.53,
     calendar_last_scraped: "2017-12-04",
@@ -3056,7 +3056,7 @@ mongoose
     recordid: "d931ad9d3c8992abf77256cd185dce07da989412",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.52,
     zipcode: "20001",
@@ -3153,7 +3153,7 @@ mongoose
     recordid: "15ce9dbbc63f044214b3edee97f0a55cc1d0c77f",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.6,
     calendar_last_scraped: "2017-12-04",
@@ -3253,7 +3253,7 @@ mongoose
     recordid: "7345b2a9f5638ed4f0858931ba40ab457a312e11",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 9.06,
     calendar_last_scraped: "2017-09-18",
@@ -3352,7 +3352,7 @@ mongoose
     recordid: "e7a98adaad246cc60b6c7f6abcfa5f01fb6ca25a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.17,
     zipcode: "70116",
@@ -3451,7 +3451,7 @@ mongoose
     recordid: "3212afe05cbcb4cfc4bdf0d8c92d439ce3bf36be",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 6.7,
@@ -3548,7 +3548,7 @@ mongoose
     recordid: "29987092781ae61e12f4faff2f58ed5c19d934cd",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.32,
     calendar_last_scraped: "2017-10-02",
@@ -3647,7 +3647,7 @@ mongoose
     recordid: "647fbf16f96bd6d5c9e68d24301a921615e5cbcf",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 7.13,
@@ -3740,7 +3740,7 @@ mongoose
     recordid: "edb9fa9ccfecbee6c21e2815fa9fb73c2fbdd4c2",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.99,
     zipcode: "70116",
@@ -3838,7 +3838,7 @@ mongoose
     recordid: "44737d62d55b18a0f755508da015baa8e7d1ba5d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.16,
     zipcode: "M5A 3E8",
@@ -3936,7 +3936,7 @@ mongoose
     recordid: "92652d026adb646e9e7933d5bf27fce751c8c117",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 8.66,
@@ -4027,7 +4027,7 @@ mongoose
     recordid: "fd52085ffb9c8cf4ddccbe5fbad48648c2c82374",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.54,
     calendar_last_scraped: "2017-10-02",
@@ -4124,7 +4124,7 @@ mongoose
     recordid: "0ac8bec15585f9550bdbb02be58242e27bee7108",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.18,
     zipcode: "28004",
@@ -4223,7 +4223,7 @@ mongoose
     recordid: "779f333a878b509335695e03671c7aabd5f6dfe0",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.01,
     calendar_last_scraped: "2017-11-24",
@@ -4326,7 +4326,7 @@ mongoose
     recordid: "054a7f6d7fb7cf6aaa500700e2109d3299a24602",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 7.94,
@@ -4416,7 +4416,7 @@ mongoose
     recordid: "94d10d0cb43224de3b3a580c398c6e74b79653cd",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.42,
     calendar_last_scraped: "2017-10-02",
@@ -4513,7 +4513,7 @@ mongoose
     recordid: "7e6d3cf114915c801e70f9acfe53d8a96f2a2614",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.79,
@@ -4605,7 +4605,7 @@ mongoose
     recordid: "793d1ba85c2b35d0f7a6b7f74cbf99e989693c77",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.46,
     zipcode: "75011",
@@ -4702,7 +4702,7 @@ mongoose
     recordid: "21feb56dee0b227223d3fc8062d52f633da2c161",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.9,
     calendar_last_scraped: "2017-12-04",
@@ -4803,7 +4803,7 @@ mongoose
     recordid: "48598c1c477c27376b53fd5d6e2479a5c5bfcdd2",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.33,
     zipcode: "70116",
@@ -4901,7 +4901,7 @@ mongoose
     recordid: "5535eec401acea099b19299fbed2ae38919dab5d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.55,
     calendar_last_scraped: "2017-09-18",
@@ -5000,7 +5000,7 @@ mongoose
     recordid: "1c1f40719cfaa91ba5c5b276e4b24e901aa80daa",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 4.92,
@@ -5092,7 +5092,7 @@ mongoose
     recordid: "144ca539b84a00589ee85ecc5a1c20def4a9546b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.35,
     calendar_last_scraped: "2017-12-04",
@@ -5190,7 +5190,7 @@ mongoose
     recordid: "df13743cb690a7ba852f24af4be43005baed508d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 9.57,
     zipcode: "90291",
@@ -5287,7 +5287,7 @@ mongoose
     recordid: "adccebd878a127b73a1af8713a268bcf93345070",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 9.55,
@@ -5383,7 +5383,7 @@ mongoose
     recordid: "26c11755f72c4e3cf4355daba513f969a84ff723",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 6.44,
@@ -5479,7 +5479,7 @@ mongoose
     recordid: "b01c927970edeb0fc599125f40c9f5923a760740",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 8,
     reviews_per_month: 7.29,
@@ -5571,7 +5571,7 @@ mongoose
     recordid: "3316a9bf7dace22ec6a0123102663825bcb82f29",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.89,
     zipcode: "116 36",
@@ -5669,7 +5669,7 @@ mongoose
     recordid: "7940e16a66ef7ff2bf3df91ff6b38e5bbe7cdc5c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.7,
     calendar_last_scraped: "2017-10-02",
@@ -5769,7 +5769,7 @@ mongoose
     recordid: "b67f2670ec6cceb4d02083aefe890a397d20b854",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 11.23,
     zipcode: "90405",
@@ -5866,7 +5866,7 @@ mongoose
     recordid: "f072ee1e084008b1622a2fa5ae748d902f7d7b38",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.57,
     calendar_last_scraped: "2017-09-14",
@@ -5964,7 +5964,7 @@ mongoose
     recordid: "32df5e90310d97de20f70e9a3f28fdf7fdc43c41",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.41,
     calendar_last_scraped: "2017-12-04",
@@ -6065,7 +6065,7 @@ mongoose
     recordid: "d0fcdd0e294940c90274cae73db02c87df431c07",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.65,
     calendar_last_scraped: "2017-10-02",
@@ -6162,7 +6162,7 @@ mongoose
     recordid: "b91366db8bc58cd4dbb2ae6a6cce87a66ef6249f",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.63,
     calendar_last_scraped: "2017-10-06",
@@ -6262,7 +6262,7 @@ mongoose
     recordid: "1b366b067e485c5fc6152d465c360292a2e54254",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.22,
     zipcode: "97210",
@@ -6360,7 +6360,7 @@ mongoose
     recordid: "a691ed22169709fb0b24e1529be35498cc1ff46c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.88,
@@ -6450,7 +6450,7 @@ mongoose
     recordid: "9a5589cdcfa0aaa5fc5c68db339b34b9d1fffacf",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 9.32,
@@ -6547,7 +6547,7 @@ mongoose
     recordid: "74aed11ecba4cdf30ecbe141e3a15c0f9e04f9be",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 5.49,
     calendar_last_scraped: "2017-12-04",
@@ -6646,7 +6646,7 @@ mongoose
     recordid: "22ef44b5056a5ceccc4621ed87ff2f53f21a3889",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 6.07,
     zipcode: "08025",
@@ -6744,7 +6744,7 @@ mongoose
     recordid: "5f85e8ae81ed65efa0b3098404189cef6f4b7400",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 8.92,
     calendar_last_scraped: "2017-11-24",
@@ -6846,7 +6846,7 @@ mongoose
     recordid: "921537e1c13860f7eff5e0e0537ea155f8d6dcd8",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 8.44,
@@ -6939,7 +6939,7 @@ mongoose
     recordid: "533448361dd0a286fc63e61c58bfd3cd4dee4f4e",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 5.78,
@@ -7036,7 +7036,7 @@ mongoose
     recordid: "8c30b54ad92d31512653934275270586ddf10c64",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 10,
     reviews_per_month: 10.3,
@@ -7132,7 +7132,7 @@ mongoose
     recordid: "44ccc199d97e5b18de790045d1156cfd8a059728",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     reviews_per_month: 7.14,
     zipcode: "60647",
@@ -7231,7 +7231,7 @@ mongoose
     recordid: "07397765c9b9a76af0e0184f2f80f84c6ecdc985",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
     owner: {
-        $oid: "5c11479fe7e8ee0016c27d29"
+        id: "5c11479fe7e8ee0016c27d29"
     },
     review_scores_accuracy: 9,
     reviews_per_month: 9.45,
