@@ -17,6 +17,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "f93ab68e53588af3a4ac110155960f1e701c4107",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 9.67,
     beds: 2,
@@ -57,7 +61,6 @@ mongoose
     summary: `With a geodesic dome loft and a large deck in the trees, you will feel like you are in an unique tree house in the woods. Quiet yet convenient location. Shaded by Oak and Madrone trees and next to a Redwood grove, enjoy the outdoors from the deck.`,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/ac/users/24281/profile_pic/1291101200/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=225:*&output-format=jpg&output-quality=70",
     description: `With a geodesic dome loft and a large deck in the trees, you will feel like you are in an unique tree house in the woods. Quiet yet convenient location. Shaded by Oak and Madrone trees and next to a Redwood grove, enjoy the outdoors from the deck. We have 10 acres next to land without fences so you will get to enjoy nature: just hang out on the deck, take a hike in the woods, watch the hummingbirds or go to the beach. To check our availability, click on the Calendar link above the cabin photo. And yes, if it isn't available, it is already booked! If you want to stay here on a weekend during the summer, you will need to make your reservation request about 5 - 6 months in advance. We do, however, occasionally get a cancellation, so if you want a date that's already booked, you can let us know and we will notify you of a cancellation. (Please read all of this description before making a reservation. The cozy and clean semi-rustic cabin has a loft under a geodesic dome (the "mushroom cap")`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -100,8 +103,6 @@ mongoose
     require_guest_phone_verification: "False",
     guests_included: 2,
     host_total_listings_count: 1,
-    host_thumbnail_url: "https://a0.muscache.com/ac/users/24281/profile_pic/1291101200/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=50:*&output-format=jpg&output-quality=70",
-    host_name: "Kitty And Michael",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "97%",
@@ -111,6 +112,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "b3111306caaab99451a992608559fe3a0e37c44a",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 9.16,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/dad26d0a-b33e-4535-bfce-ef3f36bce041.jpg?aki_policy=medium",
@@ -135,7 +140,6 @@ mongoose
     calendar_updated: "6 days ago",
     summary: `Consider this your home away from home. This is a cozy, convenient space set up to relax while also having many things to do outside and nearby. The loft is on the second floor, so it's quiet. It is very central to everything Denver has to offer. Put away your car keys and explore this awesome little nook of Denver.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/dad26d0a-b33e-4535-bfce-ef3f36bce041.jpg?aki_policy=small",
-    host_name: "Becky",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/665622",
     neighbourhood_cleansed: "Highland",
@@ -174,7 +178,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/ab308d74-54d9-4107-a6e6-58e0bbfb36d6.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I'm an active mom living in the city with my daughter and husband. As an avid traveler myself, I love getting to know new cities. I set my place up to be as comfortable as possible while visiting Denver. You feeling at home is important to me. "One of the best ways to make yourself happy is to make other people happy; one of the best ways to make other people happy is to be happy yourself."`,
@@ -198,7 +201,6 @@ mongoose
     house_rules: `Please respect quiet times after 9PM on weekdays and 10PM on Weekends. No candles, insence, smoking of any tobacco or non-tobacco products. Including vaping or e-cigarettes.`,
     description: `Consider this your home away from home. This is a cozy, convenient space set up to relax while also having many things to do outside and nearby. The loft is on the second floor, so it's quiet. It is very central to everything Denver has to offer. Put away your car keys and explore this awesome little nook of Denver. This condo is a 2 bedroom, 1 bathroom space. Inside, there are 3 memory foam queen beds. One bedroom has a queen bed, a room divider, and a queen bed on the other side. The second bedroom has a comfy Healthcare memory foam queen bed. Both bedrooms are private to the shared space. There is also an L-shaped sectional in the living room which is a comfortable place to sleep as well! Please note that there is NOT a gym in the building. Rather, it is a block away. There is a drop-in fee, but we've had guests who get a free 3-day pass, too. Check out LoHi Athletic Club for details. You get a code when you reserve, and the code is typically the last 4 numbers of the phone number t`,
     price: 130,
-    host_picture_url: "https://a0.muscache.com/im/pictures/ab308d74-54d9-4107-a6e6-58e0bbfb36d6.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -212,6 +214,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "6633d608921ca4e80abecab4c23b0a3faac38e64",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.34,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/6ec59ac4-da28-417b-8e63-220b9b9317a7.jpg?aki_policy=medium",
@@ -236,7 +242,6 @@ mongoose
     calendar_updated: "4 weeks ago",
     summary: `Situated in the Jordaan, the coolest, hippest place in Amsterdam. Treat yourself to a self catering private guest quarters with: free coffee/tea, and a big comfy bed. Comfortable for 2 adults (and possibly up to max 2 more on another pull out bed).`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/6ec59ac4-da28-417b-8e63-220b9b9317a7.jpg?aki_policy=small",
-    host_name: "Shawna",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/82482",
     neighbourhood_cleansed: "Centrum-West",
@@ -274,7 +279,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/186729/profile_pic/1280590191/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I am a wife, mother and social entrepreneur living in Amsterdam. I am an American and have lived here for about 9 years. Spare time is something treasured as we are both self employed and find ourselves constantly in need to finish work that is never done. We love spending time with family and friends, seeing and experiencing new places and meeting new people. Reading and running, nature and fresh air are things that breathe life into me. Why do I live in a city? Good question. Amsterdam is charming and we have all grown to love it.`,
@@ -297,7 +301,6 @@ mongoose
     house_rules: `The backroom is located off our garden and is only accessible by going through our house. We would like guests to be considerate of this. You will be given a key so you can let yourselves in and out. No one sleeps on the ground floor, so you don't need to worry about disturbing anyone. We are a family and we ask that the backroom be used with this in mind. We do not allow loud parties or drugs on our property. Please don't smoke inside the Backroom. Feel free to smoke (cigarettes) in the yard area.`,
     description: `Situated in the Jordaan, the coolest, hippest place in Amsterdam. Treat yourself to a self catering private guest quarters with: free coffee/tea, and a big comfy bed. Comfortable for 2 adults (and possibly up to max 2 more on another pull out bed). Located in the heart of the Jordaan, in city central Amsterdam. Our backroom, formally the guest quarters of an artist atelier, is on the ground floor, access to a garden, fully private and all main attractions, cafe's / restaurants, and shopping are within a walking distance. Our neighborhood rocks! There is always something going on. Festivals, concerts, and everyday shopping on the nine's streets, dining or getting a drink in the many bars and restaurants. You have a private, "Amsterdam style" ensuite bathroom (shower, toilet), a great real bed, a microwave / oven, fridge / freezer, a Nespresso machine, and a great skylight. The studio apartment can sleep up to 2 adults comfortably, and up to max 2 more on a pull our day bed. If you ar`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/users/186729/profile_pic/1280590191/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -311,6 +314,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "274ee0d7677ea31a10666a23d9c094fa3917d2c7",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 12.7,
     beds: 3,
@@ -351,8 +358,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/6865209/profile_pic/1370993908/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/6865209/profile_pic/1370993908/original.jpg?aki_policy=profile_small",
     description: `Bright, private studio-suite in beautiful Grant Park home. Excellent central location. 650 sq ft of private space. Queen-bed in main suite. Double-bed in adjoining dormer bedroom. Optional extra twin bed in the main suite to accommodate a fifth guest. Private, modern bathroom, bar, kitchenette, dinette and reading area. The Funky Pad Suite has everything you need for convenience, privacy and comfort. - Main Room with Queen Bed, Sofa, Coffee Table and 40" HDTV with Cable (Digital Preferred/HBO/OnDemand). - Adorning dormer bedroom with full-size bed. - Kitchenette with small fridge, microwave-oven, traditional coffeemaker, french press and tea pot. - Foldout table and chairs for comfortable dining & work space. - Comfortable reading chair. Wet bar. - Bright, modern bathroom with skylight, vanity and shower. - Hotel quality towels - Hairdrier - Shampoo & bath gel - Iron & ironing board - Dinner & glassware - Portland destination media - Ample free parking right`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -396,7 +401,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `Check-in is anytime between 3pm and 11:30pm. If you need to arrive after 11:30pm it's not a problem. Just let me know as soon as you are able. You're always welcome to come by early to drop off your bags. I can let you know if the suite is ready before 3pm upon request. Guests can have visitors to the suite, as long as they are known friends or family. All non-paying guests should depart between 10:30pm & 9am unless otherwise approved by us. There is an 8 person capacity limit in the suite at all times. No smoking please. Smoking outside is OK. You are welcome to relax in our backyard. We allow pets upon approval, as long as they are housebroken and well behaved. Guests agree to be financially responsible for any damage caused by their little friends. We charge an additional cleaning-fee of $12 for pets because we've found post-pet cleanup to be more involved. This fee means you don't have to board your pet, and allows us to provide a hair and dander-free environment for every gues`,
-    host_name: "Paul",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -406,6 +410,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "13138fb6eebe699bed9be7e9d1e7f38556049839",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.84,
     beds: 1,
@@ -447,8 +455,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_small",
     description: `Gorgeous private suite with everything you need to enjoy a few days in Nashville! But the best part - Only mins to downtown! 20 min walk or $7 taxi ride or catch the free Music City Circuit (downtown bus loop 6AM-6PM) 2 blocks over at Farmers Market This is a new house I designed and built so that my 2 kids that are off to college would have a nice private suite for themselves when they came to visit. It just so happens that this is also perfect for airbnb travelers!! All the suites are soundproofed between each unit, and each unit has its own lockable door. The big plus is that its only about $6 taxi fare to the downtown entertainment district! New Super Suite! •Private entrance •Full bath •Queen size bed •Wet bar with Mini fridge, Microwave, Coffee Maker, (stocked with coffee, hot chocolate, popcorn, bottled water) •44" Flat Panel TV with full Satellite (HBO, Cinemax, etc) •WIFI Come and go as you please without interrupting anyone in the other suites. Beautiful new suite lo`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -492,7 +498,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 5,
     house_rules: `Rental Rules: Guest agree to abide by the Rental Rules at all times while at the property and shall cause all member of the Rental party and anyone else Guest permits on the property to abide by the following rules at all times while at the property. 1.Age Requirements: Guests under the age of 21 unaccompanied by a parent or legal guardian will not be permitted to register and will lose all funds paid to the homeowner. Any reservations made under false pretenses will result in loss of advance payments and possible removal of guest from rental unit. The Homeowner reserves the right to refuse service to anyone. 2.Extra Guests: People other than those in the guest party set forth above may not stay overnight in the property. Any other person in the property is the sole responsibility of the Guest. 3.Smoking: Smoking is NOT allowed inside the home. 4.Accidents, injuries, or illness: The home is privately owned. The owner is not responsible for any accidents, injuries, or illness that occur`,
-    host_name: "Rick",
     notes: `Check in is anytime after 4PM. Check out is by 11 AM. If you need in earlier, let me know. Please text me at checkout so i can let the maid know. She likes to start as early as possible.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -502,6 +507,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "464379b784654eb940bd002c2e263d5392f4722b",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.46,
     calendar_last_scraped: "2017-09-14",
     medium_url: "https://a0.muscache.com/im/pictures/9691ec39-5362-4098-8a80-37efb3c2000c.jpg?aki_policy=medium",
@@ -525,7 +534,6 @@ mongoose
     calendar_updated: "today",
     summary: `Gorgeous private suite with everything you need to enjoy a few days in Nashville! But the best part - Only mins to downtown! 20 min walk or $7 taxi ride or catch the free Music City Circuit (downtown bus loop 6AM-6PM) 2 blocks over at Farmers Market`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/9691ec39-5362-4098-8a80-37efb3c2000c.jpg?aki_policy=small",
-    host_name: "Rick",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/421290",
     neighbourhood_cleansed: "District 19",
@@ -562,7 +570,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I know your not coming to Nashville to visit me, but i will do my best to provide a great place to stay while you are in Nashville! I am a single Dad with 2 great kids off to college! I built this home 3 years ago and love living near downtown Nashville. I am an avid walker and most weeks put in 15 to 20 miles just walking from my home to the Historical Germantown area, Bicentennial Mall State Park, Farmers Market, State Capital, Legislative Plaza, TPAC, then on to Lower Broad, 2nd Ave, and Riverfront park where all the honky tonks are located! That total distance is just a little over 2 miles each way. I was in the USAF and Tennessee Air Guard for 13 years where i was a navigator on C-130's. After my military life i became a General Contractor and started my own business. After being in the country for so long i decided to try the city life. I bought a vacant lot in this historical overlay district and loved it. Since then I have built 2 more homes on this street. I do love this up and coming neighborhood. I also love to hike the mountains! I have summed 3 12,000 foot peaks in the Rockies and last summer my son and I summed 14,254 foot Long's Peak in Rocky Mountain National Park. I must admit - it kicked my ass ... but wow!... what a view! Leaves no doubt there is a God! I also love to kayak and travel. But the best times are with the kids. We love to play strategy board games..Settlers of Catan, Acquire, and Cashflow. I love Axis and Allies, but its hard to get them to play that! I also play in a Texas holdem Poker League...for points...not for cash! UPDATE: That's my first grandbaby...Walt....Born 19 November 2012!!`,
@@ -585,7 +592,6 @@ mongoose
     house_rules: `Rental Rules: Guest agree to abide by the Rental Rules at all times while at the property and shall cause all member of the Rental party and anyone else Guest permits on the property to abide by the following rules at all times while at the property. 1.Age Requirements: Guests under the age of 21 unaccompanied by a parent or legal guardian will not be permitted to register and will lose all funds paid to the homeowner. Any reservations made under false pretenses will result in loss of advance payments and possible removal of guest from rental unit. The Homeowner reserves the right to refuse service to anyone. 2.Extra Guests: People other than those in the guest party set forth above may not stay overnight in the property. Any other person in the property is the sole responsibility of the Guest. 3.Smoking: Smoking is NOT allowed inside the home. 4.Accidents, injuries, or illness: The home is privately owned. The owner is not responsible for any accidents, injuries, or illness that occur`,
     description: `Gorgeous private suite with everything you need to enjoy a few days in Nashville! But the best part - Only mins to downtown! 20 min walk or $7 taxi ride or catch the free Music City Circuit (downtown bus loop 6AM-6PM) 2 blocks over at Farmers Market New Super Suite! •Private entrance •Full bath •King size bed •Wet bar with Mini fridge, Microwave, Coffee Maker, (stocked with coffee, hot chocolate, popcorn, bottled water) •44" Flat Panel TV with full Satellite (HBO, Cinemax, etc) •WIFI Come and go as you please. Beautiful new suite located on the first floor of my home is just 2 blocks to Bicentennial Mall State Park and Farmers Market, and just a few more blocks to Germantown restaurants and downtown Nashville. No (URL HIDDEN) Cleaning (URL HIDDEN) Deposit. But take care of my home!!! Links: Bicycle rentals (2 blocks from the house) (SENSITIVE CONTENTS HIDDEN) "Nashville Bicycles" Music City Circuit ( free downtown bus loop also 2 blocks) (SENSITIVE CONTENTS HIDDEN) "Music City`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Nashville, TN",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -599,6 +605,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "ef86aad76fff9484147f2d6ffcc85a2df308adec",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.56,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/8037338/b11427ee_original.jpg?aki_policy=medium",
@@ -622,7 +632,6 @@ mongoose
     calendar_updated: "5 days ago",
     summary: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Cabana is a special gem nestled in an unbelievable succulent garden! You will have complete privacy and be able to enjoy your deck by yourselves. Please come and stay in this resort-like setting while you enjoy your time in San Francisco.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/8037338/b11427ee_original.jpg?aki_policy=small",
-    host_name: "Kepa",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/205842",
     neighbourhood_cleansed: "Potrero Hill",
@@ -661,7 +670,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi Guests, Thank you for considering staying with me during your visit to San Francisco. Whether you're coming for business, pleasure, or to visit family, I think you will enjoy my rooms and my neighborhood. I've been here in San Francisco and in Potrero Hill since 1978, and I can help you figure out what to do and how to get around. I've had construction and design businesses all my life and I'm enjoying adding Airbnb hosting to my daily routine. I've travelled quite a bit and enjoy having the world come to me! Here are all of my listings: Potrero Hill Garden Cabana: https://www.airbnb.com/rooms/205842 Potrero Hill Garden Suite: https://www.airbnb.com/rooms/33577 Potrero Hill Garden Lookout:https://www.airbnb.com/rooms/33578 Potrero Hill Garden Getaway: https://www.airbnb.com/rooms/918341 Please email me if you have any questions. I hope to hear from you. Kepa Askenasy`,
@@ -684,7 +692,6 @@ mongoose
     house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (although not needed for touring the City) please tell me ahead of time so that I can explain to you where y`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Cabana is a special gem nestled in an unbelievable succulent garden! You will have complete privacy and be able to enjoy your deck by yourselves. Please come and stay in this resort-like setting while you enjoy your time in San Francisco. ADULTS ONLY Welcome Dear Guests! I look forward to meeting each of you. My listings are for ADULTS ONLY over 18 years old: NO EXCEPTIONS whatsoever so please don't even ask. My listings are NOT family friendly. My property was designed with the quiet and mature adult in mind, the guest who is looking for a respite in the City, for a place to catch up on much needed sleep and restoration between days spent working, visiting relatives, or exploring San Francisco. Many of my guests arrive with jet lag, so please- no kids (no infants/ t`,
     price: 200,
-    host_picture_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -698,6 +705,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "4e055513adce4c6b654a68e6f3114894aa8cdf70",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.68,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/a519ea4c-8bb1-45bb-9e04-0ef53b8fcefa.jpg?aki_policy=medium",
@@ -721,7 +732,6 @@ mongoose
     calendar_updated: "2 days ago",
     summary: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN): NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Suite is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Suite is all yours.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/a519ea4c-8bb1-45bb-9e04-0ef53b8fcefa.jpg?aki_policy=small",
-    host_name: "Kepa",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/33577",
     neighbourhood_cleansed: "Potrero Hill",
@@ -760,7 +770,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi Guests, Thank you for considering staying with me during your visit to San Francisco. Whether you're coming for business, pleasure, or to visit family, I think you will enjoy my rooms and my neighborhood. I've been here in San Francisco and in Potrero Hill since 1978, and I can help you figure out what to do and how to get around. I've had construction and design businesses all my life and I'm enjoying adding Airbnb hosting to my daily routine. I've travelled quite a bit and enjoy having the world come to me! Here are all of my listings: Potrero Hill Garden Cabana: https://www.airbnb.com/rooms/205842 Potrero Hill Garden Suite: https://www.airbnb.com/rooms/33577 Potrero Hill Garden Lookout:https://www.airbnb.com/rooms/33578 Potrero Hill Garden Getaway: https://www.airbnb.com/rooms/918341 Please email me if you have any questions. I hope to hear from you. Kepa Askenasy`,
@@ -783,7 +792,6 @@ mongoose
     house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN): NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Garden Suite is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Suite is all yours. ADULTS ONLY Hello Guests! The Garden Suite is a large studio style accommodation with a Private Entrance- you will be the only ones here! We share the large and luscious courtyard succulent garden with my other guests. You will feel as refreshed staying here as if you were vacationing in wine country! I look forward to hosting you. Garden Suite details: PRIVATE ENTRANCE. The Suite is a private studio that is all yours. • "Coffee Bar"- small fridge/ coffee maker/ tea kettle/ toaster and microwave. Section of teas, and coffee. • Clos`,
     price: 200,
-    host_picture_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -797,6 +805,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "9c6aa8564a9395195875f9e346adbe453a459508",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.28,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/80811/7a57d0e7_original.jpg?aki_policy=medium",
@@ -820,7 +832,6 @@ mongoose
     calendar_updated: "3 days ago",
     summary: `Welcome to San Francisco's Mission District, the sunniest neighborhood in town! Enjoy Valencia Street's world-class dining, shopping, and nightlife, or a picnic in Dolores Park on a sunny afternoon... It's all just steps from our 100 year old home!`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/80811/7a57d0e7_original.jpg?aki_policy=small",
-    host_name: "Ivan & Wendy",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/8739",
     neighbourhood_cleansed: "Mission",
@@ -859,7 +870,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/7149/profile_pic/1259098370/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `Ivan is a publisher of a book for 4 year olds. (Look for "Four is a little, Four is a LOT" or "fourlosophy".) Wendy is an elementary school teacher. And Milo is a 25 pound mutt. (Terrier...? Chihuahua...? Pinscher...? Perhaps. Sweet...? Charming...? Adorable...? Absolutely!) We've hosted continuously since 2009 - the year Airbnb née "AirBedAndBreakfast" began! We love our home, our hometown, and our neighborhood, and we look forward to sharing them with you. We'll happily make dining recommendations, share insider sight-seeing ideas, and hopefully help you have a great visit.`,
@@ -883,7 +893,6 @@ mongoose
     house_rules: `SMOKING: No Smoking anywhere in, on, or around the property, or within 25 feet of the front gate. No Smoking in the Garden. No smoking on the front stairs. QUIET HOURS: Quiet Hours are 10:30pm to 8:00am on weeknights, midnight to 10:00am on weekends. Those are not "lock out" hours, you may come and go as you like, but if you are home during Quiet Hours, please keep noise to a minimum: No late night showers, no audio without headphones, no sitting and talking in the garden, etc. (Our neighborhood is authentic "San Francisco" in its density and architecture, so there are neighbors very nearby, and sound travels surprisingly well in the still of the night, and through the lightwells between buildings.) CHECK-IN: Our check-in time is listed as "flexible" but think of it as "TBD" - To Be Determined. After you book, get in touch and let us know what time you'll arrive, and we can coordinate check-in. We will try to accommodate your preferred arrival time, but no guarantees. ARRIVAL: Once`,
     description: `Welcome to San Francisco's Mission District, the sunniest neighborhood in town! Enjoy Valencia Street's world-class dining, shopping, and nightlife, or a picnic in Dolores Park on a sunny afternoon... It's all just steps from our 100 year old home! Your sunny room has a queen size bed, and looks out over lush gardens. It includes all the comforts of home... Sofa, dresser, closet space, rocking chair. Your private (though not "en-suite") bathroom has a "like rain" shower head, over a clawfoot tub. We have a twin mattress available for $60/night, to use for a 3rd Guest or for separate sleeping. (It can go on the floor in the same room, or in our dining room if you'd like a little more space.) Guests have their own bedroom and private bathroom (though it is not "en-suite") as well as shared access to our living room and sunporch. In the kitchen, guests can store food in our refrigerator, re-heat using the microwave, and make light "snacks," but you may not use the stove, pots and pans,`,
     price: 139,
-    host_picture_url: "https://a0.muscache.com/im/users/7149/profile_pic/1259098370/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -897,6 +906,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "d76bf6dc538681570e582d95366173e632587b69",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 4.91,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/110931/30991c66_original.jpg?aki_policy=medium",
@@ -921,7 +934,6 @@ mongoose
     calendar_updated: "a week ago",
     summary: `Large guest room in my home, where I also live. I have breakfast foods for you to help yourself to. If 3 people share this room, one sleeps on the couch in the room.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/110931/30991c66_original.jpg?aki_policy=small",
-    host_name: "Jill",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/590",
     neighbourhood_cleansed: "North Park Hill",
@@ -960,7 +972,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/933/profile_pic/1321124670/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I am friendly and I love meeting people from all over the world. I have received guests from over 33 different countries so far, in over 8 years of being an Airbnb host. I'm easy going and easy to get along with. Staying with me can be like staying with a friend of a friend, in that I am glad to try to take care of your needs, and give you pointers about Denver, (or pick you up from the train from the airport - Central Park stop) or also happy to leave you alone and grant you all the privacy you want (tell me.) I have no pets, but occasionally I dog sit for my grandpuppy. I speak French well, some German and Spanish. As a traveler, I love to go places, stay a while, and interact with locals. I love using Airbnb to travel and like to stay with hosts who also live in the property. I enjoy just walking around, getting a feel for a city and meeting people, more than just seeing the big tourist attractions. I think I am adaptable and an easy and appreciative guest. I love to speak French, practice my Spanish and even try to resurrect my long-forgotten German. I always like to try to learn to say at least please and thank you in the language of any place I visit.`,
@@ -983,7 +994,6 @@ mongoose
     house_rules: `Please read about Denver Lodging Tax under "Other Things to Note" and by Instant booking, you are agreeing to pay the separate and additional 10.75% Lodging Tax. I prefer non-smokers, but if you smoke, please do so quite away from the house outside.`,
     description: `Large guest room in my home, where I also live. I have breakfast foods for you to help yourself to. If 3 people share this room, one sleeps on the couch in the room. I have been enjoying welcoming many wonderful guests into my home for over 8 years now with Airbnb (from 33 different countries so far.) Please have a bit of info about yourself in your Airbnb profile. (Hover over the tiny picture of yourself in the very top, right corner and Edit Profile will be one of the options that pop up) In this guest room there is a queen-sized bed, couch, wifi, TV for DVDs and VHS tapes only (I have a selection), (I may have TV working again soon. Ask if it's important to you) desk with computer you may use, also some closet and drawer space. Must share bathroom with me, (or use basement bath) but my time is now flexible since I retired! There has never been an inconvenience yet with sharing the bathroom. The room fits two people comfortably, but sometimes a third person sleeps on the couc`,
     price: 61,
-    host_picture_url: "https://a0.muscache.com/im/users/933/profile_pic/1321124670/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -997,6 +1007,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "c7d1da46e6e9e9a05a93926423893234e9fb3704",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 11.94,
     beds: 2,
@@ -1038,8 +1052,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/11062006/profile_pic/1417040909/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/11062006/profile_pic/1417040909/original.jpg?aki_policy=profile_small",
     description: `Central Victorian two bedroom quiet Edinburgh flat overlooking the sea & The Royal Yacht Britannia. Free parking. Beautifully decorated & recently refurbished, this flat boasts a living room, kitchen, 2 large bedrooms, an ensuite shower room & bathroom with bath. Close to The Shore and Newhaven Harbour and a 10-15 min drive to the centre. YOU'LL HAVE THE WHOLE APARTMENT TO YOURSELF FOR THE ENTIRE STAY WITH FREE PARKING This is a sunny, light, high ceilinged flat on the second floor of an Edinburgh Victorian apartment in the Newhaven area of Edinburgh, with views over the Firth of Forth to Fife and The Royal Yacht Britannia. The self catering apartment is fully equipped and has been recently refurbished/decorated and SLEEPS UP TO 4 PEOPLE plus extra room for a baby/toddler (please note we provide a cot so just ask if you need one set up) The flat benefits from a comprehensively equipped kitchen, open plan, off the main sitting room area. There is a traditional bathroom with a large,`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -1083,7 +1095,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 2,
     house_rules: `We're generally pretty laid back but we'd really appreciate it if you wouldn't smoke in the flat. It is on the second floor so it is not far to walk down the stairs to have a cigarette outside. Also if you could be respectful to our neighbours and keep the noise level down after 10pm (and not use the washing machine after 8pm) that would be great. We don't allow any parties in this flat. If you could also please take your luggage/suitcases quietly down the flat stairs if leaving early in the morning or late at night so as not to disrupt our neighbours that would be very much appreciated. Thank you so much :)`,
-    host_name: "Zoe",
     notes: `Check in time is from 2pm and check out is from 11 am. If you arrive earlier than this, the Edinburgh bus station in the centre of town holds luggage for just £10. Please let us know in advance when you will arrive so we can arrange to be there to meet you and show you around our apartment. Thank you`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -1093,6 +1104,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "1f5c50e70618d140131cc44543abcd533d14b838",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 5.68,
     beds: 1,
@@ -1133,8 +1148,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/60473/profile_pic/1430265890/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/60473/profile_pic/1430265890/original.jpg?aki_policy=profile_small",
     description: `Situated in the grounds of a private home, this detached cottage/guesthouse comes with everything you need for an enjoyable stay in a tranquil setting within walking distance to restaurants, bars, and the beach! Situated in the grounds of a private home, this detached cottage/guesthouse comes with everything you need for an enjoyable stay in a tranquil setting within walking distance to restaurants, bars, and the beach! Live like a local with accommodation to rival any hotel - for less!! Situated in the grounds of a private home, this detached cottage/guesthouse comes with everything you need for an enjoyable stay in a tranquil setting within walking distance to restaurants, bars, and the beach! The property is located on one of the most picturesque walk streets of Venice. Only 2 blocks from the trendy shops and restaurants on Abbott Kinney Blvd and a short walk from the famous Venice Canals. The Venice “walk streets” are another enchanting part of Venice’s history. Homes face each o`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -1177,7 +1190,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 1,
     house_rules: `****CLEANING FEES**** $65....20% discount is offered if you decide to pay this in cash ($50). Fees are not charged by Airbnb and are due upon departure. For the first 2 nights' stay the cleaning fee will be WAIVED. From the third night forward the cleaning fee will be applied. Maximum 2 Occupants - No Pets No Smoking in the guesthouse - but OK in the courtyard. Please do not leave lights, fans, or appliances on when not in the guesthouse. No burning candles indoors. No Parties - while we appreciate that you may have friends and family in the area what we offer is for the comfort of our guests (two people) and is not suitable for entertaining. We ask that you please respect our home and our neighbors by refraining from inviting others to hang out at our property. Quiet Time - If you use the courtyard after 10pm please be respectful of our neighbors and keep conversation low.`,
-    host_name: "Maddy",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -1187,6 +1199,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "e47d92d10cc67e969ba9d48ed83e7b9e892a64e8",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 9.93,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/24604852/d5c3d6ca_original.jpg?aki_policy=medium",
@@ -1211,7 +1227,6 @@ mongoose
     calendar_updated: "7 weeks ago",
     summary: `Beautifully remodeled basement suite in lovely victorian home in central Denver`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/24604852/d5c3d6ca_original.jpg?aki_policy=small",
-    host_name: "Jason",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1733052",
     neighbourhood_cleansed: "Cheesman Park",
@@ -1250,7 +1265,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2416216/profile_pic/1368757669/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I enjoy traveling and exploration; mountain climbing and the outdoors. I work in the medical field as a Medical Physicist in Radiation Oncology. I have been living in Denver for about 16 years. I like mountaineering quite a bit and have climbed the highest mountain on 3 continents. I love to see and experience different cultures and beautiful landscapes. In 2012, I married Vibeke, and we are happily living in central Denver and enjoy cooking and the outdoors together.`,
@@ -1273,7 +1287,6 @@ mongoose
     house_rules: `Rental Agreement - When you book to stay in our home you agree to abide by all rules under House Rules of our profile as well as the written rules that will be provided to you upon your arrival. Don't worry - they are not that extreme. However, if you break any of the rules you risk the possibility of a cancellation of the remainder of your stay.`,
     description: `Beautifully remodeled basement suite in lovely victorian home in central Denver Just 2 blocks from Cheesman park. Within walking distance to restaurants, shops, theaters, music venues, and downtown. Buses and light rail (RTD) are available as well as bike rentals. Guests will be staying in a comfortable, clean basement suite. Includes a private bedroom with queen sized bed, additional twin bed and large couch in another room, full bath, washer/dryer, entertainment center, WiFi, and small refrigerator. There is also a backyard deck to relax on. No pets and no smoking allowed in the house. Sorry, we do not allow the use of marijuana on our property. Check-in is 5:15 pm or later weekdays, and 4 p.m or later weekends. Check-out is 10 a.m. every day. At times we are able to accommodate earlier check in. Inquire with us if you would like to check in earlier. There is a lock box on the door if we are not available at time of check-in or if guests want to drop luggage off prior to check in. We`,
     price: 75,
-    host_picture_url: "https://a0.muscache.com/im/users/2416216/profile_pic/1368757669/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1287,6 +1300,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "4266a702d7cf0ce316eeef28846723f17357c650",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.08,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/1eb1ad0f-87e6-4b2c-b60b-1e35cafd9035.jpg?aki_policy=medium",
@@ -1310,7 +1327,6 @@ mongoose
     calendar_updated: "today",
     summary: `★ Location - The best ★ Room - In a '16th century' apartment ★ Internet connection - Fastest available ★ SuperHost - AirBnB chosen few ★ Not satisfied? - Money back guaranteed! Be Aware: - The stairway is steep - No kitchen access - Shared bathroom & toilet`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/1eb1ad0f-87e6-4b2c-b60b-1e35cafd9035.jpg?aki_policy=small",
-    host_name: "Manuel",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/68290",
     neighbourhood_cleansed: "Centrum-West",
@@ -1348,7 +1364,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/336950/profile_pic/1353968946/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I am an easygoing and an open-minded guy that loves to travel. My interest in meeting new cultures and people is grounded in my roots, as I am half Dutch, half Peruvian and born in Indonesia. I believe that I have the Peruvian attitude in welcoming my guest and the Dutch approach in managing and setting up my new businesses. I have explored Amsterdam for many years now and still think that there is much more to find out. The city and the party scene are extremely vibrant, but at the same time offers you plenty of opportunity to relax and just take in the atmosphere. AirBnB has been a great platform for me and I am extremely proud that the AirBnB community has rewarded my effort with the Super host status!`,
@@ -1372,7 +1387,6 @@ mongoose
     house_rules: `CLEAN: I expect my guests to leave my apartment in the same state as it was when they arrived. RESPECT: Have respect for the fellow AirBnB'er, my neighbors (do not disturb them in anyway) and the host :). As this is a ±400 year old house the neighbors respect each other's privacy in terms of noise pollution, especially at night, so please be considerate. SAFETY: No open flames are permitted anywhere in the house. That means no smoking or candle burning. PRIVACY: I expect my guests to respect my property and not take things with them that do belong to me. If violated, guests will be immediately invited to leave the house and no refund will be granted. I am not a mean person, but feel that in opening my home to offer my guests a more affordable and comfortable vacation experience, my request for privacy should be honored without exception. SECURITY: At the ground floor I placed a camera focused on the street door. These footages I am allowed to use and/or share if needed. UNKNOWN P`,
     description: `★ Location - The best ★ Room - In a '16th century' apartment ★ Internet connection - Fastest available ★ SuperHost - AirBnB chosen few ★ Not satisfied? - Money back guaranteed! Be Aware: - The stairway is steep - No kitchen access - Shared bathroom & toilet The place and room I am offering is uniquely situated in the historical heart (old city center) of Amsterdam. And fits two people comfortably. The private room is located on the third floor. Main features of the room: - Fast wifi (my internet plan 200 mb / 20 mb) - Easy access to the room without disturbing anyone when entering and exiting the house. - A very comfortable bed (queen size or two single beds) - A decent working table. - Good heather that can be easily adjusted. - Towels and sheets are included Interesting fact is that the room is located between the Radisson Blu Hotel (with an average price of 270 euro per night) and Sofitel Legend The Grand Amsterdam (average price of 400 euro per night). Bathroom & Toilet Shared toi`,
     price: 109,
-    host_picture_url: "https://a0.muscache.com/im/users/336950/profile_pic/1353968946/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1386,6 +1400,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "d7ba1fe9d38572dc17a8ecb2e7830cd7703e2c44",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.14,
     beds: 1,
@@ -1426,8 +1444,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/2252538/profile_pic/1335749211/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2252538/profile_pic/1335749211/original.jpg?aki_policy=profile_small",
     description: `Our private suite is in a quiet, family friendly neighborhood with bus, metro, walking or bicycling access to the National Mall and downtown DC. Private bath as well as kitchen amenities such as a mini fridge, keurig, microwave & electric tea kettle. Welcome to the nation's capital--we love it here and we want to help you enjoy it too! The Queen size bed with clean sheets/duvet cover/towels for each new guest. A spacious efficiency, basement apartment complete with a private bathroom, mini-fridge, microwave and hot water pot and Keurig single cup coffee maker. We'll provide some drinks and a few snacks to get you going as well as tea and coffee you can make in the room The location: We have a beautiful corner lot row house in NE Capitol Hill, a few blocks from the budding H ST NE neighborhood. We are close to multiple bike share racks (one block to the closest) about a mile/2km to the Capitol building, Union Station, and Eastern Market, respectively Who we are: Adam and Jen`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -1470,7 +1486,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `1. Please only request a ONE NIGHT stay if it is the only night open or we are within 2 weeks of your arrival. Since we do the cleaning and laundry this is a lot more work for us. 2. Please communicate your arrival time (after 2 pm) if you will be arriving prior to 2pm please let us know and you can store your bags in a seperate room prior to check in. 3. Check out is 10am if you need to store your bags after check out time we can also accommodate that. Just please let us know ahead of time. 4. No smoking 5. No pets This is a safe, urban neighborhood--kids play outside with minimal supervision, people are generally friendly, and you can walk to bars and restaurants without trepidation. However, it is a city neighborhood--please be careful at night, do not leave valuables in your car, and pay attention to your surroundings. Jen and I have odd schedules and curiosities about our jobs you may not be used to. Jen works in a hospital, so she is sometimes home during the day, and someti`,
-    host_name: "Adam And Jen",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -1480,6 +1495,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "eb9ac9ff662a1930246b06ef4623bae6ae3d254b",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 9.59,
     beds: 1,
@@ -1520,8 +1539,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/7867565/profile_pic/1390419038/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/7867565/profile_pic/1390419038/original.jpg?aki_policy=profile_small",
     description: `Comfortable room on the 2nd floor of a monumental canal house, close to the Anne Frankhuis. View on patio and terrace. With nice weather you can enjoy your breakfast there. Breakfast service can be requested. The bathroom is equipped with a bath. Public transport and bicycle rental on walking distance. Situated in the heart of the city of Amsterdam, but the bedroom is quiet for a good night sleep. The house is an monumental canal house, build in 1792 and has an authentic character and a nice atmosphere. Access to WIFI, possibility to prepare coffee or tea, use of the refrigerator, television in the room available. Check in can be agreed directly according to travel times. Check out at 12:00 I live in the house and am available for breakfast service, but also for nice tips and advice about nice places to dine&wine and visit.`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -1565,7 +1582,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `.Er mag op het terras gerookt worden. Ik leef en werk in mijn appartement , liever geen gasten die de hele dag op bed liggen, dan kun je beter een hotel nemen.`,
-    host_name: "Julia",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -1575,6 +1591,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "e9798a6b20fad1e7f3e80a5a5a68bec4d032f5d5",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.68,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/ba3acad4-5bcd-4281-adb1-e180899fe738.jpg?aki_policy=medium",
@@ -1597,7 +1617,6 @@ mongoose
     calendar_updated: "6 days ago",
     summary: `New renovated Garden Suite with separated entrance, private Living room, private Bathroom`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/ba3acad4-5bcd-4281-adb1-e180899fe738.jpg?aki_policy=small",
-    host_name: "Su",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/545685",
     neighbourhood_cleansed: "Outer Richmond",
@@ -1633,7 +1652,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2676602/profile_pic/1340125021/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `We have been living in San Francisco for 10 years. We like the city very much. You will like it too!`,
@@ -1657,7 +1675,6 @@ mongoose
     house_rules: `The Garden Suite is a self-service stay. Fresh linens & towels are provided. Please help to keep the suite clean, more or less as you found it. - No candles or other open flames. - Please take off your shoes while indoors. We will have slippers for you. - Laundromat is half a block away. Terms of Accommodation PLEASE READ THESE TERMS CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS. THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A CLAUSE THAT GOVERNS THE JURISDICTION AND VENUE OF DISPUTES. Key Terms Unless otherwise provided, the key terms contained herein are those provided in Airbnb’s Terms of Service as amended from time to time. In case of conflict, the definitions contained in these Terms of Accommodation shall prevail. Host provides Guest with the right to use and enjoy certain premises listed by Host on and booked by Guest through the Site, Services and Application (the “Accommodations”). By booking the Accommodati`,
     description: `New renovated Garden Suite with separated entrance, private Living room, private Bathroom Newly renovated Garden Suite with separated entrance, private living room, bed room, bathroom. You have total privacy during your stay. Our house is in Central Richmond, San Francisco which is close to the Golden Gate Bridge and Golden Gate Park. It is a safe, peaceful residential neighborhood with excellent access to SF's urban center. Your lovely garden suite has a private entrance, with - Access to garden - Private Bathroom (attached) - Private Entrance - Fast WiFi (Wireless Internet) - Queen-sized bed - sofa bed (69 in / 175 cm long) - alternatively, an aerobed is provided upon request. - Table and Chairs - Microwave and Refrigerator - Hairdryer - Iron and iron board upon request - Laundromat half a block away YOUR LOCATION 3 minutes walking to Golden Gate Park. 10 minutes driving to Golden Gate Bridge Public transportation goes to downtown, Union Square, Chinatown, museums, beaches, ma`,
     price: 79,
-    host_picture_url: "https://a0.muscache.com/im/users/2676602/profile_pic/1340125021/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1671,6 +1688,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "3415cc999d8da8f6cafd53d33797f1c7e426f58c",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.69,
     zipcode: "75011",
     medium_url: "https://a0.muscache.com/im/pictures/8120872/41612baa_original.jpg?aki_policy=medium",
@@ -1694,7 +1715,6 @@ mongoose
     calendar_updated: "3 days ago",
     summary: `Charming room (16m2), in a bright and quiet apartment, safe and secure exceptionally located near the Bastille district, Le Marais and Nation. Breakfast included with fresh french bread . Lively neighbourhoods. Supermarket, grocery stores, bakeries. Breakfast included.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/8120872/41612baa_original.jpg?aki_policy=small",
-    host_name: "Maguy",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/629248",
     neighbourhood_cleansed: "Popincourt",
@@ -1732,7 +1752,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/3125405/profile_pic/1343834210/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I am a fifty-eight year old woman whose daughter has just left to go off to London. With my empty nest, I have decided to welcome travelers. I know and love Paris dearly. I enjoy sharing my knowledge of the city with my guests so that they have the best visit possible.`,
@@ -1754,7 +1773,6 @@ mongoose
     house_rules: `Polite, discreet and respectful`,
     description: `Charming room (16m2), in a bright and quiet apartment, safe and secure exceptionally located near the Bastille district, Le Marais and Nation. Breakfast included with fresh french bread . Lively neighbourhoods. Supermarket, grocery stores, bakeries. Breakfast included. The apartment features three bedrooms: mine and two that are available for Airbnb guests, a big kitchen with dining room and a separate toilet. I have my own bathroom with toilet. There is a second bathroom with shower for Airbnb guests only. If needed for long stays, a washing machine is also available. Hours check-in and check-out are totally flexible. You have a key that allows you to enter and exit whenever you want respecting of course the calm of the apartment. I'll give you all tips you need. About ten days before your arrival I send you my complete address and phone number. When you communicate me your arrival time and according to your place of arrival I write you the best way to get to the apartment. I inform`,
     price: 60,
-    host_picture_url: "https://a0.muscache.com/im/users/3125405/profile_pic/1343834210/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Paris, France",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1767,6 +1785,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "828d5b0e9f0c09ca7d9c7dc07ca8bc68063e8c69",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.05,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/11408728/8881f26b_original.jpg?aki_policy=medium",
@@ -1790,7 +1812,6 @@ mongoose
     calendar_updated: "4 days ago",
     summary: `At first you will be surprised with how quiet and peaceful it is on the inside of the boat. On a good day there will be a lot of boats active on the water and you'll feel you are at the most central point of Amsterdam. Living on a boat like this gives you all the comfort (central heating, airconditioning, cable tv, et cetera), but also a feeling best described as 'freedom'. The boat is fixed of course, but the slight movements give you the feeling you are not attached to the rest of the world.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/11408728/8881f26b_original.jpg?aki_policy=small",
-    host_name: "Daan",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/785432",
     neighbourhood_cleansed: "Centrum-Oost",
@@ -1827,7 +1848,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2586026/profile_pic/1339483437/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `My name is Daan Stoelinga. I run this B&B. I also work as a freelance cook.`,
@@ -1849,7 +1869,6 @@ mongoose
     maximum_nights: 1125,
     description: `You enter the houseboat from the square directly in front of the 'Stopera'. Down about 5 steps you can go left to a small bedroom (sleeps 2), straight ahead to the rather large bathroom with toilet, seperate bath and shower. If you go right you enter the fully equipped kitchen and the living room. At the dining table you can sit and enjoy the view over the most central bit of the river Amstel. Of course there is also a comfortable couch and a sofa-bed to sleep 2. From the living room you enter the master bedroom with a nice double bed. If the weather is good you can also enjoy the terrace which has sun whenever it shines! From the terrace you'll see the river Amstel, the famous Blauwbrug (Blue bridge) and the Opera. At first you will be surprised with how quiet and peaceful it is on the inside of the boat. On a good day there will be a lot of boats active on the water and you'll feel you are at the most central point of Amsterdam. Living on a boat like this gives you all the comfort (c`,
     price: 200,
-    host_picture_url: "https://a0.muscache.com/im/users/2586026/profile_pic/1339483437/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1863,6 +1882,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "0c93a5db89de32f6296d0e56a01a8aca44c9a10d",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.77,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/441663/3b89dea1_original.jpg?aki_policy=medium",
@@ -1887,7 +1910,6 @@ mongoose
     calendar_updated: "4 days ago",
     summary: `Cozy, comfortable, spacious apartment located in historic Congress Park. Easy walking distance to coffee shop, restaurants, laundry and grocery store. 2.5 miles from Downtown Denver. Bus stop and bicycle rental station one block away.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/441663/3b89dea1_original.jpg?aki_policy=small",
-    host_name: "Carey",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/58598",
     neighbourhood_cleansed: "Congress Park",
@@ -1926,7 +1948,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/280583/profile_pic/1292871681/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I love the great outdoors so living in Colorado makes it easy to participate in outdoor activities - biking, hiking, and enjoying the great scenery Colorado has to offer. Thanks to owning a Kindle I read several books each week. I like to knit and enjoy food at the great restaruants around Denver especially when dinning with friends.`,
@@ -1949,7 +1970,6 @@ mongoose
     house_rules: `We ask that whenever possible guests check in after 3:00 pm and check out by 11:00 am to make the apartment available for other scheduled guests. We understand that travel arrivals and departures as well as meetings, vacations, and other activities may not coincide with check-in and check-out times. Whenever possible we will be happy to accommodate your scheduling needs. Information about accessing wireless internet, cable television and other information is provided when you arrive at the apartment. NO SMOKING of any kind, no candles, no incense in the apartment. If you need to smoke, please do so outside the apartment. NO PETS. NO PARTIES. We understand that you may be visiting relatives living in the Denver area and may want to have them over to the apartment. This is not a problem. Let us know how we can help you best enjoy your visit to Denver. Some guests are allergic to perfumes and scented body products. Whenever possible, and for the comfort of all our guests, pleas`,
     description: `Cozy, comfortable, spacious apartment located in historic Congress Park. Easy walking distance to coffee shop, restaurants, laundry and grocery store. 2.5 miles from Downtown Denver. Bus stop and bicycle rental station one block away. Spacious 2 bedroom apartment with loft is located on upper floor of a four-square home built in 1902. Apartment includes living room, full kitchen, full bath (with claw foot bathtub) and access to private roof top patio. Enjoy your morning coffee or wine with dinner on our charming roof-top patio. Bedroom 1 has queen size bed. Bedroom 2 has queen size futon. The loft has 2 twin beds. The apartment features hard wood floors, craftsman trim accents, large windows for great views, and lots of charm. Hair dryer, ironing board and suitcase rack for each bedroom. Complimentary toiletries (shampoo, conditioner, lotions, soap, toothpaste, etc.) for our guests' convenience. No smoking and no pets please. Supervised children are welcome. We take pride in p`,
     price: 96,
-    host_picture_url: "https://a0.muscache.com/im/users/280583/profile_pic/1292871681/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -1963,6 +1983,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "d5380e15008649a56d595a90e113f80fa433444b",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 6.21,
     beds: 1,
@@ -2002,8 +2026,6 @@ mongoose
     review_scores_location: 8,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/732783/profile_pic/1309189472/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/732783/profile_pic/1309189472/original.jpg?aki_policy=profile_small",
     description: `Budget independent studio with all basics you will need for great visit to Amsterdam. Balcony is a bonus ;-) Close to the tram station and only 10 minutes from old city center. Shops and supermarket around the corner. Free fast WiFi. _____________________________________ Description Independent, 100% private, spacious space with balcony at the 3th floor with a lot of light. Free fast WiFi and computer is included. space has 2 sleeping places and it is suitable for a couple or for 2 persons. Your own kitchen, bathroom and toilet are well maintained. Towels, sheets, shampoo, hair-dryer are all available. We (me and my girlfriend Margarita) have in our apartments registered B&B and we pay all the Income and Touristic taxis and working fully in compliance with Dutch and Amsterdam laws and rules. The both our space are part of our apartment, but arranged in 100% private and independent units. ––––––––––––––––––––––––––––––––––––––––––––––––––– Good Location: The apartment with name "`,
     review_scores_communication: 9,
     experiences_offered: "none",
@@ -2047,7 +2069,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 2,
     house_rules: `General You have chosen our FreeRoomTonight service instead of a hotel. This means first of all that we can't give you a 24 hours service. Secondly, we have some house rules that need to be respected in order to make your stay and that of others as comfortable as possible. For one, we ask our guests to respect each other's privacy. We much appreciate it if our guests will be careful with the objects in our apartments. Accidents are always possible, but damages need to be paid for. Children's For one child up to 3 years old you don't pay extra, older children's are seen as extra person. Tranquillity Please respect each others well deserved sleep and try to be quiet should you come in at a late hour. Screaming and shouting is not welcome over the day too ;-) Check-in/check-out Rooms are ready after 15.00 hrs. Arrivals are possible at any moment during the day, however, only after deliberation with us. If at your time of arrival in the morning the room is not yet ready, you can always l`,
-    host_name: "Max Osole",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -2057,6 +2078,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "eb82a0cc66bd0b29b91f0fa64b23444a18616690",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.61,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/546799/92f5004e_original.jpg?aki_policy=medium",
@@ -2080,7 +2105,6 @@ mongoose
     calendar_updated: "2 days ago",
     summary: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Lookout is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Lookout is all yours.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/546799/92f5004e_original.jpg?aki_policy=small",
-    host_name: "Kepa",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/33578",
     neighbourhood_cleansed: "Potrero Hill",
@@ -2119,7 +2143,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi Guests, Thank you for considering staying with me during your visit to San Francisco. Whether you're coming for business, pleasure, or to visit family, I think you will enjoy my rooms and my neighborhood. I've been here in San Francisco and in Potrero Hill since 1978, and I can help you figure out what to do and how to get around. I've had construction and design businesses all my life and I'm enjoying adding Airbnb hosting to my daily routine. I've travelled quite a bit and enjoy having the world come to me! Here are all of my listings: Potrero Hill Garden Cabana: https://www.airbnb.com/rooms/205842 Potrero Hill Garden Suite: https://www.airbnb.com/rooms/33577 Potrero Hill Garden Lookout:https://www.airbnb.com/rooms/33578 Potrero Hill Garden Getaway: https://www.airbnb.com/rooms/918341 Please email me if you have any questions. I hope to hear from you. Kepa Askenasy`,
@@ -2142,7 +2165,6 @@ mongoose
     house_rules: `PLEASE READ THE HOUSE RULES •No smoking on the property • No one on the premises under the age of 18 (no infants/ toddlers/ children or teenagers- including with adult supervision) • Two adults maximum per listing • No partying- please respect that other guests may have jet lag and are sleeping or napping- or that I may be having clients over for business (my architecture office is in the back cottage). We all can get a little too loud with too much to drink so please don't drink too much! •Keep the street door locked at all times •No photo or video shoots or commercial use whatsoever- this is a residential property and my insurance could be voided if you do so (plus it’s inappropriate- this is my home). Personal photos are welcome. • No pets • No parking in my neighbors’ driveway even for a moment, please ask me to show you where to park: PARKING: If you plan on bringing a car (not necessary for touring the City) please tell me ahead of time so that I can explain to you where you can`,
     description: `ADULTS ONLY NOT FAMILY FRIENDLY Registration #(PHONE NUMBER HIDDEN) NO children or grandchildren of any age under 18 years old are allowed on the property at any time. Includes infants, NO KIDS of any age! The Lookout is a private studio with a private entrance and private everything else! You will have your own bathroom/ bedroom/ small coffee bar with fridge, microwave, toaster, and tea kettle. You can relax knowing that the Lookout is all yours. ADULTS ONLY "Coolest Place to Stay in San Francisco"- California Home and Garden Magazine. ADULTS ONLY The Lookout is a private studio and was designed with the quiet and mature adult in mind, the guest who is looking for a respite in the City, for a place to catch up on much needed sleep and restoration between working, visiting relatives, or exploring San Francisco. You will have complete privacy in the Lookout! No smoking. Two adults maximum. No parties. No one under 18 on the property. No pets. Garden Lookout details: The Loo`,
     price: 200,
-    host_picture_url: "https://a0.muscache.com/im/pictures/user/9fb305b5-f77c-4245-9d5e-96eb158b8d90.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -2156,6 +2178,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "b97a1efdf3a9f8dddfee48ab44f0e0ea80cf683a",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.6,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/9978162/079c36f4_original.jpg?aki_policy=medium",
@@ -2179,7 +2205,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `My apartment is on the 2nd floor of a 17th century monument in a very quiet street in the heart of historical Amsterdam Center, on walking distance from Central Station. Please be aware that you have to climb two typically 'Amsterdam ' stairs! So pretty steep if you are not used to it or you have mobility problems. Of course I will help you with your luggage.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/9978162/079c36f4_original.jpg?aki_policy=small",
-    host_name: "Mirjam",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/694850",
     neighbourhood_cleansed: "Centrum-West",
@@ -2217,7 +2242,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/9a1902ac-cb45-405a-b9fd-71113b050754.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I'm a designer of exhibitions and graphic designer. I like my work, and also like visiting cities or nature: hiking and biking, reading and movies, I love all kind of music, from Rock, Blues and Jazz to Bach. You can talk to me in English, German, French and Dutch. I am an active Airbnb host, helping other hosts to make homesharing to a positive experience for both guests and host. I am administrator of the Face Book group Airbnb Hosts Amsterdam and leader of the Airbnb Home Sharing Club Amsterdam`,
@@ -2240,7 +2264,6 @@ mongoose
     house_rules: `The house is divided in four apartments accessible with a communal staircase. • We expect you to be quiet on the stairs and in the guest room. • It is highly appreciated by the downstair neighbors when you take off your shoes in the apartment. Fresh washed slippers are provided. • The NO's: No smoking, no pets. Smoking is only allowed downstairs on the street. Also: no drugs, no loud conversation.`,
     description: `My apartment is on the 2nd floor of a 17th century monument in a very quiet street in the heart of historical Amsterdam Center, on walking distance from Central Station. Please be aware that you have to climb two typically 'Amsterdam ' stairs! So pretty steep if you are not used to it or you have mobility problems. Of course I will help you with your luggage. The guestroom is on the 2nd floor of a 17th century monument in a very quiet street in the heart of Amsterdam Center, on walking distance from Central Station. From Central Station, you can also take the Metro (subway) line 51, 53 or 54. Just one stop after Central Station, get off at Nieuwmarkt, take exit Nieuwmarkt. My address is 100 m away from this Metro exit. The guest room that I rent out to you is on the backside of the building and therefore very quiet. Therefore, be aware that every sound will be heard by our neighbours, so please no loud music or loud conversations. Also: it is highly appreciated when you take off`,
     price: 85,
-    host_picture_url: "https://a0.muscache.com/im/pictures/9a1902ac-cb45-405a-b9fd-71113b050754.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -2254,6 +2277,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "715c7f4fe5764566b10c3074f9733b9ed1f714ef",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.98,
     beds: 1,
@@ -2295,7 +2322,6 @@ mongoose
     summary: `** Please read our entire listing description before booking - thx! **`,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/ac/users/1025723/profile_pic/1330804523/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=225:*&output-format=jpg&output-quality=70",
     description: `** Please read our entire listing description before booking - thx! ** This is studio #7 - one of two private airbnb rooms (located in the same building). We designed the rooms as simple & affordable spaces for arts-related guests, for brief stays & short-term artist residencies near the heart of Seattle's downtown gallery district. But you don't have to be an artist to stay here - all are welcome! ** Please read our entire listing description before booking - thx! ** This is a quiet private room located among 15 other art studios on the 2nd floor in the Japantown area of Seattle's historic International District. It has an upper bed-loft with a luxurious Novaform queen mattress & very comfortable bedding. The lower portion of the loft has a small loveseat couch (not meant for sleeping), desk & chair, and other basic furniture. Free wifi and satellite TV w/HBO are included. There's a shared kitchenette (not a full kitchen) and 2 shared bathrooms (one with a shower) in the hallway just`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -2338,8 +2364,6 @@ mongoose
     require_guest_phone_verification: "True",
     guests_included: 1,
     host_total_listings_count: 3,
-    host_thumbnail_url: "https://a0.muscache.com/ac/users/1025723/profile_pic/1330804523/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=50:*&output-format=jpg&output-quality=70",
-    host_name: "Dirk & Jaq",
     notes: `Please note that there is a long flight of stairs to get up to our floor and no elevator. Also you need to climb a ladder to get up into the bed loft. And finally just want to make sure you've noticed it is a shared bathroom – not a private bathroom.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "100%",
@@ -2349,6 +2373,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "8c00e2f2fb95c459fe535f3cb767366c8a6fb450",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.81,
     zipcode: "97202",
     medium_url: "https://a0.muscache.com/im/pictures/75b01ebf-a14b-4838-a4de-798b5ecbcdb7.jpg?aki_policy=medium",
@@ -2372,7 +2400,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `A quiet, cozy bedroom & bathroom on the ground floor of a beautiful, modern new home in a verdant, friendly Southeast Portland neighborhood. Enthusiastic greeting by very friendly dog & cat comes standard!`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/75b01ebf-a14b-4838-a4de-798b5ecbcdb7.jpg?aki_policy=small",
-    host_name: "Brad & Becca",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/762386",
     neighbourhood_cleansed: "Creston-Kenilworth",
@@ -2409,7 +2436,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/c93a942b-e54a-4aff-9074-26cfb5b0401f.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `We are a youngish married professional couple who have lived in Portland for about a dozen years. Brad has traveled the world, and we are both thrilled to have the opportunity to make our home available to other adventurous wanderers. Becca is a professionally-trained culinary hobbyist who makes a living as an accountant, and Brad loves his job as a high school teacher. We're into good vittles, ample coffee, riding our bikes, taking in plays, movies, and comedy shows, getting together with friends, and spending time together in our beautiful home. We're happy to spend social time with our guests, but we have no problem leaving them to their own devices and plans if that's how they've structured their visit. We look forward to meeting you!`,
@@ -2432,7 +2458,6 @@ mongoose
     house_rules: `We enjoy getting to know our guests, but we understand that most people who stay with us have plans that keep them occupied away from the house most of the time during their stay. What you can expect from us: we are pretty quiet and mellow and when we do entertain, festivities usually wind down by 11:00pm on the weekends. You are always welcome to hang out with us when we're relaxing at the homestead, but we will not be put out if you choose to do your own thing.`,
     description: `A quiet, cozy bedroom & bathroom on the ground floor of a beautiful, modern new home in a verdant, friendly Southeast Portland neighborhood. Enthusiastic greeting by very friendly dog & cat comes standard! PLEASE READ THE ENTIRE LISTING BEFORE REQUESTING ACCOMMODATION. As a courtesy to our guests, our check-in time is 3:00 pm; however, as we both work weekdays, we cannot have the rooms ready until 5:00 or so. What this means is that our guests are welcome to make themselves at home in their living room or just drop their bags off and head out exploring, but they won't be able to rest their weary heads or hit the showers until we've had a chance to get home and tidy up. (PLEASE NOTE: This listing highlights the primary guest bedroom available, but for parties of 3 or 4 people, we do have a secondary bedroom that also features a queen-sized bed. All guests share the same bathroom, but the second bed shown on the listing is NOT in a common space, it is in its own private bedroom.) Ther`,
     price: 78,
-    host_picture_url: "https://a0.muscache.com/im/pictures/c93a942b-e54a-4aff-9074-26cfb5b0401f.jpg?aki_policy=profile_x_medium",
     smart_location: "Portland, OR",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -2445,6 +2470,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "ff8224ada84e9799bf92ee1c3bef4bd8f8343971",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 7.68,
     beds: 1,
@@ -2486,7 +2515,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/2103056/profile_pic/1384282807/original.jpg?aki_policy=profile_x_medium",
     description: `Central apartment very equipped with a good library and cd/vinyls collection. Bright, spacious and beautiful bedroom with a balcony in a quiet street. Double bed big and comfortable. WIFI. Air conditioning (hot/cold). Registered in the Tourist Registry of Andalusia: VFT/MA/07085 I offer a bright and spacious bedroom with air conditioning/heater in this charming apartment, very quite and in a centrical area. My house has all the facilities to make your stay very comfortable: It has Wi-Fi, a full equipped-kitchen, washing machine and a bedroom with a big and very comfortable bed. (I can also put a cot for a baby) If you like music and reading you might be interested in my private library, focused on spanish poetry and vinyl discs. The apparment isn't shared with other guests so I guarantee a true local experience. I know many things which make Málaga be special so I can help you to know Málaga very good. It's a special zone where the traditions are enjoyed by people. It's possible to se`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -2529,8 +2557,6 @@ mongoose
     availability_60: 25,
     guests_included: 1,
     host_total_listings_count: 5,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2103056/profile_pic/1384282807/original.jpg?aki_policy=profile_small",
-    host_name: "David",
     notes: `As shown in the ad information, I live in an apartment, I enjoy sharing this space with people around the world who visit me. But if you prefer the whole apartment, without sharing with me, it is also possible: https://www.airbnb.es/rooms/964189`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -2540,6 +2566,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "8eb5faac94012757afacba5b6837b60d36731f67",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 7.18,
     beds: 1,
@@ -2581,8 +2611,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/2220775/profile_pic/1335384535/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2220775/profile_pic/1335384535/original.jpg?aki_policy=profile_small",
     description: `Cosy and large room in quiet area 5 minutes walk from Holyrood Palace/Parliament and bottom of the Royal Mile, and next to Holyrood Park. Flexible check in/out, free parking on street & great transport links. Excellent base to discover the history, attractions and nature this amazing city has to offer!!! My lovely flat is located in a very quiet area behind Holyrood Palace (bottom of the Royal Mile), next to Holyrood Park and 15 minutes walking distance to the city centre so it is an excellent base to discover the history, attractions and nature this amazing city has to offer. The house sits in the second floor of a typical Edinburgh tenement flat with high ceilings, large rooms, gas central heating, double glazing and electric hot shower. The bedroom size is 5 by 4 square metres and features a double bed, one wardrobe, a sofa, a desk and a chair. There is free WiFi internet, fresh towels and bed linen and access to the shared bathroom and a hair dryer. In your room you will find a we`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -2626,7 +2654,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 3,
     house_rules: `Shoes are not allowed in the house. Please wear slippers. We like to be tidy and quiet and would appreciate if our guests respect these principles. Only our guests are allowed inside the flat unless agreed with us before hand. Please be aware there is not access to the kitchen.`,
-    host_name: "Eva",
     notes: `You can find another listing in Airbnb for the second room and a flat. On arrival, please press the buzzer (2F1) and I will let you in.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -2636,6 +2663,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "61f6711fec0d95f863fbe9a364d2048f9a9d1174",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.03,
     zipcode: "20002",
     medium_url: "https://a0.muscache.com/im/pictures/2899982/0ec4fc85_original.jpg?aki_policy=medium",
@@ -2660,7 +2691,6 @@ mongoose
     calendar_updated: "today",
     summary: `Our private suite is in a quiet, family friendly neighborhood with great bus, metro, walking or bicycling access to the National Mall and downtown DC. Private bath, mini fridge, microwave & electric tea kettle.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/2899982/0ec4fc85_original.jpg?aki_policy=small",
-    host_name: "Ken",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/266852",
     neighbourhood_cleansed: "Union Station, Stanton Park, Kingman Park",
@@ -2697,7 +2727,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/7845a8fd-91f7-4f5f-a3e1-c67e02424c5f.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `My name is Ken and I live in Capitol Hill, Washington DC, with my wife Nicole, two kids (Nora 13 and Sylvie 11), our dog, Lily and our cat, Little Rock. I am a VBM (Vegetarian by Marriage). Our family loves traveling and we enjoy supporting others during their travels.`,
@@ -2719,7 +2748,6 @@ mongoose
     house_rules: `Check in: After 2pm / Check out: 9 am weekdays, 10 am weekends. Arriving early? Leaving late? If you need a place to store your bags before the room is ready or after you check out you are welcome to leave them our storage room.`,
     description: `Our private suite is in a quiet, family friendly neighborhood with great bus, metro, walking or bicycling access to the National Mall and downtown DC. Private bath, mini fridge, microwave & electric tea kettle. Convenient to the National Mall and an easy walk to Union Station, Eastern Market, Barracks Row/8th Street, H Street/Atlas District,the Library of Congress, Folger Theater, and the Capital buildings. Great for business trips, research trips or sightseeing. Enjoy a cozy room and private full bath on the ground floor of our recently renovated home. Wifi, bike share across the field behind our house, bus & metro nearby, walk to tons of restaurants in two of DCs best neighborhoods for dining (Barracks Row/Eastern Market and H Street), museums and everything else great about DC very close by! There is a very basic kitchenette in the room (mini-fridge, microwave and electric tea kettle). If you have additional kitchen needs you can come upstairs and use our kitchen. ABOUT THE ACCOM`,
     price: 75,
-    host_picture_url: "https://a0.muscache.com/im/pictures/7845a8fd-91f7-4f5f-a3e1-c67e02424c5f.jpg?aki_policy=profile_x_medium",
     smart_location: "Washington, DC",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -2732,6 +2760,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "914b1c827d4df53ee99b72b5b0004b44aecf5f94",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 10.12,
     beds: 1,
@@ -2773,7 +2805,6 @@ mongoose
     summary: `** Please read our entire listing description before booking - thx! **`,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/ac/users/1025723/profile_pic/1330804523/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=225:*&output-format=jpg&output-quality=70",
     description: `** Please read our entire listing description before booking - thx! ** This is studio #17 - one of two private airbnb rooms (located in the same building). We designed the rooms as simple & affordable spaces for arts-related guests, for brief stays & short-term artist residencies near the heart of Seattle's downtown gallery district. But you don't have to be an artist to stay here - all are welcome! ** Please read our entire listing description before booking - thx! ** This is a quiet private room located among 15 other art studios on the 2nd floor in the Japantown area of Seattle's historic International District. It has an upper bed-loft with a luxurious Novaform queen mattress & very comfortable bedding - plus a sweet skylight** above the bed. The lower portion of the loft has a small couch (not meant for sleeping), desk & chair, and other basic furniture. Free wifi and satellite TV w/HBO are included. There's a shared kitchenette (not a full kitchen) and 2 shared bathrooms (one wi`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -2816,8 +2847,6 @@ mongoose
     require_guest_phone_verification: "True",
     guests_included: 1,
     host_total_listings_count: 3,
-    host_thumbnail_url: "https://a0.muscache.com/ac/users/1025723/profile_pic/1330804523/original.jpg?interpolation=lanczos-none&crop=w:w;*,*&crop=h:h;*,*&resize=50:*&output-format=jpg&output-quality=70",
-    host_name: "Dirk & Jaq",
     notes: `Please note that there is a long flight of stairs to get up to our floor and no elevator. Also you need to climb a ladder to get up into the bed loft. And finally just want to make sure you've noticed it is a shared bathroom – not a private bathroom.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "100%",
@@ -2827,6 +2856,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "fd07b308315bc4f997346e21ec7b5cb9e7e4b7c0",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.32,
     calendar_last_scraped: "2017-10-03",
     medium_url: "https://a0.muscache.com/im/pictures/58558127/28d0172d_original.jpg?aki_policy=medium",
@@ -2851,7 +2884,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `This is a Beautiful Bedroom in Manhattan!`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/58558127/28d0172d_original.jpg?aki_policy=small",
-    host_name: "Jj",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/903947",
     neighbourhood_cleansed: "Harlem",
@@ -2889,7 +2921,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 8,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/208b30be-0c46-49ff-8cd4-a4b1650f67c9.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I want to make your airbnb experience perfect. Travelers need a kitchen with supplies to avoid walking outside to make purchases. Hotels are expensive. Save money and stay with me.`,
@@ -2911,7 +2942,6 @@ mongoose
     house_rules: `How you are arriving so I write directions. Send a message when you are 1 hour away. There is a buzzer on the left of door press buzzer '18'. Or use lockbox on wall before steps combination 0018. We don't have many rules! On your arrival, we will give you a set of keys to the apartment. You are free to come and go as you please; there is no curfew. We will not enter your room while There is no need to strip the bed or do any cleaning before you leave. For longer stays (one week or more), we can replace your towels for you midway through your stay if you like. If you are flying, it is helpful if you give us your airline and flight number before you leave. That way, if your flight is delayed, but you can't call because you are in the air, we can check your flight status online and plan accordingly. Our only real "house rules" are that we don't allow smoking, illegal drug use, or pets. Be nice. We look forward to hosting you!`,
     description: `This is a Beautiful Bedroom in Manhattan! Premium bed. Bed is not soft in the middle and hard on the ends. You will not sink into the bed. Bed is comfortable and expensive. No headboard and footboard so you can easily get out of bed without waking person sleeping next to you. New York is exciting and in this apartment you can meet people from all over the world. I have INSTANT BOOK so there is no need to ask if the place is available. If it is free on the calendar then it is free for booking. Also the price is exactly what comes up when you enter your desired dates. Best deal on Airbnb Manhattan! I live in the apartment and you will live here also. I have many guests giving me their input and I have everything from rubbing alcohol to band-aids to scissors. Do not go to a hotel where you must purchase all these items at an expensive gift shop. Your room is live in ready. Please let me know if you need me to purchase any items before your stay. Many travel plugs, so your devices will wo`,
     price: 49,
-    host_picture_url: "https://a0.muscache.com/im/pictures/208b30be-0c46-49ff-8cd4-a4b1650f67c9.jpg?aki_policy=profile_x_medium",
     smart_location: "New York, NY",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -2925,6 +2955,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "e42793a9786e227fdff095514a3785fbd066e066",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.53,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/34000462/fcfc4ead_original.jpg?aki_policy=medium",
@@ -2948,7 +2982,6 @@ mongoose
     calendar_updated: "today",
     summary: `Beautiful authentic room with private bathroom for rent in De Pijp. The room has it's own entrance and is located on the second floor of a very authentic, old house. The street is next to the beautiful Amstel river and the pretty Sarphatipark.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/34000462/fcfc4ead_original.jpg?aki_policy=small",
-    host_name: "Iris",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1247334",
     neighbourhood_cleansed: "De Pijp - Rivierenbuurt",
@@ -2986,7 +3019,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/6797351/profile_pic/1370683613/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I am born and raised in Amsterdam. Next to Amsterdam I've lived in Cincinnati, Ohio (U.S.A) and at the countryside of France at the Dordogne. I used to travel a lot in the U.S.A and love cities like New York, Washington DC and Chicago. Bryce canyon was the most spectacular park I ever visited. I live alone with my two teenage daughters. For a while I went to the Art Academy. Finally I am working in hospitality for about 20 years. I wrote business plans for my own techno program for a nightclub a saladebar and 100% organic cafetaria. My b&b is an eco friendly one, it means I care about the environment and only offer and use organic products. I like to talk with my guests about Amsterdam or my biggest hobby electronic music.`,
@@ -3009,7 +3041,6 @@ mongoose
     house_rules: `No sanitary towels in my toilet! No smoking in the room.`,
     description: `Beautiful authentic room with private bathroom for rent in De Pijp. The room has it's own entrance and is located on the second floor of a very authentic, old house. The street is next to the beautiful Amstel river and the pretty Sarphatipark. The Pijp is known for it's lively, artistic atmosphere. Around here are many restaurants, cafes, galleries and lively daily market Albert Cuyp. Main attraction is the Heineken brewery. This area is more Amsterdam alike than the city center. This neighborhood is more working class and locals hangout. The room is very centrally located in between the museum district (which is only a 15 min walk away) and the Amsterdam city center (which is in the other direction 10 min away from here). The city center starts at the Utrechtsestraat, crossing all the canals heading towards Kalverstraat, the biggest shopping street in town. Complete downtown area is doable by foot, or take the tram 4 or 3 which will take you anywhere downtown or train station to tran`,
     price: 65,
-    host_picture_url: "https://a0.muscache.com/im/users/6797351/profile_pic/1370683613/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3023,6 +3054,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "d931ad9d3c8992abf77256cd185dce07da989412",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.52,
     zipcode: "20001",
     medium_url: "https://a0.muscache.com/im/pictures/11534310/47d4567a_original.jpg?aki_policy=medium",
@@ -3046,7 +3081,6 @@ mongoose
     calendar_updated: "4 days ago",
     summary: `Hello! This is an original free standing carriage house built in 1890. The 2nd floor has been fully updated. Hardwood floors, reclaimed bed frame, controllable skylights, Nest Thermostat , mini fridge, microwave, toaster, coffee maker, tea kettle. The 1st floor has a washer/dryer. Please ask questions! Thanks!`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/11534310/47d4567a_original.jpg?aki_policy=small",
-    host_name: "The Remuzzi Brothers",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/32584",
     neighbourhood_cleansed: "Shaw, Logan Circle",
@@ -3083,7 +3117,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/29711/profile_pic/1346896231/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `We are DC natives and own this property together. We are enjoying hosting all our guests through AirBnB. Both of our listings are totally private. We want you to enjoy your stay with us, so please let us know if there is anything else we can do for you.`,
@@ -3106,7 +3139,6 @@ mongoose
     house_rules: `We prefer to use the Airbnb messaging system for all communication so please make sure that you have a valid email address that will send you a notification email when a message gets posted there. Please post your arrival and departure times to the AirBnB message thread as soon as possible. This allows us have a general idea of when you are arriving at the apartment in case of any troubles with check in. We would like to have our guests do one of the following before staying with us: Link your AirBnB profile to a social network such as (website hidden), (website hidden) or (website hidden); verify your phone number; or complete some more of your AirBnb profile. Thanks! This is a non smoking unit. Anyone smoking in the unit will be left negative feedback. Please no heavy partying in the Carriage House.`,
     description: `Hello! This is an original free standing carriage house built in 1890. The 2nd floor has been fully updated. Hardwood floors, reclaimed bed frame, controllable skylights, Nest Thermostat , mini fridge, microwave, toaster, coffee maker, tea kettle. The 1st floor has a washer/dryer. Please ask questions! Thanks! We are one of the original Airbnb hosts in DC. If the Carriage House isn't available, please check out our other listing at the same location, DC Apartment near White House, Mall - http://www.airbnb.com/rooms/407014 Why share? You can have your own private house! Why stay in a hotel room? Rent our house - it's wonderful turn-of-the-century, totally private, free-standing Carriage House that has been fully updated. The sunny 2nd-floor studio apartment features a reclaimed wood, queen sized bed frame with a Casper mattress. A full bathroom stocked with fluffy towels, washcloths, free body wash, shampoo, and condition. There is an armoire and dresser, couch and coffee table, en`,
     price: 129,
-    host_picture_url: "https://a0.muscache.com/im/users/29711/profile_pic/1346896231/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Washington, DC",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3119,6 +3151,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "15ce9dbbc63f044214b3edee97f0a55cc1d0c77f",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.6,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/5012d40e-d326-40a3-8819-3b5832d1fe5f.jpg?aki_policy=medium",
@@ -3142,7 +3178,6 @@ mongoose
     calendar_updated: "today",
     summary: `★ Location - The best ★ Room - In a '16th century' apartment ★ Internet connection - Fastest available ★ SuperHost - AirBnB chosen few ★ Not satisfied? - Money back guaranteed! Be Aware: - The stairway is steep - The room might be a little smaller than it appears - Shared bathroom & toilet`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/5012d40e-d326-40a3-8819-3b5832d1fe5f.jpg?aki_policy=small",
-    host_name: "Manuel",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/68873",
     neighbourhood_cleansed: "Centrum-West",
@@ -3180,7 +3215,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/336950/profile_pic/1353968946/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I am an easygoing and an open-minded guy that loves to travel. My interest in meeting new cultures and people is grounded in my roots, as I am half Dutch, half Peruvian and born in Indonesia. I believe that I have the Peruvian attitude in welcoming my guest and the Dutch approach in managing and setting up my new businesses. I have explored Amsterdam for many years now and still think that there is much more to find out. The city and the party scene are extremely vibrant, but at the same time offers you plenty of opportunity to relax and just take in the atmosphere. AirBnB has been a great platform for me and I am extremely proud that the AirBnB community has rewarded my effort with the Super host status!`,
@@ -3204,7 +3238,6 @@ mongoose
     house_rules: `CLEAN: I expect my guests to leave my apartment in the same state as it was when they arrived. RESPECT: Have respect for the fellow AirBnB'er, my neighbors (do not disturb them in anyway) and the host :). As this is a ±400 year old house the neighbors respect each other's privacy in terms of noise pollution, especially at night, so please be considerate. SAFETY: No open flames are permitted anywhere in the house. That means no smoking or candle burning. PRIVACY: I expect my guests to respect my property and not take things with them that do belong to me. If violated, guests will be immediately invited to leave the house and no refund will be granted. I am not a mean person, but feel that in opening my home to offer my guests a more affordable and comfortable vacation experience, my request for privacy should be honored without exception. SECURITY: At the ground floor I placed a camera focused on the street door. These footages I am allowed to use and/or share if needed. UNKNOWN P`,
     description: `★ Location - The best ★ Room - In a '16th century' apartment ★ Internet connection - Fastest available ★ SuperHost - AirBnB chosen few ★ Not satisfied? - Money back guaranteed! Be Aware: - The stairway is steep - The room might be a little smaller than it appears - Shared bathroom & toilet The place and room I am offering is uniquely situated in the historical heart (old city center) of Amsterdam. And fits two people comfortably. The private room is located on the third floor. Main features of the room: * Fast wifi (My internet plan 200 mb / 20 mb) *Easy access to the room without disturbing anyone when entering and exiting the house *A very comfortable two person bed (180 cm x 200 cm) or two one person bed (90 cm x 200 cm) *Good heather that can be easily adjusted *Towels and sheets are included Interesting fact is that the room is located between the Radisson Blu Hotel (with an average price of 270 euro per night) and Sofitel Legend The Grand Amsterdam (average price of 400 euro pe`,
     price: 109,
-    host_picture_url: "https://a0.muscache.com/im/users/336950/profile_pic/1353968946/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3218,6 +3251,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "7345b2a9f5638ed4f0858931ba40ab457a312e11",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 9.06,
     calendar_last_scraped: "2017-09-18",
     medium_url: "https://a0.muscache.com/im/pictures/20558070/09ede304_original.jpg?aki_policy=medium",
@@ -3242,7 +3279,6 @@ mongoose
     calendar_updated: "today",
     summary: `Super King sized comfy bed private room in a 3-bedroom quiet apartment right in the city centre. Within 5 minutes walk to Waverley Station and close to all the attractions! Full access to the kitchen! Wifi is of course included :)`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/20558070/09ede304_original.jpg?aki_policy=small",
-    host_name: "Lisa",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1293370",
     neighbourhood_cleansed: "Old Town, Princes Street and Leith Street",
@@ -3279,7 +3315,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/3880516/profile_pic/1369160468/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Welcome to my home! I am very laid back and fun to be with :)`,
@@ -3302,7 +3337,6 @@ mongoose
     house_rules: `*The check in time is 12noon to 11pm. Please make sure you will arrive at the flat BEFORE 11pm before you book. The earliest time to drop your bags is 9am. Please contact me in advance for details. *The check out time is before 11am, please clear out your room for cleaning by 11am, but you can leave your luggage in the living room. *The flat is not suitable for children under 12 years old, and cannot accommodate more than 2 people per room (we have 2 guest rooms).`,
     description: `Super King sized comfy bed private room in a 3-bedroom quiet apartment right in the city centre. Within 5 minutes walk to Waverley Station and close to all the attractions! Full access to the kitchen! Wifi is of course included :) We have two guest rooms sharing the bathroom with a toilet and a separate toilet, a fully-equipped kitchen and a spacious living room. My helper Sofia lives in and take care of the guests. This beautiful and airy apartment is suited in the heart of Edinburgh at Calton Hill where the famous observatory is. Princes street, North Bridge and Calton hill are all within 1 min's walk and Royal Mile is about 2. Castle, Holyrood palace, Arthur Seat, National museum are all within 20 minutes walk. There are probably 20 buses within 1 mins' walking distance, and Edinburgh Waverley station is 5 minutes away on foot. Super close to all the famous landmarks and this is the perfect location for your visit to this magnificent city. Driving in Edinburgh is not recommended a`,
     price: 61,
-    host_picture_url: "https://a0.muscache.com/im/users/3880516/profile_pic/1369160468/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Edinburgh, United Kingdom",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3316,6 +3350,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "e7a98adaad246cc60b6c7f6abcfa5f01fb6ca25a",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.17,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/14557404/13e38338_original.jpg?aki_policy=medium",
@@ -3338,7 +3376,6 @@ mongoose
     name: "NOLA'S STUDIO central to everything",
     calendar_updated: "3 weeks ago",
     thumbnail_url: "https://a0.muscache.com/im/pictures/14557404/13e38338_original.jpg?aki_policy=small",
-    host_name: "Whitney",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/83877",
     neighbourhood_cleansed: "Treme - Lafitte",
@@ -3377,7 +3414,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2935610/profile_pic/1401595896/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi! My name is Whitney and I am a New Orleans transplant. Originally from North Carolina- I have lived in New Orleans since July 2010. Although I miss North Carolina often, I have fallen in love with New Orleans- the food, the spirit of the people, the music, the culture, the history, the tradition and even my husband, Tom! New Orleans has treated me well and I hope to repay it the favor for many years to come. I have been an airbnb host since July 2012. The property was first listed on airbnb by the previous owner "Belinda." We want to be able to provide all of our guests with a quiet, nice and convenient place to stay as they take in all that New Orleans has to offer. We hope to meet with you soon and help to make your New Orleans experience memorable. Talk soon! Whitney (& Tom) :)`,
@@ -3401,7 +3437,6 @@ mongoose
     house_rules: `Im seeking someone/couple to comply with basic norms of peaceful, respectful, communal behavior. By making a deposit, you are agreeing to all terms & conditions, as outlined here. Im seeking someone/couple to comply with basic norms of peaceful, respectful, communal behavior. 1. No-smoking, inside or out, a smoke free property. 2. Extra guests are not welcome. Anyone other than the Guest booking, may not be admitted to the property at any time. 3. The Property is a private residence; the Homeowner is not responsible for any accidents, injuries or illness that occur while on the premises or its facilities. The Homeowner is not responsible for the loss of personal belongings or valuables of the guest. By accepting this reservation, it is agreed that the Guest is expressly assuming the risk of any harm arising from their use of the premises or others whom they invite to use the premises. 4. Keep the property and all furnishings in good order. 5. Only use appliances for their intended`,
     description: `position, position, position. If that's what you want, this has it. You will be hard pressed to find anything this size and this close to the heartbeat of the musical, gastronomic and cultural delights of New Orleans at this price point. Just 3 blocks to the French Quarter, 1 block from Louis Armstrong Park and 2 blocks from Esplanade, you're smack dab in the middle of trendy Treme, while being an easy stroll or bike ride to the French Quarter, the Marigny or Frenchman St for a nightly musical smorgasbord. Seeking a single/couple of nonsmoking guests who can appreciate a clean and comfortable respite. On a property that houses 3 apartments, historic creole cottage, an attached studio is available for short stays. Newly renovated large studio space with hardwood floor throughout, furnished with leather sofa, desk and kitchen table. Studio has a Kuerig style coffee maker, small mini fringe and microwave. Nola's is not equipped for making meals - just a basic cup of coffee, keeping y`,
     price: 100,
-    host_picture_url: "https://a0.muscache.com/im/users/2935610/profile_pic/1401595896/original.jpg?aki_policy=profile_x_medium",
     smart_location: "New Orleans, LA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3414,6 +3449,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "3212afe05cbcb4cfc4bdf0d8c92d439ce3bf36be",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 6.7,
     beds: 2,
@@ -3456,7 +3495,6 @@ mongoose
     summary: `Very quite flat, in a renewed building where old wood pilars remain. Wifi available as well as washing-machine, dryer, dish-washer, air-conditioning... Registered in the Tourist Registry of Andalusia: VFT/MA/00917`,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/2103056/profile_pic/1384282807/original.jpg?aki_policy=profile_x_medium",
     description: `Very quite flat, in a renewed building where old wood pilars remain. Wifi available as well as washing-machine, dryer, dish-washer, air-conditioning... Registered in the Tourist Registry of Andalusia: VFT/MA/00917 Very quite flat, in a renewed building where old wood pilars remain. Wifi available as well as washing-machine, dryer, air-conditioning... Right in Málaga city center, in one of the most famous streets in the city. By foot, only 5 minutes away from Picasso museum and just 2 minutes from Thyssen Museum. Very close to "Alameda Principal" and "Muelle Heredia", where all buses start their route to other costal cities, airport and train stations. As shown in the advertisement information, it is a whole apartment, which is not shared with anyone, is for individuals or families who want to be alone. Those seeking a shared apartment must go to my other ad in Airb&b, available at the following link: www.airbnb.es/rooms/698604 I will try to help you in everything that you may need to`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -3499,8 +3537,6 @@ mongoose
     availability_60: 27,
     guests_included: 2,
     host_total_listings_count: 5,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2103056/profile_pic/1384282807/original.jpg?aki_policy=profile_small",
-    host_name: "David",
     notes: `I can also put a cot for baby, with sheets and towels.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -3510,6 +3546,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "29987092781ae61e12f4faff2f58ed5c19d934cd",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.32,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/2783044/c37370dd_original.jpg?aki_policy=medium",
@@ -3533,7 +3573,6 @@ mongoose
     calendar_updated: "today",
     summary: `Quiet space for quiet guests. Modern, cozy, private, bedroom with a private en suite bathroom in Castro neighborhood. Perfect for single person (very safe) or couple. Excellent for business travelers: mini-fridge, Kueurig coffee maker, cereal for breakfast and snacks. Largest room in apt. w/queen-sized bed and cozy decor and homey feel. LGBTQI run/friendly. Plenty of street parking without time limits! Two cats - one friendly, one aloof.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/2783044/c37370dd_original.jpg?aki_policy=small",
-    host_name: "Chris",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/256148",
     neighbourhood_cleansed: "Castro/Upper Market",
@@ -3571,7 +3610,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1239523/profile_pic/1431385271/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hello! I've been hosting since 2011 and was recently named a SuperHost. Getting to meet new guests everyday -- and the trust inherent in that process -- brings me a lot of joy. While I'm originally from the east coast, I moved to San Francisco 22 years ago and it's my home now. San Francisco is heaven on earth -- a magical place with a collective spirit of diversity, creativity, and open-mindedness. I'm currently getting a PhD in sociology at UC Davis. My recent research has focused on elites and education, and currently I'm researching women in high tech. I'm also a freelance photographer for a textbook called Seeing Sociology and I write as freelancer as well. I love movies, mostly independent films and documentaries. My favorite films are The Station Agent, American Beauty, and, most recently, Boyhood. My favorite documentary is Baraka. Travel is pretty much in my blood. I sometimes just have to get away to spark creativity. I have driven across country twice. I've been to Cuba, Thailand, Vietnam, Laos, Indonesia and, most recently, Japan. I love meeting new people and enjoy hearing about people's lives. So I hope we will have a chance to talk while you're here! I love good food too. I do some cooking, but I'm better at knowing where to get good food in the city. I'm a big music fan as well - in fact I have a guitar here you are welcome to play if you know how since I sure haven't been using it lately. I am also up on the best venues to see music in the city if you're interested in that. In terms of my style as a host, I tend to be pretty attuned to my guests' needs. I can usually sense if they need my help with things, in which case I am always happy to provide any guidance. I like to give guests plenty of space to have their own experience here, so you won't find me being overbearing and asking for your time. I'm pretty quiet and spend a lot of time in my room reading or working. But I do love to have chats with the guests to find out where they've been that day and how they liked it, and particularly if they tried any of the recs I provided. The bottom line is I love to have guests in my home. I love hearing about their experiences. And I also respect that they are here to do their own thing.`,
@@ -3594,7 +3632,6 @@ mongoose
     house_rules: `1. No shoes inside, please! 2. Keep your guest room door closed at all times 3. Noise travels between apartments so I ask that guests not talk loudly or be otherwise loud after 10 pm or before 8 am. This is to keep from disturbing my neighbors which is important because hosting is my livelihood. Thank you for understanding. Please don't use my bedroom or bathroom even if I'm out of town.`,
     description: `Quiet space for quiet guests. Modern, cozy, private, bedroom with a private en suite bathroom in Castro neighborhood. Perfect for single person (very safe) or couple. Excellent for business travelers: mini-fridge, Kueurig coffee maker, cereal for breakfast and snacks. Largest room in apt. w/queen-sized bed and cozy decor and homey feel. LGBTQI run/friendly. Plenty of street parking without time limits! Two cats - one friendly, one aloof. **This is a quiet home best suited for quiet guests. If you prefer late nights out or loud music/behavior, my place isn't for you!** My Castro home features a larger-than-a-hotel master suite -- yes, you have your own private bathroom - and includes some extras to make your experience a little more luxurious! QUICK FACTS ABOUT YOUR STAY -- Your own PRIVATE bathroom attached to your bedroom -- only you have access (I have my own) -- Large, quiet room in the back of the house, away from street noise -- Brand new, extremely comfortable queen sized ma`,
     price: 139,
-    host_picture_url: "https://a0.muscache.com/im/users/1239523/profile_pic/1431385271/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3608,6 +3645,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "647fbf16f96bd6d5c9e68d24301a921615e5cbcf",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 7.13,
     beds: 1,
@@ -3646,8 +3687,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 9,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/pictures/7e6a53c1-b6ae-4cac-8115-0e861de8a3d8.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/7e6a53c1-b6ae-4cac-8115-0e861de8a3d8.jpg?aki_policy=profile_small",
     description: `Cozy and silent place in the heart of Venice, you are at 5 minutes from the train station,5 minutes from Piazzale Roma that is the bus station, 10 min from Rialto Bridge and 20 minutes from s.Marco square walking. To Have a location not far from bus station or train station, not to be understimated in this city full of bridges and with few means of transport. This is an area still far from the frenetic tourism, fortunatly. You are Just 2 minutes walk from Campo San Giacomo dell'Orio, one of the traditional Campo still remained in this city, full of children playing and colors, there are in the Campo some bars where you can sit ,drink and enjoy the sun, like all the Venitian use to do. Just 3 munites far from the supermarket and 1 muntes far from one of the most popular icecream shop in Venice, with the weirdest icecream biological flavor. This part of Venice is well kwon too, thanks to the many restaurants that are there, with good prices and quality. If you want to take a walk just`,
     review_scores_communication: 9,
     experiences_offered: "none",
@@ -3690,7 +3729,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 6,
     house_rules: `It is not possible to leave the luggages after the check out, if you want into the train station you can store your bags. Thanks`,
-    host_name: "Martina",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -3700,6 +3738,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "edb9fa9ccfecbee6c21e2815fa9fb73c2fbdd4c2",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.99,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/b39e91a7-f5dd-4b47-9ef9-3ab558b28a76.jpg?aki_policy=medium",
@@ -3722,7 +3764,6 @@ mongoose
     calendar_updated: "5 days ago",
     summary: `Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/b39e91a7-f5dd-4b47-9ef9-3ab558b28a76.jpg?aki_policy=small",
-    host_name: "Joanne",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/80869",
     neighbourhood_cleansed: "Marigny",
@@ -3761,7 +3802,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/437783/profile_pic/1387822626/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I am a big fan of traveling and absolutely love Airbnb. I have met a lot of very cool people hosting on Airbnb, which seems to attract more adventurous, independent travelers. Hope you are heading out for your own adventures in travel. Have fun.`,
@@ -3784,7 +3824,6 @@ mongoose
     house_rules: `The house rules are few and far between. I have only one real policy and that is no children under 15. The house is not suitable for children or the infirm. Since we are all adults and learned the "golden rule" years ago, there really is no need for a list of rules. I want everyone to be comfortable. Smoking is not allowed in the house but is allowed in the backyard.`,
     description: `Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter. RED ROOM Frenchmen House is my home. I share it with my new dog, Charles (a huge, cuddly, Golden), Molly (king of the feline world), and my airbnb guests. Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter. The house retains the architectural details that make New Orleans homes interesting and beautiful -- 13 ft. ceilings, transom windows, original wood floors, and double parlor with functioning pocket doors. Very few renovations have altered this original home, and its charm represents the homes of its era. Great backyard for entertaining -- very private courtyard setting. Smoking is allowed in the backyard. PARKING: Easy on street parking, no meters, no time restrictions and always spaces available on`,
     price: 85,
-    host_picture_url: "https://a0.muscache.com/im/users/437783/profile_pic/1387822626/original.jpg?aki_policy=profile_x_medium",
     smart_location: "New Orleans, LA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3797,6 +3836,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "44737d62d55b18a0f755508da015baa8e7d1ba5d",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.16,
     zipcode: "M5A 3E8",
     medium_url: "https://a0.muscache.com/im/pictures/109607512/034b753a_original.jpg?aki_policy=medium",
@@ -3821,7 +3864,6 @@ mongoose
     calendar_updated: "2 days ago",
     summary: `Flexible check in/out, staying with me in top floor (24 stairs up) 35 year old sunny townhouse complex: 650 square feet electric heating. 8 mins from downtown by 24 hour transit/bike; 20 mins walk). A few small shops/restaurants nearby: sushi, greek, ethiopian, breakfast. lgbt positive. I cherish guests' suggestions. Corktown neighbourhood is east of downtown, maybe even a bit gritty,slowly growing, eclectic, working class/mixed income and a safe location Anything you need while here, just ask!`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/109607512/034b753a_original.jpg?aki_policy=small",
-    host_name: "Sean",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/390395",
     neighbourhood_cleansed: "Regent Park",
@@ -3859,7 +3901,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1952926/profile_pic/1332102326/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `A gay Toronto native currently working in the entertainment industry (office). 2 pampered and friendly felines (cats). I love cycling, the beach, beer on a patio, trying to shoot pool. Traveling to the sun is my passion, esp, Mexico and California and have yet to make it across the pond.....laid back and welcome guests worldwide to learn and experience different things. 420 friendly here :) Cannot live without books, beer, bicycles, beach, sun!! Prefer to experience a locale like a local. No hotels for me! Gladly will provide info on the city, attractions, etc and also note that this location is not far at all from many sights, etc. My street is quiet even though a main strip with 24 hour transit is 30 seconds away (15 if you run!!). I have hosted guests from Germany, France, Holland, Brazil, Spain, Korea, Australia, England, Wales, Ireland, USA, Italy, Slovenia, Estonia, Taiwan, China, Japan........ Please come, relax, enjoy......you're on vacation after all.......`,
@@ -3881,7 +3922,6 @@ mongoose
     house_rules: `NO smoking in the house. No other pets, please. Other than that, relax, put your feet up, turn on the tv, computer, stereo, grab a drink, a beer, whatever you need and enjoy your time in the house. Stay home on the porch and balcony or go out and enjoy the city. Curfew? Not here. Life is too short to be bothered by time. If coming home after 11pm, just be quiet up the stairs in the house. That is pretty much it. Really. I would rather spend the time relaxing and having fun than worrying about the little things.....`,
     description: `Flexible check in/out, staying with me in top floor (24 stairs up) 35 year old sunny townhouse complex: 650 square feet electric heating. 8 mins from downtown by 24 hour transit/bike; 20 mins walk). A few small shops/restaurants nearby: sushi, greek, ethiopian, breakfast. lgbt positive. I cherish guests' suggestions. Corktown neighbourhood is east of downtown, maybe even a bit gritty,slowly growing, eclectic, working class/mixed income and a safe location Anything you need while here, just ask! Welcome to Corktown district in Toronto (Downtown East). Nice, residential street but so close to the action and pulse of the city. Easy key access upon arrival for confirmed guests. Come and share my space in Toronto. I am a non-smoker. If you wish to smoke, only outside on the patio/balcony. My calendar is always current, even if it appears as "last update x days ago" which means I most likely have had no changes in that period. Wake up ready to start your day with fresh, hot coffee and th`,
     price: 65,
-    host_picture_url: "https://a0.muscache.com/im/users/1952926/profile_pic/1332102326/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Toronto, Canada",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -3894,6 +3934,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "92652d026adb646e9e7933d5bf27fce751c8c117",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 8.66,
     beds: 1,
@@ -3931,8 +3975,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/4627569/profile_pic/1357744280/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/4627569/profile_pic/1357744280/original.jpg?aki_policy=profile_small",
     description: `This apartment is located in a beautiful area of Venice, just a 1 minute walk from the train station, 5 minutes from the bus station. If you want to reach the most famous places of the city, in 15 or 20 minutes walking you get to Rialto Bridge or St. Mark square. The apartment is located in a wonderful place, just look at the range the Grand Canal, it is a very romantic place. To have a location close from bus station or train station, not to be understimated in this city full of bridges and with few means of transport. This is an area still far from the frenetic tourism. You are Just 5 minutes walk from Campo San Giacomo dell'Orio, one of the traditional Campo still remained in this city, there are in the Campo some bars where you can sit ,drink and enjoy the sun, like all the Venitian use to do. Just 5 munites far from a supermarket and 1 muntes far from one of the most popular icecream shop in Venice, with the weirdest icecream biological flavor. This part of town is also w`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -3974,7 +4016,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 2,
     house_rules: `It is forbidden to bring strangers in the apartment. Late check in: for arrival after 11:30pm (23:30) 20 Euro supplement, unless otherwise agreed. There is the possibility leave ONLY the luggage in the apartment from 10:30 am. You will leave the luggage in the apartment then you will go around Venice so I will clean the apartment. Please confirm your arrival time at least 1 day before the date of your arrival.`,
-    host_name: "Francesca",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -3984,6 +4025,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "fd52085ffb9c8cf4ddccbe5fbad48648c2c82374",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.54,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/15730517/d452a711_original.jpg?aki_policy=medium",
@@ -4006,7 +4051,6 @@ mongoose
     notes: `Internet: Front of the apartment (near the door where you enter) 22nd St Password: guiness1`,
     calendar_updated: "3 weeks ago",
     thumbnail_url: "https://a0.muscache.com/im/pictures/15730517/d452a711_original.jpg?aki_policy=small",
-    host_name: "Michael And Yesica",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/748222",
     neighbourhood_cleansed: "Mission",
@@ -4043,7 +4087,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/516404/profile_pic/1305688889/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `My wife and I lived in San Francisco for 25 years and look forward to sharing our knowledge of our favorite city with you! We've travelled to over 40 countries and look forward to returning the hospitality that has been shown to us over the years around the world. We love hiking, biking, travel, and cooking. Yesica is originally from Venezuela and I am a Bostonian but San Francisco is where we both stopped on life's journey. Yesica is a licensed massage therapist (ask about a massage!) and I am in sales to high tech industries.`,
@@ -4066,7 +4109,6 @@ mongoose
     house_rules: `Please be mindful that this is our home. •We try to keep a shoe-free household. •Do not invite anyone in without asking us. •Please switch off the lights and other appliances when you leave the room, bathroom and apartment. •Please keep the noise down after 10 PM. •Please leave all general areas as you find them. •Please clean up after yourself. •Please don't smoke on the stairs outside the house. •Please No overnight guests. If you do have a car and use the garage, please make sure that the garage is closed when you leave. Thank you`,
     description: `We look forward to sharing one of the most vibrant neighborhoods in the city with you, the Mission! PLEASE NOTE: We provide parking but we ask $20 per day, not included in your booking price. It is payable in cash when you arrive. There is only one spot and we have two rooms so please inquire about availability. If you are 2 people and you would like us to set up 2 beds, we ask 15 dollars extra per night to set it up for you. We live in a 3 bedroom, 2 bath flat and list 2 rooms on Airbnb. The two guests rooms share one bathroom. You will either share the bathroom with one other guest or have it to yourself if the other room is not booked. We are near the Valencia Street corridor and we are a 5 minute walk to foodie heaven (Delfina, Bi-RIte, Arizmendi, Dosa, Tartine, etc) . . A very short BART ride gets you to other great parts of the city (door to door 10-20 minutes) including the Moscone Center, Union Square, the Embarcadero, Chinatown, North Beach and we are walking distance`,
     price: 120,
-    host_picture_url: "https://a0.muscache.com/im/users/516404/profile_pic/1305688889/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4080,6 +4122,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "0ac8bec15585f9550bdbb02be58242e27bee7108",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.18,
     zipcode: "28004",
     medium_url: "https://a0.muscache.com/im/pictures/756652/35f49b02_original.jpg?aki_policy=medium",
@@ -4104,7 +4150,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `Centric flat of 150m with private room, maximum discretion and peace, ,WIFI 300 mg , near GRAN VIA and SOL, excelent relation cuality-price, breakfast included. You can see my other rooms: https://www.airbnb.es/rooms/4327320 https://www.airbnb.es/rooms/219303`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/756652/35f49b02_original.jpg?aki_policy=small",
-    host_name: "Charo",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/93100",
     neighbourhood_cleansed: "Universidad",
@@ -4141,7 +4186,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/499977/profile_pic/1412239211/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Somos una familia que ha decidido unirse a la ECONOMIA COLABORATIVA, la cual contribuye a disminuir los gastos de ambas partes. Trataremos de hacerte sentirte comodo. Mi casa y mi familia, son lo más importante de mi vida y te invitamos a formar parte de ella. Astor, Mauro y Yo podemos orientarles en su visita a Madrid. Nos gusta la casa silenciosa, tranquila y apacible asi que si estas buscando una habitacion de fiestas altos ruidos probablemente esta no sea tu habitación. Esto no es un negocio y por lo tanto queremos dejar claro que usted se esta alojando en una casa familiar, NO ES UN HOTEL ni aspiramos a ofrecer los servicios tradicionales de hostelería. Los servicios que brindamos son los que se detallan y previamente ha encontrado en nuestro perfil el día que decidió elegirnos. Ante cualquier duda puede consultarlos online. ------------------------------------------------ We are a family that has decided to join the collaborative economy, which helps reduce the cost of both parties. We will try to make you feel comfortable . My home and my family are the most important of my life and we invite you to join it . Astor, Mauro and I can guide them on their visit to Madrid. We do like the house very quiet, calm and peaceful, so if you are after a party house this may not be the room for you. This is not a business and therefore we want to make it clear that you are staying in a family home , not a hotel or aspire to offer traditional hotel services . The services we provide are as previously detailed in our profile found the day he decided to choose us . For any questions you can consult online .`,
@@ -4165,7 +4209,6 @@ mongoose
     house_rules: `- I am kind, tolerant and very respectful of your privacy. - The departure time is at 13.00 . It can be more flexible if I have breakfast afterwards. You can leave your luggage here before entry and / or after departure . - Check in time is 15:00 pm. - From 22: 00hs to 10: 00hs an extra charge of 15 euros will be applied at check in . - You can use the kitchen space for breakfast, sandwiches, you can use the microwave, toaster and other appliances. If desired you can store your food in the fridge. It is a common space, utilize a reasonable time. No use of cooking gas allowed. - Please, do not invite people outside the reservation. - We have washing service. Ask us! - Supplement for extra bed 15 euros. - The occupants are responsible for the occupied property and its contents, as well as custody of their belongings and personal belongings. They will be directly and exclusively responsible for any breakage that occurs therein, running exclusively by the host all repair costs caused by t`,
     description: `Centric flat of 150m with private room, maximum discretion and peace, ,WIFI 300 mg , near GRAN VIA and SOL, excelent relation cuality-price, breakfast included. You can see my other rooms: https://www.airbnb.es/rooms/4327320 https://www.airbnb.es/rooms/219303 Second floor flat of 145 trs, 1888 listed building refurbished and modernised with lift. We are located downtown right in the center of Madrid, close to Fuencarral street and Gran Via (one of the main avenues). The best area of the district with all shops and amenities . Similar to Soho in New York. Walking distances to the historical center and main monuments, most important art museums (El Prado, Thyssen, Reina Sofia), shops, restaurants, bars, nightclubs, supermarkets, cinemas, theaters, botanical garden, the park of El Retiro, Templo de Debob, amusement parks and Street markef El Rastro. Handy tourist bus stop at Gran Via Avenue. You have everything at hand. The subway is available from the airport which takes about 40 min`,
     price: 28,
-    host_picture_url: "https://a0.muscache.com/im/users/499977/profile_pic/1412239211/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Madrid, Spain",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4178,6 +4221,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "779f333a878b509335695e03671c7aabd5f6dfe0",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.01,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/c1686c33-4efa-4010-9c60-38ee01d76514.jpg?aki_policy=medium",
@@ -4202,7 +4249,6 @@ mongoose
     calendar_updated: "today",
     summary: `Come enjoy our oasis is the city. We love to enjoy the famous CO weather and believe in indoor & outdoor living. We are located next to downtown and in the newly revitalized neighborhood of lower highlands/Navajo Arts District. Superb coffee shop just 3 blocks from the cottages plus restaurants & micro brews just a few blocks in each directions. We even have our own theater (the Bug Theater) & art galleries in the neighborhood. We are cannabis, lbgt & dog friendly friendly sorry no kitties.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/c1686c33-4efa-4010-9c60-38ee01d76514.jpg?aki_policy=small",
-    host_name: "Jennifer & Giovanni",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/39405",
     neighbourhood_cleansed: "Highland",
@@ -4242,7 +4288,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/666/profile_pic/1259092920/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `We are a community of artists and tinkerers. We enjoy many activities here in Denver - cooking, growing fruits and vegetables are some that we get to do here at the cottages along with mixed media projects and furniture building. We are always up to some new outdoor project when the Colorado weather permits and hunker down inside by the fire in the winter keeping our hands busy with knitting, card making or some other project we can dream up. Giovanni and I have grown in our collaborations and embrace our age and abilities for self governance in employment - Giovanni had moved into documentaries and I have been spending more time in the commercial film community. We have been in the lower highlands for over a decade now and have marveled in the changing landscape and exciting times for new restaurants, breweries and galleries. We still love to take advantage of the great walks thru the neighborhood and down by the river as often as we can.`,
@@ -4266,7 +4311,6 @@ mongoose
     house_rules: `NUMBER ONE HOUSE RULE: please let us know ASAP if something in the cottage is not working and or missing. We strive to make a pleasant experience for our guests. RENTING WITH DOGS: • for anyone wanting to book with a dog we require a conversation about your pet first. • we do not accept instant booking with pet without having conversation prior- please chat with us first. • we except dogs 35 lbs and under. • all dogs need to be created indoor while guest are away and on leashes while in the gardens. • We do not accept cats. CHECKING IN & OUT TIMES: we try to be accommodating and flexible but we have a standard check in 4pm check out noon. please let us know if you are in need of an earlier check in or later check out time and if we are able to meet your needs we will certainly try. USE OF HOT TUB: maximum people in hot tub 2. no street clothes & shower first. please use only swim wear or in the buff to keep the hot tub clean. after 10pm please talk softly in the hot`,
     description: `Come enjoy our oasis is the city. We love to enjoy the famous CO weather and believe in indoor & outdoor living. We are located next to downtown and in the newly revitalized neighborhood of lower highlands/Navajo Arts District. Superb coffee shop just 3 blocks from the cottages plus restaurants & micro brews just a few blocks in each directions. We even have our own theater (the Bug Theater) & art galleries in the neighborhood. We are cannabis, lbgt & dog friendly friendly sorry no kitties. LOCATION: the cottage is located in the center of Lower Highlands (LOHI) next to the Navajo Street Arts District along with the Bug Theater. Check out the Bugs listing to see what's going on - plays/film/comedy nights. no need to cab it because we are in the midst of it all. COTTAGE DESCRIPTION: one bathroom with shower. one bedroom with double bed with a tempur-pedic mattress and a fold down sofa for a third person. small but full kitchen, with pot/pans/utensils. we keep the basics for c`,
     price: 111,
-    host_picture_url: "https://a0.muscache.com/im/users/666/profile_pic/1259092920/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4280,6 +4324,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "054a7f6d7fb7cf6aaa500700e2109d3299a24602",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 7.94,
     beds: 1,
@@ -4317,8 +4365,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 9,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/5651305/profile_pic/1375407594/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/5651305/profile_pic/1375407594/original.jpg?aki_policy=profile_small",
     description: `great double room, spacious and sunny, with hardwood flooring, one full bed of 1'50 with canopy, built-in closet with three doors, and two Japanese-style night tables. The bedroom is large, and a cradle can be added for couples with children. the bedroom is part of an apartment composed of 4 bedrooms, 2 bathrooms (one with bathtub and the other one with hydro-massage shower), a dining room, kitchen with laundry room, and terrace with views of the sea. it's well-situated, just 5 minutes away from the sea and the train and bus station, and just 10 minutes away from downtown. It's a perfect combination of downtown and beach.`,
     review_scores_communication: 9,
     experiences_offered: "none",
@@ -4359,7 +4405,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 9,
     house_rules: `las normas basicas de convivencia`,
-    host_name: "Toñi",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -4369,6 +4414,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "94d10d0cb43224de3b3a580c398c6e74b79653cd",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.42,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/15730122/18c5e90e_original.jpg?aki_policy=medium",
@@ -4391,7 +4440,6 @@ mongoose
     notes: `Internet: Front of the house (living room) 22nd St Password: guiness1 Your room 22nd St# 2 Password: guiness1 We are happy to accommodate early checkin/ late check out. We just need you to have your things out of the room by 11 AM so we can clean.`,
     calendar_updated: "4 days ago",
     thumbnail_url: "https://a0.muscache.com/im/pictures/15730122/18c5e90e_original.jpg?aki_policy=small",
-    host_name: "Michael And Yesica",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/748256",
     neighbourhood_cleansed: "Mission",
@@ -4428,7 +4476,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/516404/profile_pic/1305688889/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `My wife and I lived in San Francisco for 25 years and look forward to sharing our knowledge of our favorite city with you! We've travelled to over 40 countries and look forward to returning the hospitality that has been shown to us over the years around the world. We love hiking, biking, travel, and cooking. Yesica is originally from Venezuela and I am a Bostonian but San Francisco is where we both stopped on life's journey. Yesica is a licensed massage therapist (ask about a massage!) and I am in sales to high tech industries.`,
@@ -4451,7 +4498,6 @@ mongoose
     house_rules: `Please be mindful that this is our home. •We try to keep a shoe-free household. •Do not invite anyone in without asking us. •Please switch off the lights and other appliances when you leave the room, bathroom and apartment. •Please keep the noise down after 10 PM. •Please leave all general areas as you find them. •Please clean up after yourself. •Please don't smoke on the stairs outside the house. •Please No overnight guests. If you do have a car and use the garage, please make sure that the garage is closed when you leave. Thank you`,
     description: `We look forward to sharing one of the most vibrant neighborhoods in the city with you, the Mission! PLEASE NOTE: We provide parking but we ask $20 per day, not included in your booking price. It is payable in cash when you arrive. There is only one spot and we have two rooms so please inquire about availability. We live in a 3 bedroom 2 bath flat and list two rooms on Airbnb. The two guests rooms share one bathroom. You will either share the bathroom with one other guest or have it to yourself if the other room is not booked. Our place is easily accessible from all Bay Area airports (we are 3 blocks from the 24th St Mission BART station). We are near the Valencia Street corridor (one block) and we are a short walk to foodie heaven (Delfina, Bi-RIte, Arizmendi, Dosa, etc) as well as Dolores Park. A very short BART ride gets you to other great parts of the city (door to door 10-20 minutes) including the Moscone Center, Union Square, the Embarcadero, Chinatown, North Beach and we are`,
     price: 120,
-    host_picture_url: "https://a0.muscache.com/im/users/516404/profile_pic/1305688889/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4465,6 +4511,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "7e6d3cf114915c801e70f9acfe53d8a96f2a2614",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.79,
     beds: 1,
@@ -4503,8 +4553,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 9,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/9502480/profile_pic/1393273103/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/9502480/profile_pic/1393273103/original.jpg?aki_policy=profile_small",
     description: `Cosy bedroom with sink. Shower with toilet and sink are situated next to the bedroom. The windmill is situated at the southwest of the citycentre. It is surrounded by a sportsarea and the bedroom views a typical dutch green landscape, cows and sheep. Close to the mill you will find shops and restaurants. It is easy to get to the citycentre with tram nr.13 or bus nr.69, within 15 minutes. An original dutch countryside feeling in Amsterdam. It would be my pleasure to show you around in the top of the windmill. If allowed by the weather conditions, the wings may even run. Wireless internet is available. During a stay of two (or more) nights, the washing machine and dryer can be used. There is a water cooker in the room and tea/(instant) coffee is available a the room.`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -4546,7 +4594,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `Smoking is strictly forbidden. Smoking only outdoors.`,
-    host_name: "Roel",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -4556,6 +4603,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "793d1ba85c2b35d0f7a6b7f74cbf99e989693c77",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.46,
     zipcode: "75011",
     medium_url: "https://a0.muscache.com/im/pictures/12182637/8484fea8_original.jpg?aki_policy=medium",
@@ -4579,7 +4630,6 @@ mongoose
     calendar_updated: "today",
     summary: `Spacious room (20m2), in a bright and quiet apartment, safe and secure exceptionally located near the Bastille district, Le Marais and Nation. Breakfast included with fresh french bread . Lively neighbourhoods. Supermarket, grocery stores, bakeries.. Breakfast included.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/12182637/8484fea8_original.jpg?aki_policy=small",
-    host_name: "Maguy",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/846954",
     neighbourhood_cleansed: "Popincourt",
@@ -4617,7 +4667,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/3125405/profile_pic/1343834210/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I am a fifty-eight year old woman whose daughter has just left to go off to London. With my empty nest, I have decided to welcome travelers. I know and love Paris dearly. I enjoy sharing my knowledge of the city with my guests so that they have the best visit possible.`,
@@ -4639,7 +4688,6 @@ mongoose
     house_rules: `Polite, discreet and respectful`,
     description: `Spacious room (20m2), in a bright and quiet apartment, safe and secure exceptionally located near the Bastille district, Le Marais and Nation. Breakfast included with fresh french bread . Lively neighbourhoods. Supermarket, grocery stores, bakeries.. Breakfast included. The apartment features three bedrooms: mine and two that are available for Airbnb guests, a big kitchen with dining room and a separate toilet. I have my own bathroom with toilet. There is a second bathroom with shower for Airbnb guests only. If needed for long stays, a washing machine is also available. Hours check-in and check-out are totally flexible. You have a key that allows you to enter and exit whenever you want respecting of course the calm of the apartment. I'll give you all tips you need. About ten days before your arrival I send you my complete address and phone number. When you communicate me your arrival time and according to your place of arrival I write you the best way to get to the apartment. I inform`,
     price: 70,
-    host_picture_url: "https://a0.muscache.com/im/users/3125405/profile_pic/1343834210/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Paris, France",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4652,6 +4700,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "21feb56dee0b227223d3fc8062d52f633da2c161",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.9,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/8680583/f5936270_original.jpg?aki_policy=medium",
@@ -4675,7 +4727,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `The RUST. room is situated on the frontside of house. Decorated like the Massage practice I have. White with purple accents. Breakfast at De laatste Kruimel is included. Check in between 08:00 - 19:00 Room is ready at 14:00 Bathroom shared with 1 other room. No baby or 3rd person! *** from mid January 2018 the room will be renovated and gets its private bathroom ***`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/8680583/f5936270_original.jpg?aki_policy=small",
-    host_name: "Matthijs",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/654931",
     neighbourhood_cleansed: "Centrum-West",
@@ -4714,7 +4765,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/45eba561-c689-4b98-be09-1ea8ea4f3b68.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi Airbnb-ers, Welcome on my profile page, I am an easy going guy living in downtown Amsterdam. In the middle of it all, yet in in a quiet street. I love to travel and like to meet new people from all over the world! Airbnb is a great community and I am extremely proud they awarded me with the superhost status. I will do the utmost to make you feel comfortable. Besides giving massage I like food, dance, food, theatre, food, coffee, did I say food? ;-) I have 2 B&B rooms and you'll share the bathroom with the other room. I would love to have you as my guest! So if you would like to stay city centre in a quiet room and have delicious breakfast (included) around the corner, come stay! The B&B is situated in the same building as Massage parlor RUST. (yes I also run a massage center, and yes you get a discount!) In the very heart of Amsterdam. Before you book: I welcome you personally and you will receive my house key. Check in is from 14:00-19:00. Luggage drop off before is possible, please make an appointment. I have a surcharge for check in after 19:00. I cannot accept a 3rd person in the room by Amsterdam city law. A baby counts as a person as well. I have an official B&B so no need to worry you stay somewhere illegal as the press is lately not so kind to Airbnb.`,
@@ -4738,7 +4788,6 @@ mongoose
     house_rules: `Thanks for being my guests. I am very easy going, speak 5 languages and always try to welcome you personally. When you decide to stay at my place I do have some house/hosting rules: No pets allowed. No smoking, also not from the window. No parties, visitors or noise during the night. (23:00-08:00). No hard drugs and the legal soft drugs in the Netherlands you can carry with you or store, but not use in the room. Bathroom is shared with one other room, I provide towels and bathrobes (for more privacy). Shower gel, shampoo and handsoap are in the bathroom, also a hairdryer. Your room is on the first floor (23 flights, steep staircase) and the other room as well. In between on the hallway is the shared bathroom. You can lock your own room and can exit and enter the house anytime you like. I live and work in the same building. Check in is flexible after 14:00-19:00. But please inform me about your exact arrival time. As I also manage a massage practice on the ground floor. I cannot open th`,
     description: `The RUST. room is situated on the frontside of house. Decorated like the Massage practice I have. White with purple accents. Breakfast at De laatste Kruimel is included. Check in between 08:00 - 19:00 Room is ready at 14:00 Bathroom shared with 1 other room. No baby or 3rd person! *** from mid January 2018 the room will be renovated and gets its private bathroom *** RUST. Bed & Breakfast is situated in one of Amsterdam it's oldest streets in a monumental building in the centre. Het paleis op de Dam (Royal Palace), de 9 straatjes (the nine streets), de Nieuwmarkt, shops, café’s, restaurants, museums en theatres are all in walking distance. The RUST. room is situated on the frontside of our building. Decorated just alike the Massage practice I have underneath the B&B. Lots of white with a little purple accents. A tranquil hidden treasure in the heart of Amsterdam. The room is typical Amsterdam not big. Please check the pictures. 3,5x3 mtr Bed: The room has a comfortable doublebed 160x200`,
     price: 85,
-    host_picture_url: "https://a0.muscache.com/im/pictures/45eba561-c689-4b98-be09-1ea8ea4f3b68.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4752,6 +4801,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "48598c1c477c27376b53fd5d6e2479a5c5bfcdd2",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.33,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/28338537/321e1b4f_original.jpg?aki_policy=medium",
@@ -4774,7 +4827,6 @@ mongoose
     calendar_updated: "5 days ago",
     summary: `Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/28338537/321e1b4f_original.jpg?aki_policy=small",
-    host_name: "Joanne",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/183207",
     neighbourhood_cleansed: "Marigny",
@@ -4813,7 +4865,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/437783/profile_pic/1387822626/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I am a big fan of traveling and absolutely love Airbnb. I have met a lot of very cool people hosting on Airbnb, which seems to attract more adventurous, independent travelers. Hope you are heading out for your own adventures in travel. Have fun.`,
@@ -4836,7 +4887,6 @@ mongoose
     house_rules: `The house rules are few and far between. I have only one real policy and that is no children under 15. The house is not suitable for children or the infirm. Since we are all adults and learned the "golden rule" years ago there really is no need for a list of rules. I want everyone to be comfortable. Smoking is not allowed in the house, but is allowed in the backyard.`,
     description: `Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter. Welcome to the Rose Room listing. Frenchmen House is my home. I share it with my dog, Charles (a huge, cuddly golden retriever), Molly (king of the feline world), and my airbnb guests. Victorian-style 100+ year old house on Frenchmen Street -- home of the best collection of jazz clubs in New Orleans -- and still only blocks from the French Quarter. The house retains the architectural details that make New Orleans homes interesting and beautiful -- 13 ft. ceilings, transom windows, original wood floors, and double parlor with functioning pocket doors. Very few renovations have altered this original home, and its charm represents the homes of its era. Great backyard for entertaining -- very private courtyard setting. Smoking is allowed in the backyard. PARKING: Easy on street parking, no meters, no time restrictions and`,
     price: 85,
-    host_picture_url: "https://a0.muscache.com/im/users/437783/profile_pic/1387822626/original.jpg?aki_policy=profile_x_medium",
     smart_location: "New Orleans, LA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4849,6 +4899,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "5535eec401acea099b19299fbed2ae38919dab5d",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.55,
     calendar_last_scraped: "2017-09-18",
     medium_url: "https://a0.muscache.com/im/pictures/20564843/e58561ef_original.jpg?aki_policy=medium",
@@ -4873,7 +4927,6 @@ mongoose
     calendar_updated: "today",
     summary: `Double room in a 3-bedroom quiet apartment right in the city centre. Within 5 minutes walk to Waverley Station and close to all the attractions! Full access to the kitchen! Wifi is of course included :)`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/20564843/e58561ef_original.jpg?aki_policy=small",
-    host_name: "Lisa",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1293596",
     neighbourhood_cleansed: "Old Town, Princes Street and Leith Street",
@@ -4910,7 +4963,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/3880516/profile_pic/1369160468/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Welcome to my home! I am very laid back and fun to be with :)`,
@@ -4933,7 +4985,6 @@ mongoose
     house_rules: `*The check in time is 12noon to 11pm. Please make sure you will arrive at the flat BEFORE 11pm before you book. The earliest time to drop your bags is 9am. Please contact me in advance for details. *The check out time is before 11am, please clear out your room for cleaning by 11am, but you can leave your luggage in the living room. *The flat is not suitable for children under 12 years old, and cannot accommodate more than 2 people per room (we have 2 guest rooms).`,
     description: `Double room in a 3-bedroom quiet apartment right in the city centre. Within 5 minutes walk to Waverley Station and close to all the attractions! Full access to the kitchen! Wifi is of course included :) We have two guest rooms sharing the bathroom with a toilet and a separate toilet, a fully-equipped kitchen and a spacious living room. My helper Sofia lives in and take care of the guests. This beautiful and airy apartment is suited in the heart of Edinburgh at Calton Hill where the famous observatory is. Princes street, North Bridge and Calton hill are all within 1 min's walk and Royal Mile is about 2. Castle, Holyrood palace, Arthur Seat, National museum are all within 20 minutes walk. There are probably 20 buses within 1 mins' walking distance, and Edinburgh Waverley station is 5 minutes away on foot. Super close to all the famous landmarks and this is the perfect location for your visit to this magnificent city. Driving in Edinburgh is not recommended as there is no free street pa`,
     price: 58,
-    host_picture_url: "https://a0.muscache.com/im/users/3880516/profile_pic/1369160468/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Edinburgh, United Kingdom",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -4947,6 +4998,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "1c1f40719cfaa91ba5c5b276e4b24e901aa80daa",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 4.92,
     beds: 2,
@@ -4984,8 +5039,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/56646/profile_pic/1259253578/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/56646/profile_pic/1259253578/original.jpg?aki_policy=profile_small",
     description: `Welcome! Please scroll down to read the full description. Get a great night’s sleep on the excellent queen bed, with the benefit of good blackout shades. This large room affords you the serenity to rest, read, work or meditate. Watch broadcast HDTV or a DVD, surf the net with your laptop or mobile device, play your own music on the Tivoli Audio iPal, enjoy the good library. Fresh sheets & towels, soap, shampoo and a good hairdryer await you in this restful, non-smoking environment. *PRICING: *Airbnb has notified all Washington DC hosts that, based on an agreement with DC city authorities, as of February 15th, 2015 Airbnb will be required to charge a lodging or hotel tax of 14.5% on the price of all short-term accommodation. This tax is over and above the prices quoted below and will be collected by Airbnb at the time of booking. I regret this additional tax but should let you know that my rates have not changed in the last five years. The daily price for one guest is $85. The daily pr`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -5028,7 +5081,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `Please send an initial inquiry before a booking request. We want your stay to be extra successful, so let's communicate fully at the outset. Just to clarify -- this is not a rental of the entire apartment, but of one large bedroom and private bath, with reasonable use of the kitchen and dining area. The open-plan kitchen/dining area is available for breakfast (provided by host) and snacks or meals (provided by guests), but not for full, hot meals cooked on-site. We want to receive friendly and responsible guests, who treat the apartment as if it were their own and leave it in the condition in which they found it. So, clean up after yourselves, please do not leave any uncovered food out, and kindly wash your dishes promptly. Also, there's no loud music after 10.00 PM. No parties, overnight guests, smoking or pets. Type in the number of guests and your dates, and the site will calculate the cost of your entire stay. The weekly rate is seven times the daily rate. When I/we are out of to`,
-    host_name: "Serge",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -5038,6 +5090,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "144ca539b84a00589ee85ecc5a1c20def4a9546b",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.35,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/77993533/a543fcb3_original.jpg?aki_policy=medium",
@@ -5061,7 +5117,6 @@ mongoose
     calendar_updated: "today",
     summary: `My apartment is on the top two floors (no elevator/lift) of a quiet 4-story residential building in the center of Amsterdam, one bridge from the Anne Frank house. I offer a small upstairs bedroom with a 2-person bed, coffee/tea facilities and a closet in the hall outside your room. NO KITCHEN AVAILABLE. IMPORTANT: If you book, please read your ITINERARY! Send your arrival time at airport or train station AS SOON AS YOU KNOW. Don't wait until the last minute. NO suitcases BIGGER than 60 x 40 cm.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/77993533/a543fcb3_original.jpg?aki_policy=small",
-    host_name: "Carolyn",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/396125",
     neighbourhood_cleansed: "Centrum-West",
@@ -5099,7 +5154,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1979865/profile_pic/1439488739/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `And I would like to welcome you to the Heart of Amsterdam! You are welcome to contact me if you have any questions.`,
@@ -5121,7 +5175,6 @@ mongoose
     house_rules: `Respectful and quiet. You can of course, come and go as you please. Please treat the apartment with care, and keep in mind that you have neighbors. The apartment is a regular home in a quiet residential building. It is not an after-hours club - so no parties, no loud music, etc. We reserve the right to remove you from the apartment if you do not follow these guidelines.`,
     description: `My apartment is on the top two floors (no elevator/lift) of a quiet 4-story residential building in the center of Amsterdam, one bridge from the Anne Frank house. I offer a small upstairs bedroom with a 2-person bed, coffee/tea facilities and a closet in the hall outside your room. NO KITCHEN AVAILABLE. IMPORTANT: If you book, please read your ITINERARY! Send your arrival time at airport or train station AS SOON AS YOU KNOW. Don't wait until the last minute. NO suitcases BIGGER than 60 x 40 cm. EXCELLENT location: 15 - 20 minutes walking from Central Station Amsterdam. From Schiphol airport, approximately 1 hour from the time you land to when you arrive at my apt. Please check calendar for availability. I keep it up to date. My apartment is a quiet and relaxing oasis, in the center of the best that Amsterdam has to offer. My apartment is located on a side street of the Prinsengracht canal, one bridge from the Anne Frank house. I offer an upstairs bedroom overlooking an inner court`,
     price: 70,
-    host_picture_url: "https://a0.muscache.com/im/users/1979865/profile_pic/1439488739/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Jordaan, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -5135,6 +5188,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "df13743cb690a7ba852f24af4be43005baed508d",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 9.57,
     zipcode: "90291",
     medium_url: "https://a0.muscache.com/im/pictures/22175002/3de3edf3_original.jpg?aki_policy=medium",
@@ -5158,7 +5215,6 @@ mongoose
     calendar_updated: "2 days ago",
     summary: `Welcome ... to the tiny enchanted world of fairies & magic. The castle is an experience. Not a room. Bring you inner child. No adults allowed. ;) Believe Affectionately & playfully ... Tracy&Ava ;) ... & all the light beings ;) NOTE: we have other rooms. Bigger... Please look... Angel Loft UPinTheClouds StarryNight TreeHouse Nest FairyGarden GoddessTemple`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/22175002/3de3edf3_original.jpg?aki_policy=small",
-    host_name: "Tracy",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1506773",
     neighbourhood_cleansed: "Venice",
@@ -5195,7 +5251,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1648958/profile_pic/1327451679/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Thanks for taking a look at my listing, i am an artist i am a creator i love my life`,
@@ -5218,7 +5273,6 @@ mongoose
     house_rules: `• Check-in time is officially 3PM. However. Rooms are often ready earlier.., therefore you are welcome to arrive any time. we will send entry details by email and airbnb as soon as you are booked. PLEASE make sure to have that with you when you arrive. it is your 'treasure map' to get in :-) ThkU parking on the street free safe ample Except wed&thurs 9-11am street cleaning. One side each day. once you are booked please review the HouseCode of Honor. it is short. just to know some details. thx no extra guests without prior agreement & arrangement. $30 for extras. firewood, when available, is $10 a bundle :-) for garden firepit please keep bathroom dry please squeegee the shower after use Finally. Please note that we are a no shoes house. Thank you for taking your shoes off at the door. It's much appreciated in helping to keep our home clean. ALSO. VERY IMPORTANT TO NOTE. this is not a 'party house'. It is a quiet neighborhood. We are not saying no gathering... Dinner gathering`,
     description: `Welcome ... to the tiny enchanted world of fairies & magic. The castle is an experience. Not a room. Bring you inner child. No adults allowed. ;) Believe Affectionately & playfully ... Tracy&Ava ;) ... & all the light beings ;) NOTE: we have other rooms. Bigger... Please look... Angel Loft UPinTheClouds StarryNight TreeHouse Nest FairyGarden GoddessTemple FIRST THING TO KNOW THIS IS A VERY TINY IRREGULAR ROOM please read the details below ... We offer an inexpensive opportunity for travels to afford the delight of staying in Venice :) Many many happy couples stay in the Castle. Most LOVE the playfulness of the irregular But do know it is NOT a regular size bed. There is a cushion that is there to 'extend' the bed so when u sleep diagonal you can stretch out :) Also consider closing the hatch for security of not rolling out of the bed (although that's never happened) It's a small space no matter what. Thus the name Teeny tiny castle ... Please continue if interested`,
     price: 73,
-    host_picture_url: "https://a0.muscache.com/im/users/1648958/profile_pic/1327451679/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Venice, CA",
     host_response_rate: "100%",
     bed_type: "Futon",
@@ -5231,6 +5285,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "adccebd878a127b73a1af8713a268bcf93345070",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 9.55,
     beds: 1,
@@ -5272,7 +5330,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/2717300/profile_pic/1374253072/original.jpg?aki_policy=profile_x_medium",
     description: `Come stay with us! We've loved hosting and folks have loved our space - CHECK OUT THE REVIEWS! It's a renovated basement space with private entrance and within a block of light-rail and restaurant core. We've retained some old soul of the 1923 home and accented with creative pieces. You'll find it practical AND funky, with lots of light and space. Included are a bedroom, Full-size bed, private custom-built bathroom, living room, fridge/micro/coffee/dinnerware and full laundry. The space also includes use of a patio space (though we have a shared yard with our neighbors). You'll have keyless entry through a back-lit digital locking system, so no one will have to worry about key exchange and access issues. We are totally flexible and just want you to have a good time! The space allows you to be totally independent if that's your style (private entrace with keyless entry, minimal shared amenities, etc.), but we'd love to meet you and give some not-so-subtle recommendations for stuff`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -5315,8 +5372,6 @@ mongoose
     require_guest_phone_verification: "True",
     guests_included: 2,
     host_total_listings_count: 1,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2717300/profile_pic/1374253072/original.jpg?aki_policy=profile_small",
-    host_name: "Benjamin And Kristi",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -5326,6 +5381,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "26c11755f72c4e3cf4355daba513f969a84ff723",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 6.44,
     beds: 1,
@@ -5365,8 +5424,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/989596/profile_pic/1314117127/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/989596/profile_pic/1314117127/original.jpg?aki_policy=profile_small",
     description: `Our apartment is perfect for the budget traveler. It's very clean and with about 500 square feet it is spacious enough for 2 guests, although there is a fold out couch if you need it. My wife and I lived here before buying the main house on the property. It was a great place to live and gave us many happy years. I'm sure you will love it too! Located near Congress and Riverside, just a few blocks away from longtime Austin establishments such as Guero's Taco Bar, The Continental Club, Allen's Boots, and many other amazing restaurants, shops and music venues. The South Congress bridge, where the bats emerge at sunset every evening from March to October, is just a few more blocks away and leads directly into the downtown area only a mile from our apartment, all within walking distance. You can pick up the hike and bike trail at the bridge as well, and it runs for many miles around Lady Bird Lake. Public bike rentals are within a five minute walk on Congress Avenue. We do provide of`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -5411,7 +5468,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 2,
     house_rules: `You can park in our driveway but please leave a space to one side for one of our cars. The door will be unlocked when you arrive and the keys will be on the table. The wireless access code is on the inside of the front door. If you smoke, there is an ashtray on the table and a place to sit and smoke out front. Please don't smoke inside. There are trash cans to the side of the apartment that you can place your butts in. Thanks! We live in the house in front but are very respectful of your privacy. Please let us know if you need anything. Also, please notify us if something breaks or is not in working order. We will work to correct any problems as quickly as possible. Thanks!`,
-    host_name: "John",
     notes: `I have the best wifi range extender that money can buy but I have heard from our guests that it can be a little spotty, especially in the back of the apartment further away from our house. We do apologize in advance for any inconvenience. I am looking into ways to run a physical line from the house to the apartment but this is a fairly major project that will have to take place sometime in 2017.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -5421,6 +5477,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "b01c927970edeb0fc599125f40c9f5923a760740",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 8,
     reviews_per_month: 7.29,
     beds: 2,
@@ -5459,8 +5519,6 @@ mongoose
     review_scores_location: 8,
     review_scores_checkin: 9,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/2336397/profile_pic/1341515414/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2336397/profile_pic/1341515414/original.jpg?aki_policy=profile_small",
     description: `Cozy, Simple, central, conveniently located and walking distance from the main touristic attractions such as Colosseum, Foro Romano ,Trevi Fountain, historical market of Piazza Vittorio. etc. The apartment is spacious and it's situated on the first floor of the building facing the bustling street of Piazza Vittorio that is a multiethnic, colorful and lovely area only few steps away from Termini train station. BY TRAIN: From Fiumicino to Termini……time 30min. The Leonardo da Vinci airport is about 26 km. South-west from Rome.From Fiumicino airport to Termini per person €14 To reach the city there's a train shuttle (Leonardo Express) which departs every 30 minutes for Termini station between the hours of 5:52 and 22:52. BY BUS: From Fiumicino to Termini - time 1hr. The private bus service from Fiumicino to Termini and Piazza Cavour. From Ciampino airport to Termini: Sitbusshuttle: €6 / Terravision: € 8 WITH TAXI From Fiumicino airport to Termini: € 40 - 50 From Ciampino airpor`,
     review_scores_communication: 9,
     experiences_offered: "none",
@@ -5502,7 +5560,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 1,
     house_rules: `We expect guest to be as responsible as they would do with their own house. We will try to help customers with all information on how to reach the place from the different airport and. CHECK IN time is usually after 2.00 pm. .CHECK OUT time 10 am and. Kindly note that €2 city tax per night per person has to be paid in cash which is not included with the price. In case of late night check in (after 11:00 pm), €10 extra has to be paid. You may leave the luggage with an additional fee of €5. Please note that the washing machine is for personal use. If you need to use it, €5 has to be paid for use. No Accepted smokin and animali.Kindly note that the kitchen is for personal use only.`,
-    host_name: "Shapan",
     room_type: "Private room",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -5512,6 +5569,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "3316a9bf7dace22ec6a0123102663825bcb82f29",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.89,
     zipcode: "116 36",
     medium_url: "https://a0.muscache.com/im/pictures/18050268/e9ce12db_original.jpg?aki_policy=medium",
@@ -5536,7 +5597,6 @@ mongoose
     calendar_updated: "3 days ago",
     summary: `Traditional recently renovated Studio Appartment in Mets, a historic,beautiful and quiet area with steep streets in the heart of Athens.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/18050268/e9ce12db_original.jpg?aki_policy=small",
-    host_name: "Rio",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1177492",
     neighbourhood_cleansed: "ΣΤΑΔΙΟ",
@@ -5573,7 +5633,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/6442400/profile_pic/1368865682/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hi, my name is Rio, born in Scotland but I grew up in Athens. I like cycling, travelling, movies and gardening.`,
@@ -5596,7 +5655,6 @@ mongoose
     house_rules: `You are welcone to our apartment! Please turn off the water heating after 15'. Don't use several electric appliances at the same time. Enjoy the studio respectfully as you were in your own place.`,
     description: `Traditional recently renovated Studio Appartment in Mets, a historic,beautiful and quiet area with steep streets in the heart of Athens. Traditional recently renovated Studio Appartment in Mets, a historic,beautiful and quiet area with steep streets in the heart of Athens. THE STUDIO It is 30 sq meters ground floor in a quiet tree lined pedestrian street. It consists of: - Kitchen/living room with a single sofa bed. - Mezzanine with a double bed. - Shower room/W.C. - Linen and towels. - Free Wi-Fi,TV,DVD. - Hot/Cool Air condition. - Stove, electric panel. ***FOR THE BURNING STOVE THERE IS A CHARGE FOR THE WOOD (4euros/kilos) The kitchen is fully equipped with electric hot plate, microwave,fridge,coffee maker and kettle. Tea,coffee,sugar,milk. Breakfast and lunch is also available on request. Friendly english speaking family. THE LOCATION - METS Very central and convenient for all the main tourist attractions in Athens: 8-10 mins walk to Acropolis Temple & Museum, Plaka, Monastirak`,
     price: 40,
-    host_picture_url: "https://a0.muscache.com/im/users/6442400/profile_pic/1368865682/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Athens, Greece",
     host_response_rate: "97%",
     bed_type: "Real Bed",
@@ -5609,6 +5667,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "7940e16a66ef7ff2bf3df91ff6b38e5bbe7cdc5c",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.7,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/96887772/1054c57a_original.jpg?aki_policy=medium",
@@ -5632,7 +5694,6 @@ mongoose
     calendar_updated: "today",
     summary: `We have a charming, 2 bedroom 1 bath Victorian home high on a hill with sweeping views, a garden and a deck. There’s free on street parking and a bus stop is a 2 minute walk away at the corner. Downtown is about 30 minutes by public transportation.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/96887772/1054c57a_original.jpg?aki_policy=small",
-    host_name: "Judy",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/567239",
     neighbourhood_cleansed: "Noe Valley",
@@ -5671,7 +5732,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1772044/profile_pic/1347080319/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I'm a Yoga teacher and body movement therapist, happy to share my skills with you for a deeply discounted fee (just give me your tired, your poor). When I'm not doing yoga or helping others feel better I'm often imagining myself in a Latin American country such as Guatemala where I lived with a family and studied Spanish. If you're up for it, I welcome the opportunity to practice with you.`,
@@ -5694,7 +5754,6 @@ mongoose
     house_rules: `Respectfully quiet after 10pm, though free to come in anytime. Light kitchen use in the morning for making breakfast only. No cooking for other meals. No smoking please, even outside.`,
     description: `We have a charming, 2 bedroom 1 bath Victorian home high on a hill with sweeping views, a garden and a deck. There’s free on street parking and a bus stop is a 2 minute walk away at the corner. Downtown is about 30 minutes by public transportation. You have your own bedroom with a comfortable double bed (smaller than a queen size bed) and you share the single bathroom with us. You’re invited to sit out on the deck and soak up the view whenever the weather permits. You're also welcome to light use of the kitchen. Additionally: We provide a simple make-your-own breakfast such as fruit and granola. , Feel free to store additional breakfast items in our refrigerator. Safeway and Whole Foods Markets are both nearby popular places to purchase groceries. Most of our guests opt for one of several incredible breakfast options nearby. We always have coffee and tea available for you. My husband and I are welcoming, friendly hosts, happy to help you find your way around you. I am a yoga t`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/users/1772044/profile_pic/1347080319/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -5708,6 +5767,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "b67f2670ec6cceb4d02083aefe890a397d20b854",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 11.23,
     zipcode: "90405",
     medium_url: "https://a0.muscache.com/im/pictures/34420579/5e9ded05_original.jpg?aki_policy=medium",
@@ -5732,7 +5795,6 @@ mongoose
     calendar_updated: "today",
     summary: `Historic 1906 Bungalow. 3 blocks to the Beach and 1 block to Main Street. Walk to Pier and 3rd street promenade. Completely private, quiet w/private entrance. Rustic Décore with Bohemian vibe. Jacuzzi Bathtub, Queen Bed. Free WiFi, HDTV with DVD player and wide selection of DVDs. Free parking, on street. Common yard area with rooftop deck .`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/34420579/5e9ded05_original.jpg?aki_policy=small",
-    host_name: "Jeff",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1990543",
     neighbourhood_cleansed: "Santa Monica",
@@ -5769,7 +5831,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/bf23a6b8-5b8d-4463-8d02-569443c2c79b.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I'm a professional musician and have lived in Santa Monica all my life. I'm a bit of a Rocker/Hippie type. I enjoy life and all that it has to offer.`,
@@ -5791,7 +5852,6 @@ mongoose
     house_rules: `1) Smoking is Only Allowed Outside in the Common Area 2) Nothing But Toilet Paper gets Flushed. No Paper towels, Wet Naps or Sanitary Napkins 3)We expect guest to behave in a manner that does not damage any of the amenities we have provided. A decent noise level is expected after 9pm. 4) 420 Friendly.`,
     description: `Historic 1906 Bungalow. 3 blocks to the Beach and 1 block to Main Street. Walk to Pier and 3rd street promenade. Completely private, quiet w/private entrance. Rustic Décore with Bohemian vibe. Jacuzzi Bathtub, Queen Bed. Free WiFi, HDTV with DVD player and wide selection of DVDs. Free parking, on street. Common yard area with rooftop deck . Newly renovated and rustic 1906 Bungalow with bohemian vibe. You get the back half of the house with private entrance. Great Jacuzzi Tub and Shower with endless hot water. Street parking with the use of a parking pass. Common area in the backyard has a fire pit and many chairs to chill in. Guest have access to Private Bedroom, Bathroom and closet. Backyard area and rooftop deck to relax. Free parking with Parking Pass that I provide Not much interaction needed, other than to get key and parking pass if needed. But the landlord and surrounding tenants are very friendly and can always suggest things to do and places to go. Walking distance to Venice`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/pictures/bf23a6b8-5b8d-4463-8d02-569443c2c79b.jpg?aki_policy=profile_x_medium",
     smart_location: "Santa Monica, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -5804,6 +5864,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "f072ee1e084008b1622a2fa5ae748d902f7d7b38",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.57,
     calendar_last_scraped: "2017-09-14",
     medium_url: "https://a0.muscache.com/im/pictures/b4a7ff2b-9d2e-4795-b686-8b3be62cff01.jpg?aki_policy=medium",
@@ -5827,7 +5891,6 @@ mongoose
     calendar_updated: "today",
     summary: `Gorgeous private suite with everything you need to enjoy a few days in Nashville! But the best part - Only mins to downtown! 20 min walk or $7 taxi ride or catch the free Music City Circuit (downtown bus loop 6AM-6PM) 2 blocks over at Farmers Market`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/b4a7ff2b-9d2e-4795-b686-8b3be62cff01.jpg?aki_policy=small",
-    host_name: "Rick",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/1550764",
     neighbourhood_cleansed: "District 19",
@@ -5864,7 +5927,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I know your not coming to Nashville to visit me, but i will do my best to provide a great place to stay while you are in Nashville! I am a single Dad with 2 great kids off to college! I built this home 3 years ago and love living near downtown Nashville. I am an avid walker and most weeks put in 15 to 20 miles just walking from my home to the Historical Germantown area, Bicentennial Mall State Park, Farmers Market, State Capital, Legislative Plaza, TPAC, then on to Lower Broad, 2nd Ave, and Riverfront park where all the honky tonks are located! That total distance is just a little over 2 miles each way. I was in the USAF and Tennessee Air Guard for 13 years where i was a navigator on C-130's. After my military life i became a General Contractor and started my own business. After being in the country for so long i decided to try the city life. I bought a vacant lot in this historical overlay district and loved it. Since then I have built 2 more homes on this street. I do love this up and coming neighborhood. I also love to hike the mountains! I have summed 3 12,000 foot peaks in the Rockies and last summer my son and I summed 14,254 foot Long's Peak in Rocky Mountain National Park. I must admit - it kicked my ass ... but wow!... what a view! Leaves no doubt there is a God! I also love to kayak and travel. But the best times are with the kids. We love to play strategy board games..Settlers of Catan, Acquire, and Cashflow. I love Axis and Allies, but its hard to get them to play that! I also play in a Texas holdem Poker League...for points...not for cash! UPDATE: That's my first grandbaby...Walt....Born 19 November 2012!!`,
@@ -5887,7 +5949,6 @@ mongoose
     house_rules: `Rental Rules: Guest agree to abide by the Rental Rules at all times while at the property and shall cause all member of the Rental party and anyone else Guest permits on the property to abide by the following rules at all times while at the property. 1.Age Requirements: Guests under the age of 21 unaccompanied by a parent or legal guardian will not be permitted to register and will lose all funds paid to the homeowner. Any reservations made under false pretenses will result in loss of advance payments and possible removal of guest from rental unit. The Homeowner reserves the right to refuse service to anyone. 2.Extra Guests: People other than those in the guest party set forth above may not stay overnight in the property. Any other person in the property is the sole responsibility of the Guest. 3.Smoking: Smoking is NOT allowed inside the home. 4.Accidents, injuries, or illness: The home is privately owned. The owner is not responsible for any accidents, injuries, or illness that occur`,
     description: `Gorgeous private suite with everything you need to enjoy a few days in Nashville! But the best part - Only mins to downtown! 20 min walk or $7 taxi ride or catch the free Music City Circuit (downtown bus loop 6AM-6PM) 2 blocks over at Farmers Market New Super Suite! •Private entrance •Full bath •Queen size Memory Foam bed •Wet bar with Mini fridge, Microwave, Coffee Maker, (stocked with coffee, hot chocolate, popcorn, bottled water) •44" Flat Panel TV with full Satellite (HBO, Cinemax, Showtime, etc) •WIFI Come and go as you please. Beautiful new suite located on the first floor of my home is just 2 blocks to Bicentennial Mall State Park and Farmers Market, and just a few more blocks to Germantown restaurants and downtown Nashville. No (URL HIDDEN) Cleaning (URL HIDDEN) Deposit. But take care of my home!!! Links: Bicycle rentals (2 blocks from the house) (SENSITIVE CONTENTS HIDDEN) "Nashville Bicycles" Music City Circuit ( free downtown bus loop also 2 blocks) (SENSITIVE CONTE`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/users/1684051/profile_pic/1385849810/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Nashville, TN",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -5901,6 +5962,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "32df5e90310d97de20f70e9a3f28fdf7fdc43c41",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.41,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/821865/834a9766_original.jpg?aki_policy=medium",
@@ -5925,7 +5990,6 @@ mongoose
     calendar_updated: "today",
     summary: `The studio is in Oud-West, a special corner of Amsterdam; a popular, dynamic neighborhood dotted by trendy design stores, cool cafe bars and some of the best restaurants. With a lot to offer and a great deal to experience, you’ll want to come back to this vibrant Amsterdam neighborhood time and time again. Bordering the centre of the city, the canals and the Museum Quarter you live like a local and enjoy all the comfort you need in our bright, cozy and comfortable studio.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/821865/834a9766_original.jpg?aki_policy=small",
-    host_name: "Nina",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/118117",
     neighbourhood_cleansed: "De Baarsjes - Oud-West",
@@ -5964,7 +6028,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/596513/profile_pic/1373896741/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `Hi, we're Benjamin & Nina, a happily married couple from Amsterdam and we love being Airbnb hosts! Nina has an agency for actors and Benjamin is always busy with his online business and ventures in virtual reality. Our cat Doris is sweet and loves sunbathing. We love the good things in life; good food, museums, theater, music and the Amsterdam night life. We're hospitable and we love to meet new people.`,
@@ -5987,7 +6050,6 @@ mongoose
     house_rules: `We kindly ask you to: Not smoke in the studio. Be quiet when walking up and down the stair. Turn off lights and heating when you leave the studio. No loud noises after 21:00. Do the dishes before you check out. Thank you!`,
     description: `The studio is in Oud-West, a special corner of Amsterdam; a popular, dynamic neighborhood dotted by trendy design stores, cool cafe bars and some of the best restaurants. With a lot to offer and a great deal to experience, you’ll want to come back to this vibrant Amsterdam neighborhood time and time again. Bordering the centre of the city, the canals and the Museum Quarter you live like a local and enjoy all the comfort you need in our bright, cozy and comfortable studio. This lovely 25 m2 (269 sq ft) Studio is in the heart of Amsterdam. It is a single room with open kitchen and adjacent bathroom. We've done our best to make it warm, cozy yet bright studio. It's a perfect little place for couples and homely enough for when you are traveling by yourself. (Check out the maps section we've put together. There are a lot of great tips and places in there.) In the studio is high speed WiFi. Clean sheets and towels are provided. We take pride in keeping the studio super clean for you. You wi`,
     price: 87,
-    host_picture_url: "https://a0.muscache.com/im/users/596513/profile_pic/1373896741/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "95%",
     bed_type: "Real Bed",
@@ -6001,6 +6063,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "d0fcdd0e294940c90274cae73db02c87df431c07",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.65,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/c508cf8c-c9e9-4375-9a10-2ef041eeca70.jpg?aki_policy=medium",
@@ -6023,7 +6089,6 @@ mongoose
     calendar_updated: "5 days ago",
     summary: `New renovated Cozy Suite with Separated Entrance, Private Bathroom`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/c508cf8c-c9e9-4375-9a10-2ef041eeca70.jpg?aki_policy=small",
-    host_name: "Su",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/585326",
     neighbourhood_cleansed: "Outer Richmond",
@@ -6059,7 +6124,6 @@ mongoose
     host_identity_verified: "False",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/2676602/profile_pic/1340125021/original.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `We have been living in San Francisco for 10 years. We like the city very much. You will like it too!`,
@@ -6083,7 +6147,6 @@ mongoose
     house_rules: `The Cozy Suite is a self-service stay. Fresh linens & towels are provided. Please help to keep the suite clean, more or less as you found it. - No candles or other open flames. - Please take off your shoes while indoors. We will have slippers for you. - Laundromat is half a block away. Terms of Accommodation PLEASE READ THESE TERMS CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS, REMEDIES AND OBLIGATIONS. THESE INCLUDE VARIOUS LIMITATIONS AND EXCLUSIONS, AND A CLAUSE THAT GOVERNS THE JURISDICTION AND VENUE OF DISPUTES. Key Terms Unless otherwise provided, the key terms contained herein are those provided in Airbnb’s Terms of Service as amended from time to time. In case of conflict, the definitions contained in these Terms of Accommodation shall prevail. Host provides Guest with the right to use and enjoy certain premises listed by Host on and booked by Guest through the Site, Services and Application (the “Accommodations”). By booking the Accommodation`,
     description: `New renovated Cozy Suite with Separated Entrance, Private Bathroom Newly renovated Cozy suite with separated entrance, private bathroom. You have total privacy during your stay! Our house is in Central Richmond, San Francisco which is close to the Golden Gate Bridge and Golden Gate Park. It is a safe, peaceful residential neighborhood with excellent access to SF's urban center. Your lovely cozy suite is with - Private Bathroom (attached) - Private Entrance - Fast WiFi (Wireless Internet) - Queen-sized bed - Sofa bed - In addition, an aerobed is provided upon request. - Table and Chairs - Microwave and Refrigerator - Hairdryer - Iron and iron board upon request - Laundromat half a block away YOUR LOCATION 3 minutes walking to Golden Gate Park. 10 minutes driving to Golden Gate Bridge Public transportation goes to downtown, Union Square, Chinatown, museums, beaches, major attractions. The bus stops are within 5 minutes walking distance (38-Geary, 31-Balboa, 5-Fulton, 2-Clement, 1`,
     price: 69,
-    host_picture_url: "https://a0.muscache.com/im/users/2676602/profile_pic/1340125021/original.jpg?aki_policy=profile_x_medium",
     smart_location: "San Francisco, CA",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -6097,6 +6160,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "b91366db8bc58cd4dbb2ae6a6cce87a66ef6249f",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.63,
     calendar_last_scraped: "2017-10-06",
     medium_url: "https://a0.muscache.com/im/pictures/5bc1db8d-090f-4e50-97b7-9e454670b1ef.jpg?aki_policy=medium",
@@ -6120,7 +6187,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `Please read ENTIRE LISTING before inquiring to book! This is mandatory.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/5bc1db8d-090f-4e50-97b7-9e454670b1ef.jpg?aki_policy=small",
-    host_name: "Elizabeth & Ryan",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/179243",
     neighbourhood_cleansed: "Mount Pleasant",
@@ -6159,7 +6225,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/a6a035bb-efa6-4664-b9f3-df283c4d4034.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `I'm a Digital Designer (UI App/Web) born and raised in Vancouver - a "true local". Ryan is originally from Montreal and works in-flight for Air Canada. Our cat Gibbard (aka Gibby) is the world's friendliest and cuddliest. Even non-cat lovers take a liking to him! We love meeting new people through this avenue... from all walks of life and around the world.`,
@@ -6182,7 +6247,6 @@ mongoose
     house_rules: `Please ensure that you have read the ENTIRE listing before making a booking request. This is important that information is not overlooked. We want our guests to feel at home but please do so respectfully. Be mindful you are staying in someone else's home. The golden rule "Leave the apartment as you had found it". You will be provided a house manual upon arrival. Please have both you and whoever is joining you to read it through and follow the rules. This is also to keep our cleaning fee we charge to you a lot less than what we pay our house cleaner. Do your part so we don't have to charge you more!`,
     description: `Please read ENTIRE LISTING before inquiring to book! This is mandatory. If you are looking for a feel of a home (with a very snuggly cat who thinks he's a dog), you've found the right place. Bright private room in a stylish loft apartment situated right in the heart of the city. The building is old and a bit rough around the edges... BUT our suite is the opposite - well maintained and thoughtfully designed. Great location, half a block off hip Main Street and 15 min by public transit to downtown. - WIFI - Towels/linens, shampoo/body wash, and hair dryer. - Fully equipped kitchen with microwave, toaster, and electric kettle. Help yourself to tea/instant coffee and anything you need to cook (cooking oil, condiments, etc). - The living room is shared space with movies/shows on Netflix available. - Coin-operated laundry in the building. - Free street parking right outside the building. Happy to interact as little or as much as you like! When it comes to delicious local eateries, independe`,
     price: 100,
-    host_picture_url: "https://a0.muscache.com/im/pictures/a6a035bb-efa6-4664-b9f3-df283c4d4034.jpg?aki_policy=profile_x_medium",
     smart_location: "Vancouver, Canada",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -6196,6 +6260,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "1b366b067e485c5fc6152d465c360292a2e54254",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.22,
     zipcode: "97210",
     medium_url: "https://a0.muscache.com/im/pictures/2132691/2503a10c_original.jpg?aki_policy=medium",
@@ -6220,7 +6288,6 @@ mongoose
     calendar_updated: "today",
     summary: `Cozy bedroom on main floor of 1920's bungalow next to kitchen. Although the room is small the queen bed is very comfortable. Updated kitchen and bath. Bathroom is shared when other guests are present. Trendy NW 23rd ave neighborhood.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/2132691/2503a10c_original.jpg?aki_policy=small",
-    host_name: "Alleyn",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/229291",
     neighbourhood_cleansed: "Northwest District",
@@ -6257,7 +6324,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/1001311/profile_pic/1313960321/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `I live in the NW district close to the center of town because it is easily accessible from almost anywhere in Portland. About 20 minutes from the airport. My great grandparents built homes in this neighborhood when it was first being developed and I have always loved this section of town. I moved to my present home in the Nob Hill district about 14 years ago. I was an interior designer for many years and I also teach watercolor at the local community center. I can't live without the ocean and the mountains each an hour and a half drive from here. I love the beautiful Columbia Gorge (1/2 hour) and hiking in Forest Park (minutes away). I enjoy people from all walks of life and love to travel when given the chance.`,
@@ -6280,7 +6346,6 @@ mongoose
     house_rules: `We have a great kitchen and love to share the space but expect all dishes to be washed and the counter tops cleaned off when finished cooking. Kitchen closes at 10:00 pm so other household members can get some sleep. Please keep all food and drink in the dining kitchen areas and not in the bedroom No late night partying here since this is an early to bed household No smoking of any kind on the premises No illegal drugs No pets allowed due to allergies`,
     description: `Cozy bedroom on main floor of 1920's bungalow next to kitchen. Although the room is small the queen bed is very comfortable. Updated kitchen and bath. Bathroom is shared when other guests are present. Trendy NW 23rd ave neighborhood. My home is a 1920's style bungalow in NW Portland's Nob Hill neighborhood. While here, you can share the comfortable living room or retreat to your own room for a well deserved rest. The kitchen is available if you would like to cook but I find most people end up sampling all the great restaurants and eateries close by. Your room is next to the bathroom and kitchen and has a comfortable queen bed and an amoire to hold your belongings. One thing to note; When there is another guest in the other airbnb room the bathroom will be shared but it seems to work out just fine. I look forward to meeting many new guests and sharing my home with them. Shared common spaces are a newly remodeled kitchen and bathroom, dining area and living room. In the nice weather I`,
     price: 65,
-    host_picture_url: "https://a0.muscache.com/im/users/1001311/profile_pic/1313960321/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Portland, OR",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -6293,6 +6358,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "a691ed22169709fb0b24e1529be35498cc1ff46c",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.88,
     beds: 1,
@@ -6331,7 +6400,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/5620519/profile_pic/1364998655/original.jpg?aki_policy=profile_x_medium",
     description: `Nestled in the very back of our backyard amid the cacti and bamboo, this sun-filled 1 bdrm, 1 bath cottage comfortably fits two. Enjoy spitting-distance access to UT, downtown Austin, I-35 and the MetroRail, as well as the restaurants, coffee shops, food trailers and parks of the eclectic Eastside Cherrywood neighborhood. Or just laze about on our hammock. It's accessible through our driveway or a gate on the other side of our yard, giving you complete privacy to you come and go as you like. The queen-sized Murphy bed folds up to give even more space. Other features include a lots of window space with blinds, a large desk/table, 24/7 WIFI access, and a mini-fridge, microwave and coffeemaker. And of course, AC (as well as heat for the one week of the year it's cold here). We're located in the tree-lined French Place section of Austin's eclectic Cherrywood neighborhood, near campus and very central. Downtown is only a few minutes away by car, bus or train. You'll have an easy two-block`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -6371,8 +6439,6 @@ mongoose
     require_guest_phone_verification: "False",
     guests_included: 2,
     host_total_listings_count: 1,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/5620519/profile_pic/1364998655/original.jpg?aki_policy=profile_small",
-    host_name: "Steve",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -6382,6 +6448,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "9a5589cdcfa0aaa5fc5c68db339b34b9d1fffacf",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 9.32,
     beds: 4,
@@ -6423,8 +6493,6 @@ mongoose
     review_scores_location: 10,
     security_deposit: 100,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/7994036/profile_pic/1375865463/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/7994036/profile_pic/1375865463/original.jpg?aki_policy=profile_small",
     description: `In the heart of Venice an intimate and cozy apartment in a charming 1600 building, between the Church of Santa Maria dei Miracoli and the Rialto Bridge. Enjoy the central location and the proximity to everything that Venice has to offer! The apartment consists of a double bedroom, a bathroom with shower and a kitchen/livingroom with cooking area and sofa bed. It is located on the third floor of a palace from the sixteenth century that what built by the Tiepolo family. It is near the Church of Santa Maria dei Miracoli, a jewel of the Venetian Renaissance and the Church of Santi Giovanni e Paolo, the biggest gothic curch in Venice. Just 10 minutes walk from the Rialto Bridge and 15 minutes from the San Marco Square. In the neighborhood there are supermarkets, pharmacies, tobacconists and many shops and restaurants also frequented by the Venetians. Keys are delivered upon arrival directly at the flat. A small kitchen that is very well organized offers everything 'you need to cook comfort`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -6468,7 +6536,6 @@ mongoose
     guests_included: 2,
     host_total_listings_count: 1,
     review_scores_checkin: 10,
-    host_name: "Stefano",
     notes: `If the guest are two but need to use the sofa bed, we kindly ask to be informed ahead and please note that we will apply a supplement of 10 Euro per night.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -6478,6 +6545,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "74aed11ecba4cdf30ecbe141e3a15c0f9e04f9be",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 5.49,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/46064330/db148936_original.jpg?aki_policy=medium",
@@ -6502,7 +6573,6 @@ mongoose
     calendar_updated: "today",
     summary: `This former artist's studio takes up the third (and top) floor of my 17th century Amsterdam bell gable house.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/46064330/db148936_original.jpg?aki_policy=small",
-    host_name: "Johan",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/193038",
     neighbourhood_cleansed: "Centrum-Oost",
@@ -6540,7 +6610,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/935742/profile_pic/1312741356/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Languages: English and Dutch I am a chef and have been in catering since almost 30 years. Besides that I enjoy hosting for Airbnb: I get to meet great people from all over!`,
@@ -6562,7 +6631,6 @@ mongoose
     house_rules: `Studio for two (2) guests max. Check-out: 11 am. Of course you're welcome to leave your bags downstairs for picking up later. Check-in: the studio will be ready for you as of 2 p.m at the latest, often sooner. You're welcome to drop off bags and collect keys right away though!`,
     description: `This former artist's studio takes up the third (and top) floor of my 17th century Amsterdam bell gable house. The studio consists of the top floor (=3d) of my Amsterdam 17th century clock gable house. It has the following features: - two flights of stairs to get there, although for Amsterdam standards not very long or steep, - they are a bit narrow and winding..!! - 34m2 - Possibility to store luggage downstairs when arriving early or leaving late. - Bathroom with shower, wash basin and toilet. - Hair dryer - Bed - and bathroom linen. - Fridge and microwave combi oven. - Nespresso (machine and capsules) and tea included. - King size bed: 200 x 180 cm - Comfy reading chairs at a large window overlooking the typical Amsterdam street - TV / DVD Player - Stereo with bluetooth connection - Wifi (free) - Central location, all major attractions are a short walk away. - Gay friendly The place is very warm and personal, and perfectly suited for a single traveler or couple to retreat`,
     price: 95,
-    host_picture_url: "https://a0.muscache.com/im/users/935742/profile_pic/1312741356/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Amsterdam, Netherlands",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -6576,6 +6644,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "22ef44b5056a5ceccc4621ed87ff2f53f21a3889",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 6.07,
     zipcode: "08025",
     medium_url: "https://a0.muscache.com/im/pictures/28092239/cfe80023_original.jpg?aki_policy=medium",
@@ -6600,7 +6672,6 @@ mongoose
     calendar_updated: "yesterday",
     summary: `Place to relax after a long day exploring Barcelona. "La Sagrada Familia"? My house is 4 blocks. People coming for "parties" are NOT WELCOME. Small room: very quiet, no parties. Reading this description before booking. There is an option, which is to send a message to host. The room is ONLY FOR sightseeing NOT for students, workers , etc. LGBT.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/28092239/cfe80023_original.jpg?aki_policy=small",
-    host_name: "Julián",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/186221",
     neighbourhood_cleansed: "el Camp d'en Grassot i Gràcia Nova",
@@ -6637,7 +6708,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/users/494228/profile_pic/1424884969/original.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Welcome home! Hello, I'm Julian, from Argentina, living/working in Barcelona (8 years) I am 44 years old, I am a graduate in Political Science. I hope to share my home with quiet and very respectful people. (no place for parties, I´m sorry) I speak Spanish, English and a little French.`,
@@ -6659,7 +6729,6 @@ mongoose
     house_rules: `Airbnb provides recommended to know the following information: * Building Standards: I ask please not call or intercom door of my neighbors. * Smokers: Smoking is not permitted * Noise: Please I ask my guests to try not to make too much noise in the building to comply with the standard of the building. -You are not allowed to enter the house with strangers. -It is not allowed to make any kind of parties. --------------------------------------------------------- respect the time of check in (after 14:00), check ou (before 11am). Kitchen: available to prepare breakfast Bathroom: to respect the rest at night, from 23:30 to 7:30 am, Not to take a shower. Ask to be prudent with time in the shower / bath. Please: be clean and fast using the bathroom. Please: be respectful of private life, of people at home.`,
     description: `Place to relax after a long day exploring Barcelona. "La Sagrada Familia"? My house is 4 blocks. People coming for "parties" are NOT WELCOME. Small room: very quiet, no parties. Reading this description before booking. There is an option, which is to send a message to host. The room is ONLY FOR sightseeing NOT for students, workers , etc. LGBT. Before sending the booking ... I hope a message, ALWAYS. Only for people who come to barcelona for sightseeing: not room to live or students. People coming for "parties" are NOT WELCOME. Very quiet place, located in neighborhood of Gracia, one of the busiest area of Barcelona, just 4 blocks from the "Sagrada Familia", 10 minutes walking to Sant Pau Hospital, and 4 metro stops from the Parc Güell. You will visit 3 emblematic places of Barcelona, walking: La Sagrada Familia, Parc Guell; Sant Pau Hospital. This room is for ONE person, simple and very useful. It has a window, but not direct sunlight. The room has fans and heati`,
     price: 15,
-    host_picture_url: "https://a0.muscache.com/im/users/494228/profile_pic/1424884969/original.jpg?aki_policy=profile_x_medium",
     smart_location: "Barcelona, Spain",
     host_response_rate: "100%",
     neighbourhood_group_cleansed: "Gràcia",
@@ -6673,6 +6742,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "5f85e8ae81ed65efa0b3098404189cef6f4b7400",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 8.92,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/a31df304-9763-4338-a32d-262d44a4d6cd.jpg?aki_policy=medium",
@@ -6698,7 +6771,6 @@ mongoose
     calendar_updated: "2 days ago",
     summary: `Super walkable location no car needed! Get to RINO Arts district tons of Micro's, Dispensaries and Restaurants or light rail in minutes. Cozy room 8 feet X 9.6 feet. Bathroom involves stepping outside to go into main home to get to a bathroom. Taking a bath/shower involves going upstairs. Kitchen is available for breakfast and we supply bagels, coffee, tea, and milk. We limit our kitchen to just breakfast for guests other than breakfast you should plan on eating out. Full Bed for two.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/a31df304-9763-4338-a32d-262d44a4d6cd.jpg?aki_policy=small",
-    host_name: "Beth",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/2257217",
     neighbourhood_cleansed: "Five Points",
@@ -6737,7 +6809,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 10,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/baf7be7d-3db0-4f96-acc2-8ed32a78935d.jpg?aki_policy=profile_small",
     instant_bookable: "False",
     experiences_offered: "none",
     host_about: `Hello and welcome to Denver! I run a local non-profit. Travel is one of my greatest passions and I have visited 28 countries. I enjoy yoga and tennis. I have two children that are well behaved and sometimes they may be here or not. We also have a kitty cat. I am pretty easy going and have flexible work hours so sometimes I am available to have a cup of tea with my guests -- We have hosted many people from the states and from around the world and enjoy hearing their stories and about their cities Life Motto: Live in the Present Moment`,
@@ -6760,7 +6831,6 @@ mongoose
     house_rules: `No eating or smoking in the room (there is smoking available on the deck outside) or no loud stuff. We pretty much want the noise level kept to a minimum after 10 PM. We provide a light breakfast. Always lock the door when leaving. 420 on back porch if no kids are around at night. We ask you keep it on the down low.`,
     description: `Super walkable location no car needed! Get to RINO Arts district tons of Micro's, Dispensaries and Restaurants or light rail in minutes. Cozy room 8 feet X 9.6 feet. Bathroom involves stepping outside to go into main home to get to a bathroom. Taking a bath/shower involves going upstairs. Kitchen is available for breakfast and we supply bagels, coffee, tea, and milk. We limit our kitchen to just breakfast for guests other than breakfast you should plan on eating out. Full Bed for two. OK it finally came to this. I have converted my Man Cave to the private and comfy spot just for you. This is a tiny room but hey it's got a 40" flat screen. This room is perfect for the budget traveler who only needs that one night in Denver before heading out of town. The Man Cave is off our back deck, is well insulated and has great dark curtains so the Colorado sunshine won't wake you. The half bath is located inside another door but here is the catch--You have to step outside for about 4 feet`,
     price: 35,
-    host_picture_url: "https://a0.muscache.com/im/pictures/baf7be7d-3db0-4f96-acc2-8ed32a78935d.jpg?aki_policy=profile_x_medium",
     smart_location: "Denver, CO",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -6774,6 +6844,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "921537e1c13860f7eff5e0e0537ea155f8d6dcd8",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 8.44,
     beds: 1,
@@ -6812,8 +6886,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/5152543/profile_pic/1384360449/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/5152543/profile_pic/1384360449/original.jpg?aki_policy=profile_small",
     description: `This fantastic backyard garden oasis has been completely remodeled and is available for rent by the night. Hardwood floors, AC unit, heater, full size bed with organic cotton mattress and 600 thread count Egyptian Cotton sheets. Fully equipped bathroom with shower, small closet and pedestal sink. Small refrigerator and microwave for your convenience. Free Wi-Fi! Enjoy a private entrance onto our beautiful 1/2 acre lot. Take in the fresh air while sitting in the Adirondack Chairs right outside your door or spend the day reveling in all that Austin has to offer. We are 2 1/2 miles from downtown Austin and the U.T. campus. There is a bus stop just a short walk up the street or rent one of our bikes while you are here. Check-out time is 12:00 pm (noon) and check-in time is after 2:00 pm. No minimum stay. Rates START at $50 per night or $300 per week. Also available for rent by the month. Please look at calendar carefully as rates are subject to increase during festivals and other high t`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -6856,7 +6928,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 2,
     house_rules: `• Check-in time is 2PM. • Check-out time is 11AM. 1. We LOVE pets, but please leave yours at home. 2. Speaking of pets, please enjoy ours while you are here. 3. Smoking (cigarettes, folks; not the special stuff) is okay as long as it happens outside and not in the trailer. 4. Although we want you, the guests, to enjoy the trailer and our yard as much as you can, please ask us before inviting others to join you. 5. Stay up as late as you want, but please keep it quiet after 10 pm. We want our neighbors to continue liking us. :)`,
-    host_name: "Marcella",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -6866,6 +6937,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "533448361dd0a286fc63e61c58bfd3cd4dee4f4e",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 5.78,
     beds: 1,
@@ -6908,8 +6983,6 @@ mongoose
     review_scores_location: 9,
     review_scores_checkin: 9,
     instant_bookable: "False",
-    host_picture_url: "https://a0.muscache.com/im/users/704911/profile_pic/1308431316/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/704911/profile_pic/1308431316/original.jpg?aki_policy=profile_small",
     description: `Come and visit me in the wonderful Venice!Share with me a part of your holiday and enjoy your quite place just outside the crowded city!I have the airbnb app on my phone so don't worry I will quickly reply to you!!! You will have your own room with double bed for 2 guests & a private ensuite bathroom plus all the advices from a local host! Do you need a place to stay in Venice?Why an Hotel when you can have a room in an apartment where you can meet real local people and have a private bathroom??? Here you find a double room in a shared flat with me and a friendly welcome! You have your own private bathroom with air dryer! Wifi , towels and sheets included!!!!! No cleaning charge and no deposit needed!!!! YOU CAN FIND ME ON (SENSITIVE CONTENTS HIDDEN)!!! The apartment it's only 10 minutes by tram from Venice and you have the tram all day and all night long!!!! SUPER IMPORTANT CHECK IN IS FROM 1 TO 9 PM!!! Position: 10 minutes from Venice by tram 20 minutes from Mestre Train Station b`,
     review_scores_communication: 9,
     experiences_offered: "none",
@@ -6952,7 +7025,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 1,
     house_rules: `It's very important that you tell me your arrival time when you reserve the room and if you change your plan during your travel I need to know it! I work almost all day long so I have to manage your welcome home before your arrival day! I kindly ask you to be quite when you come back late night and don't slam the doors when you are home.`,
-    host_name: "Allegra",
     notes: `CHECK IN TIME IS FROM 1PM TO 9PM but I need to know your arrival time to manage your welcome. It is absolutely NOT POSSIBLE TO WAIT FOR YOU AFTER 9PM so please check your travel plan before making a reservation because I can't be flexible on the arrival time I work very early in the morning. CHECK OUT IS AT 11 AM`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -6962,6 +7034,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "8c30b54ad92d31512653934275270586ddf10c64",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 10,
     reviews_per_month: 10.3,
     beds: 1,
@@ -7003,8 +7079,6 @@ mongoose
     review_scores_location: 10,
     review_scores_checkin: 10,
     instant_bookable: "True",
-    host_picture_url: "https://a0.muscache.com/im/users/14083317/profile_pic/1400876777/original.jpg?aki_policy=profile_x_medium",
-    host_thumbnail_url: "https://a0.muscache.com/im/users/14083317/profile_pic/1400876777/original.jpg?aki_policy=profile_small",
     description: `Beautifully newly renovated bungalow loft apartment fully furnished with private entrance in hip historic east Nashville. The area is full of local coffee shops and award-winning restaurants, all within walking distance or a very short drive. Newly renovated, spacious loft apt, with 11' ceilings. Large space with a very comfortable queen bed, along with two night stands, a dresser with lots of drawer space, and a walk-in closet. There is a kitchenette with a Keurig coffee machine, microwave, toaster oven, small refrigerator, and a wine cooler. I will provide coffee, tea, filtered water, milk, and sugar for your coffee. Please feel free to help yourself to anything that's in the refrigerator. Guest/s will only have access to the apt. The apt. is private, with keyless entrance from the stairs on the side of the house. I respect the privacy of my guest/s. I will always be available to answer any questions through text or a phone call. I want to make your stay as enjoyable as possibl`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -7047,7 +7121,6 @@ mongoose
     guests_included: 1,
     host_total_listings_count: 2,
     house_rules: `No pets allowed. Although I love children my house is not childproof, I would not feel comfortable hosting small children. No smoking inside, but is allowed outside. Thank you.`,
-    host_name: "Merrilyn",
     room_type: "Entire home/apt",
     host_has_profile_pic: "True",
     host_acceptance_rate: "N/A",
@@ -7057,6 +7130,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "44ccc199d97e5b18de790045d1156cfd8a059728",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     reviews_per_month: 7.14,
     zipcode: "60647",
     medium_url: "https://a0.muscache.com/im/pictures/8321116/4c80f4a9_original.jpg?aki_policy=medium",
@@ -7081,7 +7158,6 @@ mongoose
     calendar_updated: "today",
     summary: `Your hideout in the City! Cozy, large garden apartment with exposed brick, comfortable amenities and a fun vibe. Completely private and a perfect, no-nonsense place to relax after enjoying the city and the electric Logan Square / Bucktown area.`,
     thumbnail_url: "https://a0.muscache.com/im/pictures/8321116/4c80f4a9_original.jpg?aki_policy=small",
-    host_name: "Jonathan",
     host_has_profile_pic: "True",
     listing_url: "https://www.airbnb.com/rooms/464581",
     neighbourhood_cleansed: "Logan Square",
@@ -7119,7 +7195,6 @@ mongoose
     host_identity_verified: "True",
     amenities: ["TV","Internet","Wireless Internet","Kitchen","Free Parking on Premises","Pets Allowed","Breakfast","Pets live on this property","Heating","Family/Kid Friendly","Smoke Detector","First Aid Kit","Fire Extinguisher","Essentials","Shampoo"],
     review_scores_location: 9,
-    host_thumbnail_url: "https://a0.muscache.com/im/pictures/5014b034-c9ec-42e0-b6c4-a5764c19ad8b.jpg?aki_policy=profile_small",
     instant_bookable: "True",
     experiences_offered: "none",
     host_about: `Hello everyone! I'm Jonathan and my friends JD, Ellen and Joey have been hosting on Airbnb for about 5 years. We are proud of our city and our apartments and really want you to have a fabulous time during your stay with us. We have attempted to create an easy low-key guest experience that really helps you feel like a local, plus providing the best bang for your buck, and and I hope we have achieved it!`,
@@ -7142,7 +7217,6 @@ mongoose
     house_rules: `Welcome! We hope you have a pleasant stay in our home. ***Please make sure you review the guidebook where we have left detailed notes on the best places in the neighborhood. We tried to focus on places that we can personally vouch for as well as places located within a 5-20 minute walk. Also please review the house guide located on the coffee table.*** Please note check in and check out times: **Check in: 2:00 PM (14:00)** **Check out: 11:00 AM** Important stuff you’ll need to know: 1) My friends Ellen and JD will be helping throughout your stay. Their complete contact info (as well as mine) is located in the house guide on the coffee table. Do not hesitate to call, text or email any of us if you run into problems or need advice with the neighborhood. 2) ACCESS. The apartment is equipped with a key box so we don't need to be around to let you in. One set of keys will be provided. We will send you a detailed welcome message with the physical keybox code shortly before your`,
     description: `Your hideout in the City! Cozy, large garden apartment with exposed brick, comfortable amenities and a fun vibe. Completely private and a perfect, no-nonsense place to relax after enjoying the city and the electric Logan Square / Bucktown area. Private, modern studio garden apartment in Logan Square. Features and amenities include: - 650 square feet (60 m²) - Minutes from the CTA Blue Line and ample nightlife - Well-lit modern interior with modest natural light, cool exposed brick - Large modern bathroom with large shower, sink, toilet and vanity - Galley kitchen with microwave, fridge, gas oven / range, electric hot water kettle, coffee maker and kitchen basics (plates, cups, knives, forks and basic pots and pans & utensils) - Queen size bed that sleeps two (medium firm mattress) - Convertible futon / sofa bed that sleeps two, extra bedding provided - Central heating and air conditioning along with a space heater for extra warmth in the wintertime - Air purifier - Free laundry -`,
     price: 55,
-    host_picture_url: "https://a0.muscache.com/im/pictures/5014b034-c9ec-42e0-b6c4-a5764c19ad8b.jpg?aki_policy=profile_x_medium",
     smart_location: "Chicago, IL",
     host_response_rate: "100%",
     bed_type: "Real Bed",
@@ -7155,6 +7229,10 @@ mongoose
     {
     datasetid: "airbnb-ratings",
     recordid: "07397765c9b9a76af0e0184f2f80f84c6ecdc985",
+    host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
+    owner: {
+        $oid: "5c11479fe7e8ee0016c27d29"
+    },
     review_scores_accuracy: 9,
     reviews_per_month: 9.45,
     beds: 1,
@@ -7196,7 +7274,6 @@ mongoose
     summary: `This cozy room has a comfortable bed, a private bathroom and your own entrance. Walkable to Downtown and the River Arts District. Very close to the Biltmore Estate and West Asheville. Easy parking. LGBTQ & straight friendly. Dogs too, w/ crate. (Read our pet policy below!)`,
     review_scores_checkin: 10,
     instant_bookable: "False",
-    host_picture_url: "https://a1.muscache.com/im/users/3552264/profile_pic/1404998311/original.jpg?aki_policy=profile_x_medium",
     description: `This cozy room has a comfortable bed, a private bathroom and your own entrance. Walkable to Downtown and the River Arts District. Very close to the Biltmore Estate and West Asheville. Easy parking. LGBTQ & straight friendly. Dogs too, w/ crate. (Read our pet policy below!) Simple, clean and comfy w/ queen-sized bed, private bath, good shower, fridge, coffee-maker, & wireless internet. Breakfast is on your own, but why eat in your room when Foodtopia awaits you? We are LGBTQ and straight friendly. Our home is an urban micro-farm in the making and a land partner in Patchwork Urban Farms. We are an easy walk or bike to the River Arts District (less than 1/2 mile) and Downtown (less than a mile). You can bike to West Asheville (less than 2 miles) or UNCA (about 3 miles). We're also really close to Biltmore Village and the entrance to the Biltmore Estate (less than 2 miles). Pet friendly for dogs with well-behaved humans (**see notes below re: dogs). We do ask that you be prepar`,
     review_scores_communication: 10,
     experiences_offered: "none",
@@ -7236,8 +7313,6 @@ mongoose
     require_guest_phone_verification: "False",
     guests_included: 1,
     host_total_listings_count: 1,
-    host_thumbnail_url: "https://a1.muscache.com/im/users/3552264/profile_pic/1404998311/original.jpg?aki_policy=profile_small",
-    host_name: "Michelle",
     notes: `I have a lovely housemate named Grace. Her room is also downstairs but in a different part of the house than this space. You might hear her go up and down the stairs or meet her in passing.`,
     host_has_profile_pic: "True",
     host_acceptance_rate: "100%",
