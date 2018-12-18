@@ -18,9 +18,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "f93ab68e53588af3a4ac110155960f1e701c4107",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 9.67,
     beds: 2,
@@ -113,9 +111,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "b3111306caaab99451a992608559fe3a0e37c44a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 9.16,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/dad26d0a-b33e-4535-bfce-ef3f36bce041.jpg?aki_policy=medium",
@@ -215,9 +211,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "6633d608921ca4e80abecab4c23b0a3faac38e64",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.34,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/6ec59ac4-da28-417b-8e63-220b9b9317a7.jpg?aki_policy=medium",
@@ -315,9 +309,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "274ee0d7677ea31a10666a23d9c094fa3917d2c7",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 12.7,
     beds: 3,
@@ -411,9 +403,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "13138fb6eebe699bed9be7e9d1e7f38556049839",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.84,
     beds: 1,
@@ -508,9 +498,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "464379b784654eb940bd002c2e263d5392f4722b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.46,
     calendar_last_scraped: "2017-09-14",
     medium_url: "https://a0.muscache.com/im/pictures/9691ec39-5362-4098-8a80-37efb3c2000c.jpg?aki_policy=medium",
@@ -606,9 +594,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "ef86aad76fff9484147f2d6ffcc85a2df308adec",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.56,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/8037338/b11427ee_original.jpg?aki_policy=medium",
@@ -706,9 +692,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "4e055513adce4c6b654a68e6f3114894aa8cdf70",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.68,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/a519ea4c-8bb1-45bb-9e04-0ef53b8fcefa.jpg?aki_policy=medium",
@@ -806,9 +790,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "9c6aa8564a9395195875f9e346adbe453a459508",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.28,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/80811/7a57d0e7_original.jpg?aki_policy=medium",
@@ -907,9 +889,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "d76bf6dc538681570e582d95366173e632587b69",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 4.91,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/110931/30991c66_original.jpg?aki_policy=medium",
@@ -1008,9 +988,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "c7d1da46e6e9e9a05a93926423893234e9fb3704",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 11.94,
     beds: 2,
@@ -1105,9 +1083,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "1f5c50e70618d140131cc44543abcd533d14b838",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 5.68,
     beds: 1,
@@ -1200,9 +1176,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "e47d92d10cc67e969ba9d48ed83e7b9e892a64e8",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 9.93,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/24604852/d5c3d6ca_original.jpg?aki_policy=medium",
@@ -1301,9 +1275,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "4266a702d7cf0ce316eeef28846723f17357c650",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.08,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/1eb1ad0f-87e6-4b2c-b60b-1e35cafd9035.jpg?aki_policy=medium",
@@ -1401,9 +1373,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "d7ba1fe9d38572dc17a8ecb2e7830cd7703e2c44",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.14,
     beds: 1,
@@ -1496,9 +1466,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "eb9ac9ff662a1930246b06ef4623bae6ae3d254b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 9.59,
     beds: 1,
@@ -1592,9 +1560,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "e9798a6b20fad1e7f3e80a5a5a68bec4d032f5d5",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.68,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/ba3acad4-5bcd-4281-adb1-e180899fe738.jpg?aki_policy=medium",
@@ -1689,9 +1655,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "3415cc999d8da8f6cafd53d33797f1c7e426f58c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.69,
     zipcode: "75011",
     medium_url: "https://a0.muscache.com/im/pictures/8120872/41612baa_original.jpg?aki_policy=medium",
@@ -1786,9 +1750,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "828d5b0e9f0c09ca7d9c7dc07ca8bc68063e8c69",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.05,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/11408728/8881f26b_original.jpg?aki_policy=medium",
@@ -1883,9 +1845,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "0c93a5db89de32f6296d0e56a01a8aca44c9a10d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.77,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/441663/3b89dea1_original.jpg?aki_policy=medium",
@@ -1984,9 +1944,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "d5380e15008649a56d595a90e113f80fa433444b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 6.21,
     beds: 1,
@@ -2079,9 +2037,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "eb82a0cc66bd0b29b91f0fa64b23444a18616690",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.61,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/546799/92f5004e_original.jpg?aki_policy=medium",
@@ -2179,9 +2135,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "b97a1efdf3a9f8dddfee48ab44f0e0ea80cf683a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.6,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/9978162/079c36f4_original.jpg?aki_policy=medium",
@@ -2278,9 +2232,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "715c7f4fe5764566b10c3074f9733b9ed1f714ef",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.98,
     beds: 1,
@@ -2374,9 +2326,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "8c00e2f2fb95c459fe535f3cb767366c8a6fb450",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.81,
     zipcode: "97202",
     medium_url: "https://a0.muscache.com/im/pictures/75b01ebf-a14b-4838-a4de-798b5ecbcdb7.jpg?aki_policy=medium",
@@ -2471,9 +2421,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "ff8224ada84e9799bf92ee1c3bef4bd8f8343971",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 7.68,
     beds: 1,
@@ -2567,9 +2515,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "8eb5faac94012757afacba5b6837b60d36731f67",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 7.18,
     beds: 1,
@@ -2664,9 +2610,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "61f6711fec0d95f863fbe9a364d2048f9a9d1174",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.03,
     zipcode: "20002",
     medium_url: "https://a0.muscache.com/im/pictures/2899982/0ec4fc85_original.jpg?aki_policy=medium",
@@ -2761,9 +2705,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "914b1c827d4df53ee99b72b5b0004b44aecf5f94",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 10.12,
     beds: 1,
@@ -2857,9 +2799,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "fd07b308315bc4f997346e21ec7b5cb9e7e4b7c0",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.32,
     calendar_last_scraped: "2017-10-03",
     medium_url: "https://a0.muscache.com/im/pictures/58558127/28d0172d_original.jpg?aki_policy=medium",
@@ -2956,9 +2896,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "e42793a9786e227fdff095514a3785fbd066e066",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.53,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/34000462/fcfc4ead_original.jpg?aki_policy=medium",
@@ -3055,9 +2993,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "d931ad9d3c8992abf77256cd185dce07da989412",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.52,
     zipcode: "20001",
     medium_url: "https://a0.muscache.com/im/pictures/11534310/47d4567a_original.jpg?aki_policy=medium",
@@ -3152,9 +3088,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "15ce9dbbc63f044214b3edee97f0a55cc1d0c77f",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.6,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/5012d40e-d326-40a3-8819-3b5832d1fe5f.jpg?aki_policy=medium",
@@ -3252,9 +3186,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "7345b2a9f5638ed4f0858931ba40ab457a312e11",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 9.06,
     calendar_last_scraped: "2017-09-18",
     medium_url: "https://a0.muscache.com/im/pictures/20558070/09ede304_original.jpg?aki_policy=medium",
@@ -3351,9 +3283,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "e7a98adaad246cc60b6c7f6abcfa5f01fb6ca25a",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.17,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/14557404/13e38338_original.jpg?aki_policy=medium",
@@ -3450,9 +3380,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "3212afe05cbcb4cfc4bdf0d8c92d439ce3bf36be",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 6.7,
     beds: 2,
@@ -3547,9 +3475,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "29987092781ae61e12f4faff2f58ed5c19d934cd",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.32,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/2783044/c37370dd_original.jpg?aki_policy=medium",
@@ -3646,9 +3572,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "647fbf16f96bd6d5c9e68d24301a921615e5cbcf",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 7.13,
     beds: 1,
@@ -3739,9 +3663,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "edb9fa9ccfecbee6c21e2815fa9fb73c2fbdd4c2",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.99,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/b39e91a7-f5dd-4b47-9ef9-3ab558b28a76.jpg?aki_policy=medium",
@@ -3837,9 +3759,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "44737d62d55b18a0f755508da015baa8e7d1ba5d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.16,
     zipcode: "M5A 3E8",
     medium_url: "https://a0.muscache.com/im/pictures/109607512/034b753a_original.jpg?aki_policy=medium",
@@ -3935,9 +3855,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "92652d026adb646e9e7933d5bf27fce751c8c117",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 8.66,
     beds: 1,
@@ -4026,9 +3944,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "fd52085ffb9c8cf4ddccbe5fbad48648c2c82374",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.54,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/15730517/d452a711_original.jpg?aki_policy=medium",
@@ -4123,9 +4039,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "0ac8bec15585f9550bdbb02be58242e27bee7108",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.18,
     zipcode: "28004",
     medium_url: "https://a0.muscache.com/im/pictures/756652/35f49b02_original.jpg?aki_policy=medium",
@@ -4222,9 +4136,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "779f333a878b509335695e03671c7aabd5f6dfe0",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.01,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/c1686c33-4efa-4010-9c60-38ee01d76514.jpg?aki_policy=medium",
@@ -4325,9 +4237,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "054a7f6d7fb7cf6aaa500700e2109d3299a24602",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 7.94,
     beds: 1,
@@ -4415,9 +4325,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "94d10d0cb43224de3b3a580c398c6e74b79653cd",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.42,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/15730122/18c5e90e_original.jpg?aki_policy=medium",
@@ -4512,9 +4420,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "7e6d3cf114915c801e70f9acfe53d8a96f2a2614",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.79,
     beds: 1,
@@ -4604,9 +4510,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "793d1ba85c2b35d0f7a6b7f74cbf99e989693c77",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.46,
     zipcode: "75011",
     medium_url: "https://a0.muscache.com/im/pictures/12182637/8484fea8_original.jpg?aki_policy=medium",
@@ -4701,9 +4605,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "21feb56dee0b227223d3fc8062d52f633da2c161",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.9,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/8680583/f5936270_original.jpg?aki_policy=medium",
@@ -4802,9 +4704,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "48598c1c477c27376b53fd5d6e2479a5c5bfcdd2",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.33,
     zipcode: "70116",
     medium_url: "https://a0.muscache.com/im/pictures/28338537/321e1b4f_original.jpg?aki_policy=medium",
@@ -4900,9 +4800,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "5535eec401acea099b19299fbed2ae38919dab5d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.55,
     calendar_last_scraped: "2017-09-18",
     medium_url: "https://a0.muscache.com/im/pictures/20564843/e58561ef_original.jpg?aki_policy=medium",
@@ -4999,9 +4897,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "1c1f40719cfaa91ba5c5b276e4b24e901aa80daa",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 4.92,
     beds: 2,
@@ -5091,9 +4987,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "144ca539b84a00589ee85ecc5a1c20def4a9546b",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.35,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/77993533/a543fcb3_original.jpg?aki_policy=medium",
@@ -5189,9 +5083,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "df13743cb690a7ba852f24af4be43005baed508d",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 9.57,
     zipcode: "90291",
     medium_url: "https://a0.muscache.com/im/pictures/22175002/3de3edf3_original.jpg?aki_policy=medium",
@@ -5286,9 +5178,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "adccebd878a127b73a1af8713a268bcf93345070",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 9.55,
     beds: 1,
@@ -5382,9 +5272,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "26c11755f72c4e3cf4355daba513f969a84ff723",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 6.44,
     beds: 1,
@@ -5478,9 +5366,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "b01c927970edeb0fc599125f40c9f5923a760740",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 8,
     reviews_per_month: 7.29,
     beds: 2,
@@ -5570,9 +5456,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "3316a9bf7dace22ec6a0123102663825bcb82f29",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.89,
     zipcode: "116 36",
     medium_url: "https://a0.muscache.com/im/pictures/18050268/e9ce12db_original.jpg?aki_policy=medium",
@@ -5668,9 +5552,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "7940e16a66ef7ff2bf3df91ff6b38e5bbe7cdc5c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.7,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/96887772/1054c57a_original.jpg?aki_policy=medium",
@@ -5768,9 +5650,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "b67f2670ec6cceb4d02083aefe890a397d20b854",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 11.23,
     zipcode: "90405",
     medium_url: "https://a0.muscache.com/im/pictures/34420579/5e9ded05_original.jpg?aki_policy=medium",
@@ -5865,9 +5745,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "f072ee1e084008b1622a2fa5ae748d902f7d7b38",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.57,
     calendar_last_scraped: "2017-09-14",
     medium_url: "https://a0.muscache.com/im/pictures/b4a7ff2b-9d2e-4795-b686-8b3be62cff01.jpg?aki_policy=medium",
@@ -5963,9 +5841,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "32df5e90310d97de20f70e9a3f28fdf7fdc43c41",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.41,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/821865/834a9766_original.jpg?aki_policy=medium",
@@ -6064,9 +5940,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "d0fcdd0e294940c90274cae73db02c87df431c07",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.65,
     calendar_last_scraped: "2017-10-02",
     medium_url: "https://a0.muscache.com/im/pictures/c508cf8c-c9e9-4375-9a10-2ef041eeca70.jpg?aki_policy=medium",
@@ -6161,9 +6035,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "b91366db8bc58cd4dbb2ae6a6cce87a66ef6249f",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.63,
     calendar_last_scraped: "2017-10-06",
     medium_url: "https://a0.muscache.com/im/pictures/5bc1db8d-090f-4e50-97b7-9e454670b1ef.jpg?aki_policy=medium",
@@ -6261,9 +6133,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "1b366b067e485c5fc6152d465c360292a2e54254",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.22,
     zipcode: "97210",
     medium_url: "https://a0.muscache.com/im/pictures/2132691/2503a10c_original.jpg?aki_policy=medium",
@@ -6359,9 +6229,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "a691ed22169709fb0b24e1529be35498cc1ff46c",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.88,
     beds: 1,
@@ -6449,9 +6317,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "9a5589cdcfa0aaa5fc5c68db339b34b9d1fffacf",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 9.32,
     beds: 4,
@@ -6546,9 +6412,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "74aed11ecba4cdf30ecbe141e3a15c0f9e04f9be",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 5.49,
     calendar_last_scraped: "2017-12-04",
     medium_url: "https://a0.muscache.com/im/pictures/46064330/db148936_original.jpg?aki_policy=medium",
@@ -6645,9 +6509,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "22ef44b5056a5ceccc4621ed87ff2f53f21a3889",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 6.07,
     zipcode: "08025",
     medium_url: "https://a0.muscache.com/im/pictures/28092239/cfe80023_original.jpg?aki_policy=medium",
@@ -6743,9 +6605,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "5f85e8ae81ed65efa0b3098404189cef6f4b7400",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 8.92,
     calendar_last_scraped: "2017-11-24",
     medium_url: "https://a0.muscache.com/im/pictures/a31df304-9763-4338-a32d-262d44a4d6cd.jpg?aki_policy=medium",
@@ -6845,9 +6705,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "921537e1c13860f7eff5e0e0537ea155f8d6dcd8",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 8.44,
     beds: 1,
@@ -6938,9 +6796,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "533448361dd0a286fc63e61c58bfd3cd4dee4f4e",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 5.78,
     beds: 1,
@@ -7035,9 +6891,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "8c30b54ad92d31512653934275270586ddf10c64",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 10,
     reviews_per_month: 10.3,
     beds: 1,
@@ -7131,9 +6985,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "44ccc199d97e5b18de790045d1156cfd8a059728",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     reviews_per_month: 7.14,
     zipcode: "60647",
     medium_url: "https://a0.muscache.com/im/pictures/8321116/4c80f4a9_original.jpg?aki_policy=medium",
@@ -7230,9 +7082,7 @@ mongoose
     datasetid: "airbnb-ratings",
     recordid: "07397765c9b9a76af0e0184f2f80f84c6ecdc985",
     host_picture_url: "https://res.cloudinary.com/ddru9vydn/image/upload/v1544638065/app-images/dbacjusdsx2fga2idxtr.png",
-    owner: {
-        id: "5c11479fe7e8ee0016c27d29"
-    },
+    owner: "5c11479fe7e8ee0016c27d29",
     review_scores_accuracy: 9,
     reviews_per_month: 9.45,
     beds: 1,
